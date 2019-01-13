@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nickyam.com/"/>
-  <updated>2019-01-13T02:21:41.280Z</updated>
+  <updated>2019-01-13T03:34:24.144Z</updated>
   <id>http://nickyam.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://nickyam.com/2019/01/13/hexo-generate-rss-atom/"/>
     <id>http://nickyam.com/2019/01/13/hexo-generate-rss-atom/</id>
     <published>2019-01-13T01:21:00.000Z</published>
-    <updated>2019-01-13T02:21:41.280Z</updated>
+    <updated>2019-01-13T03:34:24.144Z</updated>
     
     <content type="html"><![CDATA[<p>闲来无事，继续优化博客功能。之前觉得订阅就是个鸡肋，但是自从搞了站点地图以后，觉得少了这一个功能不太好，就依葫芦画瓢也安装一下。</p><ul><li>进入本地hexo目录，输入以下命令:</li></ul><figure class="highlight cmake"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> hexo-generator-feed</div></pre></td></tr></table></figure><ul><li>在博客目录的_config.yml中添加如下代码:</li></ul><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#RSS订阅</span></div><div class="line"><span class="symbol">plugin:</span></div><div class="line">- hexo-generator-feed</div><div class="line"><span class="meta">#Feed Atom</span></div><div class="line"><span class="symbol">feed:</span></div><div class="line"><span class="symbol">type:</span> atom</div><div class="line"><span class="symbol">path:</span> atom.xml</div><div class="line"><span class="symbol">limit:</span> <span class="number">20</span></div></pre></td></tr></table></figure><p>因为我使用的是Maupassant主题，已经集成了rss功能，所以设置到这一步就可以了。如果你的主题里面没有rss相关设置，也可以添加如下代码：<br><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">rss： /atom.<span class="built_in">xml</span></div></pre></td></tr></table></figure></p>]]></content>
     
