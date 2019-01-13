@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nickyam.com/"/>
-  <updated>2019-01-12T16:43:05.073Z</updated>
+  <updated>2019-01-13T02:21:41.280Z</updated>
   <id>http://nickyam.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo博客安装rss插件生成atom.xml文件</title>
+    <link href="http://nickyam.com/2019/01/13/hexo-generate-rss-atom/"/>
+    <id>http://nickyam.com/2019/01/13/hexo-generate-rss-atom/</id>
+    <published>2019-01-13T01:21:00.000Z</published>
+    <updated>2019-01-13T02:21:41.280Z</updated>
+    
+    <content type="html"><![CDATA[<p>闲来无事，继续优化博客功能。之前觉得订阅就是个鸡肋，但是自从搞了站点地图以后，觉得少了这一个功能不太好，就依葫芦画瓢也安装一下。</p><ul><li>进入本地hexo目录，输入以下命令:</li></ul><figure class="highlight cmake"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> hexo-generator-feed</div></pre></td></tr></table></figure><ul><li>在博客目录的_config.yml中添加如下代码:</li></ul><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#RSS订阅</span></div><div class="line"><span class="symbol">plugin:</span></div><div class="line">- hexo-generator-feed</div><div class="line"><span class="meta">#Feed Atom</span></div><div class="line"><span class="symbol">feed:</span></div><div class="line"><span class="symbol">type:</span> atom</div><div class="line"><span class="symbol">path:</span> atom.xml</div><div class="line"><span class="symbol">limit:</span> <span class="number">20</span></div></pre></td></tr></table></figure><p>因为我使用的是Maupassant主题，已经集成了rss功能，所以设置到这一步就可以了。如果你的主题里面没有rss相关设置，也可以添加如下代码：<br><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">rss： /atom.<span class="built_in">xml</span></div></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;闲来无事，继续优化博客功能。之前觉得订阅就是个鸡肋，但是自从搞了站点地图以后，觉得少了这一个功能不太好，就依葫芦画瓢也安装一下。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;进入本地hexo目录，输入以下命令:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight cmak
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Hexo" scheme="http://nickyam.com/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>京东到家订单bug及客服问题</title>
@@ -68,8 +97,8 @@
   
   <entry>
     <title>Hexo生成sitemap步骤及duplicated mapping key 问题解决</title>
-    <link href="http://nickyam.com/2018/12/31/hexo-generate-sitemap/"/>
-    <id>http://nickyam.com/2018/12/31/hexo-generate-sitemap/</id>
+    <link href="http://nickyam.com/2018/12/31/hexo-generate-sitemap%E7%9A%84%E5%89%AF%E6%9C%AC/"/>
+    <id>http://nickyam.com/2018/12/31/hexo-generate-sitemap的副本/</id>
     <published>2018-12-31T08:21:00.000Z</published>
     <updated>2019-01-13T01:59:28.138Z</updated>
     
@@ -503,32 +532,6 @@
     
     
       <category term="商业模式" scheme="http://nickyam.com/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>浦发AE白使用小记</title>
-    <link href="http://nickyam.com/2017/02/03/spdcreditcard/"/>
-    <id>http://nickyam.com/2017/02/03/spdcreditcard/</id>
-    <published>2017-02-03T15:34:23.000Z</published>
-    <updated>2017-02-16T15:50:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>以前，我对信用卡的理解很简单，仅仅是作为一个延期支付工具。虽然知道可以薅羊毛但是并不在意。春节前Z同事在支付宝申请浦发敬业福卡，我心血来潮也去围观了一下申请入口，然后灵光一现打算升级我手上的信用卡，最好能够申请到白金卡。在信用卡论坛浏览一番之后，我决定申请浦发AE白这张2016年的神卡，虽然现在申请已经有些晚了，不少活动已经截止。我想试一试，在浦发银行的眼里我是怎样一个信用水平，并且也慢慢的开始用信用卡薅一点羊毛，这也算是理财吧。</p></blockquote><h1 id="第一步：卡片申请"><a href="#第一步：卡片申请" class="headerlink" title="第一步：卡片申请"></a>第一步：卡片申请</h1><p>我之前从来没有在浦发银行开过户，也并不了解这家银行的信用卡。但是凭借着在支付宝的入口推出敬业福卡的行动，给我留下了不错的印象，这家银行应该是非常具有活力、敏锐的嗅觉以及执行力的机构。但是在支付宝页面，我没有找到申请ae白的入口。所以我直接在Mac上打开<a href="http://ccc.spdb.com.cn" target="_blank" rel="external">浦发信用卡中心网址</a>申请。具体网申步骤不再赘述，个人觉得，网申基本没有什么特别的，我想浦发主要会评估我的工作和之前办理的最高额度的信用卡吧。这两点，我还是很有自信的。</p><p>网申结束以后，我直接去查询办理进度，但是竟然显示无记录。我对浦发的第一印象稍稍下降了一些。论坛里不少人说应该是被秒拒了吧。我当时觉得我申请的时点是春节前四天，可能效率的确会低一些。不过没有想到的是第二天临近中午的时候我就收到了短信，提示我审批通过，马上就寄出来了😀</p><p>不过因为我填写的地址是工作地点，所以春节的时候没有寄到，知道春节放假回来的第一天。</p><h1 id="第二步：快递开箱"><a href="#第二步：快递开箱" class="headerlink" title="第二步：快递开箱"></a>第二步：快递开箱</h1><p>因为这是我的第一张真正意义上的白金卡（之前申请的中信i白金明显不是），所以当我从公司前台mm的手中接过顺丰那个沉甸甸的盒子的时候，还以为不是信用卡呢。白金卡的待遇这么不同，原来薄薄的一片纸真的很 low。</p><p>（最近加班，没空写）</p><p>（等到有空了，结果没有热情了，故本文烂尾😂）</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;以前，我对信用卡的理解很简单，仅仅是作为一个延期支付工具。虽然知道可以薅羊毛但是并不在意。春节前Z同事在支付宝申请浦发敬业福卡，我心血来潮也去围观了一下申请入口，然后灵光一现打算升级我手上的信用卡，最好能够申请到白金卡。在信用卡论坛浏览一番之后，我
-      
-    
-    </summary>
-    
-      <category term="生活" scheme="http://nickyam.com/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="信用卡" scheme="http://nickyam.com/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/"/>
     
   </entry>
   
