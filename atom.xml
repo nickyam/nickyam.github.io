@@ -94,32 +94,6 @@
   </entry>
   
   <entry>
-    <title>WordPress导出全静态化网站</title>
-    <link href="http://nickyam.com/2019/01/09/WordPress-Exports-Fully-Static-Websites/"/>
-    <id>http://nickyam.com/2019/01/09/WordPress-Exports-Fully-Static-Websites/</id>
-    <published>2019-01-09T12:19:00.000Z</published>
-    <updated>2019-01-17T14:58:51.399Z</updated>
-    
-    <content type="html"><![CDATA[<p>之前建站初入门的时候，一般都是Wordpress，一有问题网上基本都能找到解决方法，而且主题丰富且漂亮。但是因为Wordpress是动态网站页面，性能消耗较大，而作为个人博客，需要的只是一个完全静态的网站。</p><p>什么是静态网站？完全静态的网站只有html文件，对服务器资源消耗极低，可以免费托管在 Github Page 等。对于学生等个人站长而言，运行成本非常低。此外，静态网站安全性很好，几乎没有什么可攻击的漏洞，即使恶意访问量很大，静态网站也可以很好地支撑。所以不少站长选择从 Wordpress 转移到 静态网站。</p><p>那么，如何将一个 Wordpress 网站完全静态化呢？其实 Wordpress 给我们提供了很好的工具。</p><ul><li><p>文章页静态化：在Wordpress“设置”-“固定连接”里，将固定链接设置为“自定义结构”，文章的标题结尾增加.html。此时，目录和标签还是动态页面。</p></li><li><p>关闭评论功能，在“设置”-“讨论”里，选择“自动关闭发布1天后的文章上的评论功能”。</p></li><li><p>安装Simply Static插件生成静态网站。如果文章数量上千，则容易报错，原因是一般的网站服务器会在php上设置了超时和内存限制。可在本地搭建php环境，修改php超时时间和内存大小，例如对于Windows系统来说，可以选择安装<a href="https://www.bt.cn" target="_blank" rel="external">宝塔面板</a>，快速配置WAMP环境，修改环境里php超时时间和内存大小即可。</p></li><li><p>采用 WP2Static 插件。如果你对生成静态网站的时间要求较高，则简易采用该插件，修改Crawl Increment 的数量为100以上的数值。</p></li></ul><p>如果你有更好的插件或方法，也请通过 nickyam@163.com 告诉我，谢谢！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;之前建站初入门的时候，一般都是Wordpress，一有问题网上基本都能找到解决方法，而且主题丰富且漂亮。但是因为Wordpress是动态网站页面，性能消耗较大，而作为个人博客，需要的只是一个完全静态的网站。&lt;/p&gt;
-&lt;p&gt;什么是静态网站？完全静态的网站只有html文件，对服
-      
-    
-    </summary>
-    
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
-    
-    
-      <category term="Wordpress" scheme="http://nickyam.com/tags/Wordpress/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hexo博客添加腾讯404公益页面</title>
     <link href="http://nickyam.com/2019/01/01/hexo-add-tencent-404-page/"/>
     <id>http://nickyam.com/2019/01/01/hexo-add-tencent-404-page/</id>
@@ -191,6 +165,32 @@
     
     
       <category term="苹果" scheme="http://nickyam.com/tags/%E8%8B%B9%E6%9E%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐WordPress插件导出静态网站</title>
+    <link href="http://nickyam.com/2018/11/09/WordPress-Exports-Fully-Static-Websites/"/>
+    <id>http://nickyam.com/2018/11/09/WordPress-Exports-Fully-Static-Websites/</id>
+    <published>2018-11-09T12:19:00.000Z</published>
+    <updated>2019-01-17T15:04:11.047Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前建站初入门的时候，一般都是Wordpress，一有问题网上基本都能找到解决方法，而且主题丰富且漂亮。但是因为Wordpress是动态网站页面，性能消耗较大，而作为个人博客，需要的只是一个完全静态的网站。</p><p>什么是静态网站？完全静态的网站只有html文件，对服务器资源消耗极低，可以免费托管在 Github Page 等。对于学生等个人站长而言，运行成本非常低。此外，静态网站安全性很好，几乎没有什么可攻击的漏洞，即使恶意访问量很大，静态网站也可以很好地支撑。所以不少站长选择从 Wordpress 转移到 静态网站。</p><p>那么，如何将一个 Wordpress 网站完全静态化呢？其实 Wordpress 给我们提供了很好的工具。</p><ul><li><p>文章页静态化：在Wordpress“设置”-“固定连接”里，将固定链接设置为“自定义结构”，文章的标题结尾增加.html。此时，目录和标签还是动态页面。</p></li><li><p>关闭评论功能，在“设置”-“讨论”里，选择“自动关闭发布1天后的文章上的评论功能”。</p></li><li><p>安装Simply Static插件生成静态网站。如果文章数量上千，则容易报错，原因是一般的网站服务器会在php上设置了超时和内存限制。可在本地搭建php环境，修改php超时时间和内存大小，例如对于Windows系统来说，可以选择安装<a href="https://www.bt.cn" target="_blank" rel="external">宝塔面板</a>，快速配置WAMP环境，修改环境里php超时时间和内存大小即可。</p></li><li><p>采用 WP2Static 插件。如果你对生成静态网站的时间要求较高，则建议采用该插件，并修改Crawl Increment 的数量为100以上的数值。</p></li></ul><p>如果你有更好的插件或方法，也请通过 <a href="mailto:nickyam@163.com" target="_blank" rel="external">nickyam@163.com</a> 告诉我，谢谢！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前建站初入门的时候，一般都是Wordpress，一有问题网上基本都能找到解决方法，而且主题丰富且漂亮。但是因为Wordpress是动态网站页面，性能消耗较大，而作为个人博客，需要的只是一个完全静态的网站。&lt;/p&gt;
+&lt;p&gt;什么是静态网站？完全静态的网站只有html文件，对服
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Wordpress" scheme="http://nickyam.com/tags/Wordpress/"/>
     
   </entry>
   
