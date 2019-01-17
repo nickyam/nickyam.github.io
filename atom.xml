@@ -5,9 +5,9 @@
   <subtitle>黑而不暗，生而为赢</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://nickyam.com/"/>
+  <link href="https://www.nickyam.com/"/>
   <updated>2019-01-13T03:59:33.372Z</updated>
-  <id>http://nickyam.com/</id>
+  <id>https://www.nickyam.com/</id>
   
   <author>
     <name>Nick Yam</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo博客安装rss插件生成atom.xml文件</title>
-    <link href="http://nickyam.com/2019/01/13/hexo-generate-rss-atom/"/>
-    <id>http://nickyam.com/2019/01/13/hexo-generate-rss-atom/</id>
+    <link href="https://www.nickyam.com/2019/01/13/hexo-generate-rss-atom/"/>
+    <id>https://www.nickyam.com/2019/01/13/hexo-generate-rss-atom/</id>
     <published>2019-01-13T01:21:00.000Z</published>
     <updated>2019-01-13T03:59:33.372Z</updated>
     
@@ -36,21 +36,21 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="Hexo" scheme="http://nickyam.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>京东到家订单bug及客服问题</title>
-    <link href="http://nickyam.com/2019/01/12/jd-service-bad/"/>
-    <id>http://nickyam.com/2019/01/12/jd-service-bad/</id>
+    <link href="https://www.nickyam.com/2019/01/12/jd-service-bad/"/>
+    <id>https://www.nickyam.com/2019/01/12/jd-service-bad/</id>
     <published>2019-01-12T11:21:00.000Z</published>
     <updated>2019-01-12T16:43:05.073Z</updated>
     
-    <content type="html"><![CDATA[<p>刘强东明尼苏达事件后，不少人抵制京东的时候，我直言自己离不开京东到家的服务。自从有了京东到家，我节省了买菜的事件以及买大件的负重。因此，我还把这个服务介绍给父母，妈妈终于也接受了这种新的买菜方式，而不是一定要去现场实地采购。我也尝尝感叹，为什么马云搞了盒马鲜生，但是却没有搞京东到家这样的服务。</p><p>今天早上8点半，我在京东到家下单，app 显示9点超市可以准备商品，10点50分之前一定送到。但是一直到11点，仍然显示商品准备中。我给超市打电话，但是一直没有打通。所以我就在app上找客服，客服说马上帮我催商家。我还是比较信任京东，所以就又等了1小时。但是物流信息仍然没有变化。我第二次催客服的时候，系统随机换了一个客服，说再次帮我催了。然后就等到了1点钟。我再次打电话给超市，超市告诉我他们收到订单了，但是没有订单号等信息，没办法准备。我再次联系客服，客服说他们是在系统上催的。我无语了，第一次的时候你可以在系统上点个按钮催，但是第二次的时候总要更加积极的联系吧。我说这个事情怎么办，客服说让我留下电话号码，48小时有专员会联系我。最后我取消了订单。</p><p>从今天的事情中，我了解到，虽然app上能够操作，但是最好还是在超市营业时间内下单更加有保障。超市如果收到订单信息，应该还是会作为的。但是京东到家作为联系消费者和商家的平台，作用很小。从我的联系过程中，客服频繁更换、信息频繁提供、机械催单重复操作、最后解决需要48小时（可能也只是一个推脱），完全和京东到家的时效性不匹配。这让我想起了之前我用了一年全款退蜂窝板的 Apple watch 的客服联系及后续流程、<a href="http://www.nickyam.com/2018/12/29/appstore-refund/" target="_blank" rel="external">AppStore 退款事件</a>等苹果的服务，简直天壤之别。可能这几天苹果产品降价闹得沸沸扬扬，但是我还是相信苹果的整体服务还是具有较强的竞争力，国内企业都需要学习。</p><p>最后，我1点多在饿了么买的生鲜，实际上比京东到家更加优惠，质量也挺不错。而且在寻找过程中，我发现美团也有类似的生鲜服务。所以从现在开始，我能不用京东就不用京东了，市面上的替代产品也会越来越好。</p>]]></content>
+    <content type="html"><![CDATA[<p>刘强东明尼苏达事件后，不少人抵制京东的时候，我直言自己离不开京东到家的服务。自从有了京东到家，我节省了买菜的事件以及买大件的负重。因此，我还把这个服务介绍给父母，妈妈终于也接受了这种新的买菜方式，而不是一定要去现场实地采购。我也尝尝感叹，为什么马云搞了盒马鲜生，但是却没有搞京东到家这样的服务。</p><p>今天早上8点半，我在京东到家下单，app 显示9点超市可以准备商品，10点50分之前一定送到。但是一直到11点，仍然显示商品准备中。我给超市打电话，但是一直没有打通。所以我就在app上找客服，客服说马上帮我催商家。我还是比较信任京东，所以就又等了1小时。但是物流信息仍然没有变化。我第二次催客服的时候，系统随机换了一个客服，说再次帮我催了。然后就等到了1点钟。我再次打电话给超市，超市告诉我他们收到订单了，但是没有订单号等信息，没办法准备。我再次联系客服，客服说他们是在系统上催的。我无语了，第一次的时候你可以在系统上点个按钮催，但是第二次的时候总要更加积极的联系吧。我说这个事情怎么办，客服说让我留下电话号码，48小时有专员会联系我。最后我取消了订单。</p><p>从今天的事情中，我了解到，虽然app上能够操作，但是最好还是在超市营业时间内下单更加有保障。超市如果收到订单信息，应该还是会作为的。但是京东到家作为联系消费者和商家的平台，作用很小。从我的联系过程中，客服频繁更换、信息频繁提供、机械催单重复操作、最后解决需要48小时（可能也只是一个推脱），完全和京东到家的时效性不匹配。这让我想起了之前我用了一年全款退蜂窝板的 Apple watch 的客服联系及后续流程、<a href="http://www.nickyam.com/2018/12/29/appstore-refund/">AppStore 退款事件</a>等苹果的服务，简直天壤之别。可能这几天苹果产品降价闹得沸沸扬扬，但是我还是相信苹果的整体服务还是具有较强的竞争力，国内企业都需要学习。</p><p>最后，我1点多在饿了么买的生鲜，实际上比京东到家更加优惠，质量也挺不错。而且在寻找过程中，我发现美团也有类似的生鲜服务。所以从现在开始，我能不用京东就不用京东了，市面上的替代产品也会越来越好。</p>]]></content>
     
     <summary type="html">
     
@@ -61,17 +61,17 @@
     
     </summary>
     
-      <category term="生活" scheme="http://nickyam.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://www.nickyam.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="京东" scheme="http://nickyam.com/tags/%E4%BA%AC%E4%B8%9C/"/>
+      <category term="京东" scheme="https://www.nickyam.com/tags/%E4%BA%AC%E4%B8%9C/"/>
     
   </entry>
   
   <entry>
     <title>Hexo博客maupassant主题添加Google Adsense广告</title>
-    <link href="http://nickyam.com/2019/01/12/hexo-set-google-adsense/"/>
-    <id>http://nickyam.com/2019/01/12/hexo-set-google-adsense/</id>
+    <link href="https://www.nickyam.com/2019/01/12/hexo-set-google-adsense/"/>
+    <id>https://www.nickyam.com/2019/01/12/hexo-set-google-adsense/</id>
     <published>2019-01-12T07:21:00.000Z</published>
     <updated>2019-01-12T14:23:26.150Z</updated>
     
@@ -86,17 +86,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="Hexo" scheme="http://nickyam.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hexo博客添加腾讯404公益页面</title>
-    <link href="http://nickyam.com/2019/01/01/hexo-add-tencent-404-page/"/>
-    <id>http://nickyam.com/2019/01/01/hexo-add-tencent-404-page/</id>
+    <link href="https://www.nickyam.com/2019/01/01/hexo-add-tencent-404-page/"/>
+    <id>https://www.nickyam.com/2019/01/01/hexo-add-tencent-404-page/</id>
     <published>2019-01-01T11:19:00.000Z</published>
     <updated>2019-01-13T13:06:11.072Z</updated>
     
@@ -111,17 +111,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="Hexo" scheme="http://nickyam.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hexo生成sitemap步骤及duplicated mapping key 问题解决</title>
-    <link href="http://nickyam.com/2018/12/31/hexo-generate-sitemap/"/>
-    <id>http://nickyam.com/2018/12/31/hexo-generate-sitemap/</id>
+    <link href="https://www.nickyam.com/2018/12/31/hexo-generate-sitemap/"/>
+    <id>https://www.nickyam.com/2018/12/31/hexo-generate-sitemap/</id>
     <published>2018-12-31T08:21:00.000Z</published>
     <updated>2019-01-13T01:59:28.138Z</updated>
     
@@ -136,17 +136,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="Hexo" scheme="http://nickyam.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Appstore误点内购服务申请退款成功</title>
-    <link href="http://nickyam.com/2018/12/29/appstore-refund/"/>
-    <id>http://nickyam.com/2018/12/29/appstore-refund/</id>
+    <link href="https://www.nickyam.com/2018/12/29/appstore-refund/"/>
+    <id>https://www.nickyam.com/2018/12/29/appstore-refund/</id>
     <published>2018-12-29T12:21:00.000Z</published>
     <updated>2019-01-12T16:40:13.311Z</updated>
     
@@ -161,17 +161,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="苹果" scheme="http://nickyam.com/tags/%E8%8B%B9%E6%9E%9C/"/>
+      <category term="苹果" scheme="https://www.nickyam.com/tags/%E8%8B%B9%E6%9E%9C/"/>
     
   </entry>
   
   <entry>
     <title>推荐WordPress插件导出静态网站</title>
-    <link href="http://nickyam.com/2018/11/09/WordPress-Exports-Fully-Static-Websites/"/>
-    <id>http://nickyam.com/2018/11/09/WordPress-Exports-Fully-Static-Websites/</id>
+    <link href="https://www.nickyam.com/2018/11/09/WordPress-Exports-Fully-Static-Websites/"/>
+    <id>https://www.nickyam.com/2018/11/09/WordPress-Exports-Fully-Static-Websites/</id>
     <published>2018-11-09T12:19:00.000Z</published>
     <updated>2019-01-17T15:04:11.047Z</updated>
     
@@ -187,17 +187,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="Wordpress" scheme="http://nickyam.com/tags/Wordpress/"/>
+      <category term="Wordpress" scheme="https://www.nickyam.com/tags/Wordpress/"/>
     
   </entry>
   
   <entry>
     <title>浅谈互联网信息的负面化演进</title>
-    <link href="http://nickyam.com/2018/09/07/The-negative-evolution-of-information-on-Internet/"/>
-    <id>http://nickyam.com/2018/09/07/The-negative-evolution-of-information-on-Internet/</id>
+    <link href="https://www.nickyam.com/2018/09/07/The-negative-evolution-of-information-on-Internet/"/>
+    <id>https://www.nickyam.com/2018/09/07/The-negative-evolution-of-information-on-Internet/</id>
     <published>2018-09-07T14:41:04.000Z</published>
     <updated>2018-09-07T15:45:01.282Z</updated>
     
@@ -212,17 +212,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="网络" scheme="http://nickyam.com/tags/%E7%BD%91%E7%BB%9C/"/>
+      <category term="网络" scheme="https://www.nickyam.com/tags/%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title>博客域名升级 Https</title>
-    <link href="http://nickyam.com/2018/05/14/blog-update-to-https/"/>
-    <id>http://nickyam.com/2018/05/14/blog-update-to-https/</id>
+    <link href="https://www.nickyam.com/2018/05/14/blog-update-to-https/"/>
+    <id>https://www.nickyam.com/2018/05/14/blog-update-to-https/</id>
     <published>2018-05-14T11:21:00.000Z</published>
     <updated>2019-01-13T00:44:51.169Z</updated>
     
@@ -238,17 +238,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="GitHub" scheme="http://nickyam.com/tags/GitHub/"/>
+      <category term="GitHub" scheme="https://www.nickyam.com/tags/GitHub/"/>
     
   </entry>
   
   <entry>
     <title>大悲咒</title>
-    <link href="http://nickyam.com/2018/05/12/Incantations-of-the-Great-Mercy/"/>
-    <id>http://nickyam.com/2018/05/12/Incantations-of-the-Great-Mercy/</id>
+    <link href="https://www.nickyam.com/2018/05/12/Incantations-of-the-Great-Mercy/"/>
+    <id>https://www.nickyam.com/2018/05/12/Incantations-of-the-Great-Mercy/</id>
     <published>2018-05-12T11:19:00.000Z</published>
     <updated>2019-01-17T14:29:27.279Z</updated>
     
@@ -266,17 +266,17 @@
     
     </summary>
     
-      <category term="宗教" scheme="http://nickyam.com/categories/%E5%AE%97%E6%95%99/"/>
+      <category term="宗教" scheme="https://www.nickyam.com/categories/%E5%AE%97%E6%95%99/"/>
     
     
-      <category term="佛教" scheme="http://nickyam.com/tags/%E4%BD%9B%E6%95%99/"/>
+      <category term="佛教" scheme="https://www.nickyam.com/tags/%E4%BD%9B%E6%95%99/"/>
     
   </entry>
   
   <entry>
     <title>怎么卖好中签的新股</title>
-    <link href="http://nickyam.com/2017/09/18/stockback/"/>
-    <id>http://nickyam.com/2017/09/18/stockback/</id>
+    <link href="https://www.nickyam.com/2017/09/18/stockback/"/>
+    <id>https://www.nickyam.com/2017/09/18/stockback/</id>
     <published>2017-09-18T15:48:22.000Z</published>
     <updated>2017-09-18T16:51:40.960Z</updated>
     
@@ -291,17 +291,17 @@
     
     </summary>
     
-      <category term="投资" scheme="http://nickyam.com/categories/%E6%8A%95%E8%B5%84/"/>
+      <category term="投资" scheme="https://www.nickyam.com/categories/%E6%8A%95%E8%B5%84/"/>
     
     
-      <category term="股票" scheme="http://nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
+      <category term="股票" scheme="https://www.nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
     
   </entry>
   
   <entry>
     <title>secd进程导致Mac卡机的简单处理</title>
-    <link href="http://nickyam.com/2017/07/23/secd/"/>
-    <id>http://nickyam.com/2017/07/23/secd/</id>
+    <link href="https://www.nickyam.com/2017/07/23/secd/"/>
+    <id>https://www.nickyam.com/2017/07/23/secd/</id>
     <published>2017-07-23T07:21:00.000Z</published>
     <updated>2017-07-23T07:37:48.557Z</updated>
     
@@ -316,17 +316,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="Mac" scheme="http://nickyam.com/tags/Mac/"/>
+      <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
     
   </entry>
   
   <entry>
     <title>《真实的人类》随感</title>
-    <link href="http://nickyam.com/2017/07/20/Realhumans/"/>
-    <id>http://nickyam.com/2017/07/20/Realhumans/</id>
+    <link href="https://www.nickyam.com/2017/07/20/Realhumans/"/>
+    <id>https://www.nickyam.com/2017/07/20/Realhumans/</id>
     <published>2017-07-19T16:17:01.000Z</published>
     <updated>2017-07-19T16:20:05.630Z</updated>
     
@@ -344,17 +344,17 @@
     
     </summary>
     
-      <category term="影评" scheme="http://nickyam.com/categories/%E5%BD%B1%E8%AF%84/"/>
+      <category term="影评" scheme="https://www.nickyam.com/categories/%E5%BD%B1%E8%AF%84/"/>
     
     
-      <category term="科幻" scheme="http://nickyam.com/tags/%E7%A7%91%E5%B9%BB/"/>
+      <category term="科幻" scheme="https://www.nickyam.com/tags/%E7%A7%91%E5%B9%BB/"/>
     
   </entry>
   
   <entry>
     <title>VPN就和吃喝拉撒一样重要</title>
-    <link href="http://nickyam.com/2017/07/06/vpn-on-ios/"/>
-    <id>http://nickyam.com/2017/07/06/vpn-on-ios/</id>
+    <link href="https://www.nickyam.com/2017/07/06/vpn-on-ios/"/>
+    <id>https://www.nickyam.com/2017/07/06/vpn-on-ios/</id>
     <published>2017-07-06T15:17:29.000Z</published>
     <updated>2017-07-06T15:32:12.216Z</updated>
     
@@ -374,17 +374,17 @@
     
     </summary>
     
-      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="VPN" scheme="http://nickyam.com/tags/VPN/"/>
+      <category term="VPN" scheme="https://www.nickyam.com/tags/VPN/"/>
     
   </entry>
   
   <entry>
     <title>网络犯罪调查第二季观影笔记</title>
-    <link href="http://nickyam.com/2017/07/03/csi-cyber/"/>
-    <id>http://nickyam.com/2017/07/03/csi-cyber/</id>
+    <link href="https://www.nickyam.com/2017/07/03/csi-cyber/"/>
+    <id>https://www.nickyam.com/2017/07/03/csi-cyber/</id>
     <published>2017-07-03T14:32:26.000Z</published>
     <updated>2017-07-05T16:09:24.872Z</updated>
     
@@ -400,17 +400,17 @@
     
     </summary>
     
-      <category term="娱乐" scheme="http://nickyam.com/categories/%E5%A8%B1%E4%B9%90/"/>
+      <category term="娱乐" scheme="https://www.nickyam.com/categories/%E5%A8%B1%E4%B9%90/"/>
     
     
-      <category term="美剧" scheme="http://nickyam.com/tags/%E7%BE%8E%E5%89%A7/"/>
+      <category term="美剧" scheme="https://www.nickyam.com/tags/%E7%BE%8E%E5%89%A7/"/>
     
   </entry>
   
   <entry>
     <title>六月复盘</title>
-    <link href="http://nickyam.com/2017/06/16/stock-201706/"/>
-    <id>http://nickyam.com/2017/06/16/stock-201706/</id>
+    <link href="https://www.nickyam.com/2017/06/16/stock-201706/"/>
+    <id>https://www.nickyam.com/2017/06/16/stock-201706/</id>
     <published>2017-06-15T16:22:06.000Z</published>
     <updated>2017-06-22T17:18:23.000Z</updated>
     
@@ -425,17 +425,17 @@
     
     </summary>
     
-      <category term="投资" scheme="http://nickyam.com/categories/%E6%8A%95%E8%B5%84/"/>
+      <category term="投资" scheme="https://www.nickyam.com/categories/%E6%8A%95%E8%B5%84/"/>
     
     
-      <category term="股票" scheme="http://nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
+      <category term="股票" scheme="https://www.nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
     
   </entry>
   
   <entry>
     <title>错过一只猫</title>
-    <link href="http://nickyam.com/2017/05/28/the-story-of-cat/"/>
-    <id>http://nickyam.com/2017/05/28/the-story-of-cat/</id>
+    <link href="https://www.nickyam.com/2017/05/28/the-story-of-cat/"/>
+    <id>https://www.nickyam.com/2017/05/28/the-story-of-cat/</id>
     <published>2017-05-28T15:21:03.000Z</published>
     <updated>2017-06-03T15:25:43.000Z</updated>
     
@@ -451,17 +451,17 @@
     
     </summary>
     
-      <category term="生活" scheme="http://nickyam.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://www.nickyam.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="感情" scheme="http://nickyam.com/tags/%E6%84%9F%E6%83%85/"/>
+      <category term="感情" scheme="https://www.nickyam.com/tags/%E6%84%9F%E6%83%85/"/>
     
   </entry>
   
   <entry>
     <title>五月复盘</title>
-    <link href="http://nickyam.com/2017/05/26/stock-201705/"/>
-    <id>http://nickyam.com/2017/05/26/stock-201705/</id>
+    <link href="https://www.nickyam.com/2017/05/26/stock-201705/"/>
+    <id>https://www.nickyam.com/2017/05/26/stock-201705/</id>
     <published>2017-05-25T16:22:06.000Z</published>
     <updated>2017-06-03T15:31:19.000Z</updated>
     
@@ -476,17 +476,17 @@
     
     </summary>
     
-      <category term="投资" scheme="http://nickyam.com/categories/%E6%8A%95%E8%B5%84/"/>
+      <category term="投资" scheme="https://www.nickyam.com/categories/%E6%8A%95%E8%B5%84/"/>
     
     
-      <category term="股票" scheme="http://nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
+      <category term="股票" scheme="https://www.nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
     
   </entry>
   
   <entry>
     <title>迈步的讲究</title>
-    <link href="http://nickyam.com/2017/05/21/the-study-of-walking/"/>
-    <id>http://nickyam.com/2017/05/21/the-study-of-walking/</id>
+    <link href="https://www.nickyam.com/2017/05/21/the-study-of-walking/"/>
+    <id>https://www.nickyam.com/2017/05/21/the-study-of-walking/</id>
     <published>2017-05-21T11:06:25.000Z</published>
     <updated>2017-06-03T13:20:45.000Z</updated>
     
@@ -502,17 +502,17 @@
     
     </summary>
     
-      <category term="生活" scheme="http://nickyam.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://www.nickyam.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="健康" scheme="http://nickyam.com/tags/%E5%81%A5%E5%BA%B7/"/>
+      <category term="健康" scheme="https://www.nickyam.com/tags/%E5%81%A5%E5%BA%B7/"/>
     
   </entry>
   
   <entry>
     <title>股海泛舟，扬帆起航</title>
-    <link href="http://nickyam.com/2017/05/04/stock-20170504/"/>
-    <id>http://nickyam.com/2017/05/04/stock-20170504/</id>
+    <link href="https://www.nickyam.com/2017/05/04/stock-20170504/"/>
+    <id>https://www.nickyam.com/2017/05/04/stock-20170504/</id>
     <published>2017-05-04T09:47:20.000Z</published>
     <updated>2017-05-07T10:04:04.000Z</updated>
     
@@ -528,10 +528,10 @@
     
     </summary>
     
-      <category term="投资" scheme="http://nickyam.com/categories/%E6%8A%95%E8%B5%84/"/>
+      <category term="投资" scheme="https://www.nickyam.com/categories/%E6%8A%95%E8%B5%84/"/>
     
     
-      <category term="股票" scheme="http://nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
+      <category term="股票" scheme="https://www.nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
     
   </entry>
   
