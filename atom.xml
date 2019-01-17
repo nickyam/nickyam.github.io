@@ -94,6 +94,32 @@
   </entry>
   
   <entry>
+    <title>WordPress导出全静态化网站</title>
+    <link href="http://nickyam.com/2019/01/09/WordPress-Exports-Fully-Static-Websites/"/>
+    <id>http://nickyam.com/2019/01/09/WordPress-Exports-Fully-Static-Websites/</id>
+    <published>2019-01-09T12:19:00.000Z</published>
+    <updated>2019-01-17T14:58:51.399Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前建站初入门的时候，一般都是Wordpress，一有问题网上基本都能找到解决方法，而且主题丰富且漂亮。但是因为Wordpress是动态网站页面，性能消耗较大，而作为个人博客，需要的只是一个完全静态的网站。</p><p>什么是静态网站？完全静态的网站只有html文件，对服务器资源消耗极低，可以免费托管在 Github Page 等。对于学生等个人站长而言，运行成本非常低。此外，静态网站安全性很好，几乎没有什么可攻击的漏洞，即使恶意访问量很大，静态网站也可以很好地支撑。所以不少站长选择从 Wordpress 转移到 静态网站。</p><p>那么，如何将一个 Wordpress 网站完全静态化呢？其实 Wordpress 给我们提供了很好的工具。</p><ul><li><p>文章页静态化：在Wordpress“设置”-“固定连接”里，将固定链接设置为“自定义结构”，文章的标题结尾增加.html。此时，目录和标签还是动态页面。</p></li><li><p>关闭评论功能，在“设置”-“讨论”里，选择“自动关闭发布1天后的文章上的评论功能”。</p></li><li><p>安装Simply Static插件生成静态网站。如果文章数量上千，则容易报错，原因是一般的网站服务器会在php上设置了超时和内存限制。可在本地搭建php环境，修改php超时时间和内存大小，例如对于Windows系统来说，可以选择安装<a href="https://www.bt.cn" target="_blank" rel="external">宝塔面板</a>，快速配置WAMP环境，修改环境里php超时时间和内存大小即可。</p></li><li><p>采用 WP2Static 插件。如果你对生成静态网站的时间要求较高，则简易采用该插件，修改Crawl Increment 的数量为100以上的数值。</p></li></ul><p>如果你有更好的插件或方法，也请通过 nickyam@163.com 告诉我，谢谢！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;之前建站初入门的时候，一般都是Wordpress，一有问题网上基本都能找到解决方法，而且主题丰富且漂亮。但是因为Wordpress是动态网站页面，性能消耗较大，而作为个人博客，需要的只是一个完全静态的网站。&lt;/p&gt;
+&lt;p&gt;什么是静态网站？完全静态的网站只有html文件，对服
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="http://nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="Wordpress" scheme="http://nickyam.com/tags/Wordpress/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo博客添加腾讯404公益页面</title>
     <link href="http://nickyam.com/2019/01/01/hexo-add-tencent-404-page/"/>
     <id>http://nickyam.com/2019/01/01/hexo-add-tencent-404-page/</id>
@@ -224,18 +250,18 @@
     <link href="http://nickyam.com/2018/05/12/Incantations-of-the-Great-Mercy/"/>
     <id>http://nickyam.com/2018/05/12/Incantations-of-the-Great-Mercy/</id>
     <published>2018-05-12T11:19:00.000Z</published>
-    <updated>2019-01-17T14:25:36.704Z</updated>
+    <updated>2019-01-17T14:29:27.279Z</updated>
     
-    <content type="html"><![CDATA[<p>　　1 南无•喝啰怛那•哆啰夜耶 nā mó •hé là dá nā •duō là yà yē</p><p>　　2 南无•阿唎耶 nā mó •ā lì yē</p><p>　　3 婆卢羯帝•烁钵啰耶 pó lú jié dì •shuò bō là yē</p><p>　　4 菩提萨埵婆耶 pú tí sà duǒ pó yē</p><p>　　5 摩诃萨埵婆耶 mó hē sà duǒ pó yē</p><p>　　6 摩诃迦卢尼迦耶 mó hē jiā lú ní jiā yē</p><p>　　7 唵 ōng</p><p>　　8 萨皤啰罚曳 sà pó là fá yì</p><p>　　9 数怛那怛写 shù dá nā dá xià</p><p>　　10 南无悉吉利埵•伊蒙阿唎耶 nā mó xī jí lì duǒ•yī méng ā lì yē</p><p>　　11 婆卢吉帝•室佛啰楞驮婆 pó lú jí dì•shì fó là léng tuó pó</p><p>　　12 南无•那啰谨墀 nā mó•nā là jǐn chí</p><p>　　13 醯唎摩诃皤哆沙咩 xī lì mó hē pó duō shā miē</p><p>　　14 萨婆阿他•豆输朋 sà pó ā tuō•dòu shū péng</p><p>　　15 阿逝孕 ā shì yùn</p><p>　　16 萨婆萨哆•那摩婆萨多•那摩婆伽 sà pó sà duō•ná mó pó sà duō•ná mó pó qié</p><p>　　17 摩罚特豆 mó fá tè dòu</p><p>　　18 怛侄他 dá zhí tuō</p><p>　　19 唵•阿婆卢醯• Ong .ā pó lú xī</p><p>　　20 卢迦帝 lú jiā dì</p><p>　　21 迦罗帝 jiā luó dì</p><p>　　22 夷醯唎 yí xī lì</p><p>　　23 摩诃菩提萨埵 mó hē pú tí sà duǒ</p><p>　　24 萨婆萨婆 sà pó sà pó</p><p>　　25 摩啰摩啰 mó là mó là</p><p>　　26 摩醯摩醯•唎驮孕 mó xī mó xī•lì tuó yùn</p><p>　　27 俱卢俱卢•羯蒙 jù lú jù lú•jié méng</p><p>　　28 度卢度卢•罚阇耶帝 dù lú dù lú•fá shé yē dì</p><p>　　29 摩诃罚阇耶帝 mó hē fá shé yē dì</p><p>　　30 陀啰陀啰 tuó là tuó là</p><p>　　31 地唎尼 dì lì ní</p><p>　　32 室佛啰耶 shì fó là yē</p><p>　　33 遮啰遮啰 zhē là zhē là</p><p>　　34 么么•罚摩啰 mó mó•fá mó là</p><p>　　35 穆帝隶 mù dì lì</p><p>　　36 伊醯伊醯 yī xī yī xī</p><p>　　37 室那室那 shì nā shì nā</p><p>　　38 阿啰嘇•佛啰舍利 ā là shēn•fó là shě lì</p><p>　　39 罚沙罚嘇 fá shā fá shēn</p><p>　　40 佛啰舍耶 fó là shě yē</p><p>　　41 呼卢呼卢摩啰 hū lú hū lú mó là</p><p>　　42 呼卢呼卢醯利 hū lú hū lú xī lì</p><p>　　43 娑啰娑啰 suō là suō là</p><p>　　44 悉唎悉唎 xī lì xī lì</p><p>　　45 苏嚧苏嚧 sū lú sū lú</p><p>　　46 菩提夜•菩提夜 pú tí yè•pú tí yè</p><p>　　47 菩驮夜•菩驮夜 pú tuó yè•pú tuó yè</p><p>　　48 弥帝利夜 mí dì lì yè</p><p>　　49 那啰谨墀 nā là jǐn chí</p><p>　　50 地利瑟尼那 dì lì sè ní nā</p><p>　　51 婆夜摩那 pó yè mó nā</p><p>　　52 娑婆诃 suō pó hē</p><p>　　53 悉陀夜 xī tuó yè</p><p>　　54 娑婆诃 sā pó hē</p><p>　　55 摩诃悉陀夜 mó hē xī tuó yè</p><p>　　56 娑婆诃 suō pó hē</p><p>　　57 悉陀喻艺 xī tuó yù yì</p><p>　　58 室皤啰耶 shì pó là yē</p><p>　　59 娑婆诃 suō pó hē</p><p>　　60 那啰谨墀 nā là jǐn chí</p><p>　　61 娑婆诃 suō pó hē</p><p>　　62 摩啰那啰 mó là nā là</p><p>　　63 娑婆诃 suō pó hē</p><p>　　64 悉啰僧•阿穆佉耶 xī là sēng•ā mù qié yē</p><p>　　65 娑婆诃 suō pó hē</p><p>　　66 娑婆摩诃•阿悉陀夜 sā pó mó hē•ā xī tuó yè</p><p>　　67 娑婆诃 suō pó hē</p><p>　　68 者吉啰•阿悉陀夜 zhě jí là•ā xī tuó yè</p><p>　　69 娑婆诃 suō pó hē</p><p>　　70 波陀摩•羯悉陀夜 bō tuó mó•jié xī tuó yè</p><p>　　71 娑婆诃 suō pó hē</p><p>　　72 那啰谨墀•皤伽啰耶 nā là jǐn chí•pó qié là yē</p><p>　　73 娑婆诃 suō pó hē</p><p>　　74 摩婆利•胜羯啰夜 mó pó lì•shèng jié là yè</p><p>　　75 娑婆诃 suō pó hē</p><p>　　76 南无喝啰怛那•哆啰夜耶 nā mó hé là dá nā•duō là yè yē</p><p>　　77 南无阿利耶 nā mó ā lì yē</p><p>　　78 婆嚧吉帝 pó lú jí dì</p><p>　　79 烁皤啰夜 shuò pó là yè</p><p>　　80 娑婆诃 suō pó hē</p><p>　　81 唵•悉殿都 ōng•xī diàn dū</p><p>　　82 漫多啰 màn duō là</p><p>　　83 跋陀耶 bá tuó yě</p><p>　　84 娑婆诃 suō pó hē</p>]]></content>
+    <content type="html"><![CDATA[<p>1 南无•喝啰怛那•哆啰夜耶 nā mó •hé là dá nā •duō là yà yē</p><p>2 南无•阿唎耶 nā mó •ā lì yē</p><p>3 婆卢羯帝•烁钵啰耶 pó lú jié dì •shuò bō là yē</p><p>4 菩提萨埵婆耶 pú tí sà duǒ pó yē</p><p>5 摩诃萨埵婆耶 mó hē sà duǒ pó yē</p><p>6 摩诃迦卢尼迦耶 mó hē jiā lú ní jiā yē</p><p>7 唵 ōng</p><p>8 萨皤啰罚曳 sà pó là fá yì</p><p>9 数怛那怛写 shù dá nā dá xià</p><p>10 南无悉吉利埵•伊蒙阿唎耶 nā mó xī jí lì duǒ•yī méng ā lì yē</p><p>11 婆卢吉帝•室佛啰楞驮婆 pó lú jí dì•shì fó là léng tuó pó</p><p>12 南无•那啰谨墀 nā mó•nā là jǐn chí</p><p>13 醯唎摩诃皤哆沙咩 xī lì mó hē pó duō shā miē</p><p>14 萨婆阿他•豆输朋 sà pó ā tuō•dòu shū péng</p><p>15 阿逝孕 ā shì yùn</p><p>16 萨婆萨哆•那摩婆萨多•那摩婆伽 sà pó sà duō•ná mó pó sà duō•ná mó pó qié</p><p>17 摩罚特豆 mó fá tè dòu</p><p>18 怛侄他 dá zhí tuō</p><p>19 唵•阿婆卢醯• Ong .ā pó lú xī</p><p>20 卢迦帝 lú jiā dì</p><p>21 迦罗帝 jiā luó dì</p><p>22 夷醯唎 yí xī lì</p><p>23 摩诃菩提萨埵 mó hē pú tí sà duǒ</p><p>24 萨婆萨婆 sà pó sà pó</p><p>25 摩啰摩啰 mó là mó là</p><p>26 摩醯摩醯•唎驮孕 mó xī mó xī•lì tuó yùn</p><p>27 俱卢俱卢•羯蒙 jù lú jù lú•jié méng</p><p>28 度卢度卢•罚阇耶帝 dù lú dù lú•fá shé yē dì</p><p>29 摩诃罚阇耶帝 mó hē fá shé yē dì</p><p>30 陀啰陀啰 tuó là tuó là</p><p>31 地唎尼 dì lì ní</p><p>32 室佛啰耶 shì fó là yē</p><p>33 遮啰遮啰 zhē là zhē là</p><p>34 么么•罚摩啰 mó mó•fá mó là</p><p>35 穆帝隶 mù dì lì</p><p>36 伊醯伊醯 yī xī yī xī</p><p>37 室那室那 shì nā shì nā</p><p>38 阿啰嘇•佛啰舍利 ā là shēn•fó là shě lì</p><p>39 罚沙罚嘇 fá shā fá shēn</p><p>40 佛啰舍耶 fó là shě yē</p><p>41 呼卢呼卢摩啰 hū lú hū lú mó là</p><p>42 呼卢呼卢醯利 hū lú hū lú xī lì</p><p>43 娑啰娑啰 suō là suō là</p><p>44 悉唎悉唎 xī lì xī lì</p><p>45 苏嚧苏嚧 sū lú sū lú</p><p>46 菩提夜•菩提夜 pú tí yè•pú tí yè</p><p>47 菩驮夜•菩驮夜 pú tuó yè•pú tuó yè</p><p>48 弥帝利夜 mí dì lì yè</p><p>49 那啰谨墀 nā là jǐn chí</p><p>50 地利瑟尼那 dì lì sè ní nā</p><p>51 婆夜摩那 pó yè mó nā</p><p>52 娑婆诃 suō pó hē</p><p>53 悉陀夜 xī tuó yè</p><p>54 娑婆诃 sā pó hē</p><p>55 摩诃悉陀夜 mó hē xī tuó yè</p><p>56 娑婆诃 suō pó hē</p><p>57 悉陀喻艺 xī tuó yù yì</p><p>58 室皤啰耶 shì pó là yē</p><p>59 娑婆诃 suō pó hē</p><p>60 那啰谨墀 nā là jǐn chí</p><p>61 娑婆诃 suō pó hē</p><p>62 摩啰那啰 mó là nā là</p><p>63 娑婆诃 suō pó hē</p><p>64 悉啰僧•阿穆佉耶 xī là sēng•ā mù qié yē</p><p>65 娑婆诃 suō pó hē</p><p>66 娑婆摩诃•阿悉陀夜 sā pó mó hē•ā xī tuó yè</p><p>67 娑婆诃 suō pó hē</p><p>68 者吉啰•阿悉陀夜 zhě jí là•ā xī tuó yè</p><p>69 娑婆诃 suō pó hē</p><p>70 波陀摩•羯悉陀夜 bō tuó mó•jié xī tuó yè</p><p>71 娑婆诃 suō pó hē</p><p>72 那啰谨墀•皤伽啰耶 nā là jǐn chí•pó qié là yē</p><p>73 娑婆诃 suō pó hē</p><p>74 摩婆利•胜羯啰夜 mó pó lì•shèng jié là yè</p><p>75 娑婆诃 suō pó hē</p><p>76 南无喝啰怛那•哆啰夜耶 nā mó hé là dá nā•duō là yè yē</p><p>77 南无阿利耶 nā mó ā lì yē</p><p>78 婆嚧吉帝 pó lú jí dì</p><p>79 烁皤啰夜 shuò pó là yè</p><p>80 娑婆诃 suō pó hē</p><p>81 唵•悉殿都 ōng•xī diàn dū</p><p>82 漫多啰 màn duō là</p><p>83 跋陀耶 bá tuó yě</p><p>84 娑婆诃 suō pó hē</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;　　1 南无•喝啰怛那•哆啰夜耶 nā mó •hé là dá nā •duō là yà yē&lt;/p&gt;
-&lt;p&gt;　　2 南无•阿唎耶 nā mó •ā lì yē&lt;/p&gt;
-&lt;p&gt;　　3 婆卢羯帝•烁钵啰耶 pó lú jié dì •shuò bō là yē&lt;/p&gt;
-&lt;
+        &lt;p&gt;1 南无•喝啰怛那•哆啰夜耶 nā mó •hé là dá nā •duō là yà yē&lt;/p&gt;
+&lt;p&gt;2 南无•阿唎耶 nā mó •ā lì yē&lt;/p&gt;
+&lt;p&gt;3 婆卢羯帝•烁钵啰耶 pó lú jié dì •shuò bō là yē&lt;/p&gt;
+&lt;p&gt;4 菩提
       
     
     </summary>
@@ -506,32 +532,6 @@
     
     
       <category term="股票" scheme="http://nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>浅析不同出口方式对退税的影响</title>
-    <link href="http://nickyam.com/2017/03/13/taxrefund/"/>
-    <id>http://nickyam.com/2017/03/13/taxrefund/</id>
-    <published>2017-03-13T14:33:48.000Z</published>
-    <updated>2017-06-03T11:16:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>在平时的信贷审查中，笔者碰到不同的企业或自营出口或委托专门的贸易公司出口，直接或间接的出口方式对企业的税负有什么影响呢。通过上一篇心得<a href="http://nickyam.com/2017/03/12/taxnote/">《关于“出口免抵退”的实务笔记》</a>，我们一方面梳理了最基本的出口退税知识，另一方面也了解到生产出口和外贸出口的区别。虽然两者表面上都免征出口环节的销项税，但生产企业出口货物增值部分乘以征税率和退税率之差并没有免征，生产企业通过进项税转出缴纳了该部分增值税。为进一步探究企业采取不同的出口方式是否会对退税产生影响，本篇通过举例来说明。</p></blockquote><p>某集团公司有生产企业A（具有进出口经营权）和外贸企业B（具有进出口经营权）。201x年x月出口收入（不含税）为人民币3000万元（对应主营业务成本2400万元、进项税额390万元），内销收入（不含税）人民币18000万元（对应主营业成本14400万元、进项税额2340万元），月初应交增值税为0，征税率为17%，退税率为13%。为简化假设产品成本无进口原材料。</p><p>方案一：A公司自营出口，则当月增值税实际税负为：当月应纳税额=18000x17%-（390+2340-3000x（17%-13%））=3060-2610=450（万元）</p><p>方案二：A公司按照成本价格销售给B公司，由B公司申请报关出口并办理出口退税，则当月该集团增值税实际税负为：A公司当月应纳税额=18000x17%+2400x17%-2340-390=738（万元）B公司当月应纳税额=-当月应退税额=-2400x13%=-312（万元）则该集团当月增值税实际税负为426万元（738-312）。</p><p>方案三：A公司按照自营出口的价格卖给B公司，由B公司申请报关出口并办理出口退税。<strong>从真实贸易逻辑上讲，方案二的上极限为A公司销售给集团内用于出口货物的含税价格不得超过B公司对外出口的不含税收入价格</strong>，即A公司销售给B公司的不含税收入为2564.1万元，则当月该集团增值税实际税负为：A公司当月应纳税额=18000x17%+2564.1x17%-2340-390=765.90（万元）B公司当月应纳税额=-当月应退税额=-2564.1x13%=-333.33（万元）则该集团当月增值税实际税负为432.57万元（765.90-333.33）。</p><p>方案四：A公司销售给集团外的C公司（具有进出口经营权），销售价格为含税的出口收入（即2340万元），由C公司申请报关出口并办理出口退税，则A公司和C公司的增值税实际税负为：A公司当月应纳税额=18000x17%+3000x17%-2340-390=840（万元）C公司办理A公司该笔出口业务的当月应退税额=3000*13%=390（万元）则A和C公司该笔出口业务的增值税整体实际税负为450万元（840-390）。</p><p>依据上述分析计算，理论上生产企业如按照出口产品有进项税的成本价格销售给集团内的外贸企业，则集团内整体的增值税税负最低。对于出口业务如采取集团内外贸企业出口的方案会增加出口退税金额，但出口退税金额的大小会随着生产企业向外贸企业销售产品收入的增加而减少。出口退税减少的主要原因为出口产品增值额部分没有对应的进项税额可退税，且该部分增值额尚有征税率和退税率之差作为进项税转出。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;在平时的信贷审查中，笔者碰到不同的企业或自营出口或委托专门的贸易公司出口，直接或间接的出口方式对企业的税负有什么影响呢。通过上一篇心得&lt;a href=&quot;http://nickyam.com/2017/03/12/taxnote/&quot;&gt;《关于“出口免抵
-      
-    
-    </summary>
-    
-      <category term="信贷" scheme="http://nickyam.com/categories/%E4%BF%A1%E8%B4%B7/"/>
-    
-    
-      <category term="税收" scheme="http://nickyam.com/tags/%E7%A8%8E%E6%94%B6/"/>
     
   </entry>
   
