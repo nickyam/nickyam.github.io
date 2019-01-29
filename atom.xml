@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2019-01-27T06:49:36.321Z</updated>
+  <updated>2019-01-29T16:10:10.337Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo 多标签及分级目录</title>
+    <title>Hexo 多标签及分级目录设置方法举例</title>
     <link href="https://www.nickyam.com/2019/01/27/hexo-multi-tags/"/>
     <id>https://www.nickyam.com/2019/01/27/hexo-multi-tags/</id>
     <published>2019-01-27T07:15:00.000Z</published>
-    <updated>2019-01-27T06:49:36.321Z</updated>
+    <updated>2019-01-29T16:10:10.337Z</updated>
     
     <content type="html"><![CDATA[<p>为了更好的归档我们的文章，方便归档文章及快速准确翻看历史文章，需要更好的运用标签和目录功能。</p><h2 id="多标签"><a href="#多标签" class="headerlink" title="多标签"></a>多标签</h2><p>多标签把一篇文章同时归档到多个标签里面，通过任一个标签都能索引到我们的博文。而用作标签的，显然是我们之前博文内容的 Keywords。</p><p>可以通过以下方式实现 hexo 的多标签：</p><figure class="highlight subunit"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"># tags: #文章标签，可空，多标签请用格式[tag1,tag2,tag3]，如下，注意!!"tags:"后面有个空格</div><div class="line"><span class="keyword">tags:</span> [tag1, tag2, tag3, ...]</div><div class="line"># 下面这种方式似乎仅限于hexo 3.0</div><div class="line"><span class="keyword">tags:</span></div><div class="line">- tags1</div><div class="line">- tags2</div><div class="line">- ...</div></pre></td></tr></table></figure><h2 id="分级目录"><a href="#分级目录" class="headerlink" title="分级目录"></a>分级目录</h2><p>如果您有过使用WordPress的经验，就很容易误解Hexo的分类方式。WordPress支持对一篇文章设置多个分类，而且这些分类可以是同级的，也可以是父子分类。但是Hexo不支持指定多个同级分类。可以通过以下方式实现 hexo 的分级目录：</p><figure class="highlight haml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"># 这种方式似乎仅限于hexo 3.0，应该包括以上吧...</div><div class="line">categories:</div><div class="line">-<span class="ruby"> tags_level_1</span></div><div class="line">-<span class="ruby"> tags_level_2</span></div><div class="line">-<span class="ruby"> ...</span></div></pre></td></tr></table></figure><p>但是值得注意的是，你使用的主题需要支持分级目录才行。</p>]]></content>
     
