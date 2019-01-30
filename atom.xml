@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2019-01-30T15:09:51.262Z</updated>
+  <updated>2019-01-30T15:12:23.039Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://www.nickyam.com/2019/01/29/github-page-add-shenma-site-verification/"/>
     <id>https://www.nickyam.com/2019/01/29/github-page-add-shenma-site-verification/</id>
     <published>2019-01-29T13:15:00.000Z</published>
-    <updated>2019-01-30T15:09:51.262Z</updated>
+    <updated>2019-01-30T15:12:23.039Z</updated>
     
-    <content type="html"><![CDATA[<p>相信不管是谁，写了博客以后，终归希望访客数量增加，所以SEO很关键。而做好SEO的第一步就是将自己的网址提交到各大搜索引擎。如果你的博客是 Github Page 静态网站，那么百度搜索的友好性就大大降低了，百度和 Github 当年之事尚未抹去。当然如果你的站点有地图，百度可能爬的到，比如我最近就发现百度还是收录了我的网站。更多的人是使用Coding.net的镜像站点，给百度爬虫一个用武之地。</p><p>而另一种办法就是增加搜索引擎的数量。毕竟这个时代，多样性在不断提高。那么其中一个选择是神马搜索。神马搜索是UC和阿里2013年已经成立合资公司推出的移动搜索引擎。移动搜索中百度排名第一，神马搜索排名第二。凭借着uc的广大用户群，占据了移动搜索的大市场。站长们提交网址当然不会放过。但是他现在没有像其他搜索引擎一样的提交入口，只能通过神马搜索站长平台或者cnzz统计后台来提交。</p><p>如果通过神马搜索站长平台，那么你先要注册账号，并且通过网站所有权验证。验证的方法有两种，一种是将某段html代码添加到网站首页的<head>标签与</head>标签之间，另一种更方便的是下载验证文件，上传到自己公司网站根目录，验证网站（具体将文件放到本地的source文件夹中，然后上传即可）。</p>]]></content>
+    <content type="html"><![CDATA[<p>相信不管是谁，写了博客以后，终归希望访客数量增加，所以SEO很关键。而做好SEO的第一步就是将自己的网址提交到各大搜索引擎。如果你的博客是 GitHub Page 静态网站，那么百度搜索的友好性就大大降低了，百度和 GitHub 当年之事尚未抹去。当然如果你的站点有地图，百度可能爬的到，比如我最近就发现百度还是收录了我的网站。更多的人是使用Coding.net的镜像站点，给百度爬虫一个用武之地。</p><p>而另一种办法就是增加搜索引擎的数量。毕竟这个时代，多样性在不断提高。那么其中一个选择是神马搜索。神马搜索是UC和阿里2013年已经成立合资公司推出的移动搜索引擎。移动搜索中百度排名第一，神马搜索排名第二。凭借着uc的广大用户群，占据了移动搜索的大市场。站长们提交网址当然不会放过。但是他现在没有像其他搜索引擎一样的提交入口，只能通过神马搜索站长平台或者cnzz统计后台来提交。</p><p>如果通过神马搜索站长平台，那么你先要注册账号，并且通过网站所有权验证。验证的方法有两种，一种是将某段html代码添加到网站首页的<head>标签与</head>标签之间，另一种更方便的是下载验证文件，上传到自己公司网站根目录，验证网站（具体将文件放到本地的source文件夹中，然后上传即可）。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;相信不管是谁，写了博客以后，终归希望访客数量增加，所以SEO很关键。而做好SEO的第一步就是将自己的网址提交到各大搜索引擎。如果你的博客是 Github Page 静态网站，那么百度搜索的友好性就大大降低了，百度和 Github 当年之事尚未抹去。当然如果你的站点有地图，百
+        &lt;p&gt;相信不管是谁，写了博客以后，终归希望访客数量增加，所以SEO很关键。而做好SEO的第一步就是将自己的网址提交到各大搜索引擎。如果你的博客是 GitHub Page 静态网站，那么百度搜索的友好性就大大降低了，百度和 GitHub 当年之事尚未抹去。当然如果你的站点有地图，百
       
     
     </summary>
@@ -37,7 +37,7 @@
       <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="Github" scheme="https://www.nickyam.com/tags/Github/"/>
+      <category term="GitHub" scheme="https://www.nickyam.com/tags/GitHub/"/>
     
   </entry>
   
