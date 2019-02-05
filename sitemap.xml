@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.nickyam.com/about/index.html</loc>
+    
+    <lastmod>2019-02-05T08:10:52.568Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.nickyam.com/2019/01/29/github-page-add-shenma-site-verification/</loc>
     
     <lastmod>2019-01-30T15:12:23.039Z</lastmod>
@@ -117,13 +124,6 @@
     <loc>https://www.nickyam.com/2019/01/18/hexo-maupassant-archives-show-all-in-one-page/</loc>
     
     <lastmod>2019-01-18T14:21:38.553Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.nickyam.com/about/index.html</loc>
-    
-    <lastmod>2019-01-17T15:09:40.116Z</lastmod>
     
   </url>
   
