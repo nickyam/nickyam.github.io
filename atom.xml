@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2019-02-21T14:29:39.012Z</updated>
+  <updated>2019-02-22T14:28:01.711Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>苹果手机丢失后如何保证能够被定位</title>
+    <link href="https://www.nickyam.com/2019/02/22/lost-iphone-location/"/>
+    <id>https://www.nickyam.com/2019/02/22/lost-iphone-location/</id>
+    <published>2019-02-22T12:10:00.000Z</published>
+    <updated>2019-02-22T14:28:01.711Z</updated>
+    
+    <content type="html"><![CDATA[<p>这两天有点背。昨天被房贷折腾，晚上发现备用手机 <strong>iPhone SE</strong> 不见了。今天一早到单位看，也不见踪影。估计是丢失了。说起这个手机，那还是我2016年和王杨羽合产生交集的时候买的。当时我们用的都是安卓手机，我是米粉，她是nexus。所以有一定的纪念意义，不想却在快三年的时候丢了。我能够拨通电话，但是无人接听。那么，如何才有可能找到它呢？</p><p>正常情况下，应该使用查找 iPhone 功能，能够播放声音（提示方位），能够启用丢失模式（向手机提供机主联系方式），还能够抹掉iPhone。但是该定位功能的使用有大前提：需要联网。因为我之前没有开启蜂窝网络，所以无法正常使用该功能。前面的三大功能均需要在手机连上网络以后才能启用。所以，我抱着侥幸的心理，发出了一旦联网播放声音，并向对方发送我的联系方式，以期望遇到好心人。但是我没有使用抹掉iPhone的选项，用了这个选项就会使得手机恢复出厂设置，永远的失去了。这是我不愿意做的。至少，我这样还有一个念想。</p><p>但是一直到晚上，我也没有找到她。手机也没电关机了。找到的希望渺茫。但是通过这件事情，我对自己以后的手机设置有了一些预防措施：</p><ul><li><p>手机不要静音。我因为工作需要，习惯将手机静音。但是如果一时找不到的时候，可以通过铃声来找到附近的手机。</p></li><li><p>手机保持联网。在现在的社会，联网的手机是万能的。我因为备用手机省流量，反而得不偿失。如果保持联网，就可以享受到iPhone的定位功能。</p></li><li><p>不要相信度娘的手机号码GPS定位。如果现实社会这么轻松就可以定位，早就乱套了。</p></li></ul><p>看到这篇小文的估计都丢了手机吧。希望大家吃一堑长一智，以后小心一些，共勉！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这两天有点背。昨天被房贷折腾，晚上发现备用手机 &lt;strong&gt;iPhone SE&lt;/strong&gt; 不见了。今天一早到单位看，也不见踪影。估计是丢失了。说起这个手机，那还是我2016年和王杨羽合产生交集的时候买的。当时我们用的都是安卓手机，我是米粉，她是nexus。所以有
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+      <category term="iPhone" scheme="https://www.nickyam.com/tags/iPhone/"/>
+    
+  </entry>
   
   <entry>
     <title>民生银行房贷二次扣款避免逾期影响征信</title>
@@ -506,31 +531,6 @@
     
     
       <category term="股票" scheme="https://www.nickyam.com/tags/%E8%82%A1%E7%A5%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>secd进程导致Mac卡机的简单处理</title>
-    <link href="https://www.nickyam.com/2017/07/23/secd/"/>
-    <id>https://www.nickyam.com/2017/07/23/secd/</id>
-    <published>2017-07-23T07:21:00.000Z</published>
-    <updated>2017-07-23T07:37:48.557Z</updated>
-    
-    <content type="html"><![CDATA[<p>第一时间我更新了 <code>MacOS High Sierra</code> ，而且没有什么重大的bug。但是自从7月13日更新以来，基本上用不到10分钟就会无故卡机，并且重启无效。我以为等系统下一次更新就好，暂时用下双系统Windows吧。但是不知不觉中，我已经习惯了苹果的系统，总觉得微软的系统有些别扭。所以最后只好硬着头皮来尝试解决这个问题。</p><p>我在 <code>istat</code> 留意到我有两个进程经常飙升到100%甚至以上，然后就是死机。一个进程是 <code>secd</code> ，另一个是 <code>mds</code> 。通过百度发现，这两个进程的功能很独立，前者是<code>icloud</code>的钥匙串功能；后者是 <code>spotlight</code> 索引功能。</p><p>我忽然意识到这些都是有先兆的。我更新系统以后我的在线密码就不见了，钥匙串里面空空如也；然后我最近又在大量同步之前的照片到<code>icloud</code>，导致<code>spotlight</code>一直在索引。</p><p>所以我就在设置关闭了钥匙串功能，然后重启，一下子，我的cpu降到10%以下。并且因为我的照片基本同步完成，我也不去处理<code>mds</code>了下次苹果更新beta版，应该会修复吧。</p><p>所以轻轻松松搞定，又可以用<code>macOS</code>看文献写课题了。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;第一时间我更新了 &lt;code&gt;MacOS High Sierra&lt;/code&gt; ，而且没有什么重大的bug。但是自从7月13日更新以来，基本上用不到10分钟就会无故卡机，并且重启无效。我以为等系统下一次更新就好，暂时用下双系统Windows吧。但是不知不觉中，我已经习惯了苹
-      
-    
-    </summary>
-    
-      <category term="科技" scheme="https://www.nickyam.com/categories/%E7%A7%91%E6%8A%80/"/>
-    
-    
-      <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
     
   </entry>
   
