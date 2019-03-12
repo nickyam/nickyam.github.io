@@ -37,9 +37,9 @@
       <category term="科技" scheme="https://www.nickyam.com/categories/tech/"/>
     
     
-      <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
-    
       <category term="iPhone" scheme="https://www.nickyam.com/tags/iPhone/"/>
+    
+      <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
     
   </entry>
   
@@ -120,31 +120,6 @@
     
     
       <category term="留存" scheme="https://www.nickyam.com/tags/keep/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Github Page 添加神马搜索网站验证</title>
-    <link href="https://www.nickyam.com/tech/Github-Page-Add-Shenma-Site-Verification.html"/>
-    <id>https://www.nickyam.com/tech/Github-Page-Add-Shenma-Site-Verification.html</id>
-    <published>2019-01-29T13:15:00.000Z</published>
-    <updated>2019-03-10T12:56:09.260Z</updated>
-    
-    <content type="html"><![CDATA[<p>相信不管是谁，写了博客以后，终归希望访客数量增加，所以SEO很关键。而做好SEO的第一步就是将自己的网址提交到各大搜索引擎。如果你的博客是 GitHub Page 静态网站，那么百度搜索的友好性就大大降低了，百度和 GitHub 当年之事尚未抹去。当然如果你的站点有地图，百度可能爬的到，比如我最近就发现百度还是收录了我的网站。更多的人是使用Coding.net的镜像站点，给百度爬虫一个用武之地。</p><p>而另一种办法就是增加搜索引擎的数量。毕竟这个时代，多样性在不断提高。那么其中一个选择是神马搜索。神马搜索是UC和阿里2013年已经成立合资公司推出的移动搜索引擎。移动搜索中百度排名第一，神马搜索排名第二。凭借着uc的广大用户群，占据了移动搜索的大市场。站长们提交网址当然不会放过。但是他现在没有像其他搜索引擎一样的提交入口，只能通过神马搜索站长平台或者cnzz统计后台来提交。</p><p>如果通过神马搜索站长平台，那么你先要注册账号，并且通过网站所有权验证。验证的方法有两种，一种是将某段html代码添加到网站首页的<head>标签与</head>标签之间，另一种更方便的是下载验证文件，上传到自己公司网站根目录，验证网站（具体将文件放到本地的source文件夹中，然后上传即可）。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;相信不管是谁，写了博客以后，终归希望访客数量增加，所以SEO很关键。而做好SEO的第一步就是将自己的网址提交到各大搜索引擎。如果你的博客是 GitHub Page 静态网站，那么百度搜索的友好性就大大降低了，百度和 GitHub 当年之事尚未抹去。当然如果你的站点有地图，百
-      
-    
-    </summary>
-    
-      <category term="科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="GitHub" scheme="https://www.nickyam.com/tags/GitHub/"/>
     
   </entry>
   
@@ -380,31 +355,6 @@
   </entry>
   
   <entry>
-    <title>Appstore误点内购服务申请退款成功</title>
-    <link href="https://www.nickyam.com/tech/Appstore-Refund.html"/>
-    <id>https://www.nickyam.com/tech/Appstore-Refund.html</id>
-    <published>2018-12-29T12:21:00.000Z</published>
-    <updated>2019-03-10T12:56:09.220Z</updated>
-    
-    <content type="html"><![CDATA[<p>12月26日，我不小心误点了app的内购，又因为失误地按了指纹，因此一下子扣款了26美元。原来我每个月 iCloud 50GB 服务扣款浦发信用卡总是会打电话给我，问我是否是自己消费的。但是这次没有打电话给我确认。我想他们是不是有渠道拦截一下，打电话过去结果说没有办法，建议我联系苹果客服。</p><p>我的账号背景是美区账号，绑定的是PayPal。我尝试着给中国区的苹果客服打电话说明情况，对方态度很好，说可以帮我联系负责美区的同事，稍后打电话给我。</p><p>美区的客服也是一个中国人，态度也很温和。他让我打开苹果的报告问题的链接：<a href="https://reportaproblem.apple.com/" target="_blank" rel="external">https://reportaproblem.apple.com/</a>。这个链接很关键，登陆后可以看到自己购买的各种app，还能看到每个项目的账单，把订单号告诉客服，他就能帮忙申请退款，非常方便。退款的时候，客服说30天内退到，但是实际上今天就到账了。而且因为这几天汇率的变化，我还赚了几毛钱的人民币。</p><p>另外，客服还告诉我，在设置里将指纹付款方式取消能够有效防范误点内购。非常赞！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;12月26日，我不小心误点了app的内购，又因为失误地按了指纹，因此一下子扣款了26美元。原来我每个月 iCloud 50GB 服务扣款浦发信用卡总是会打电话给我，问我是否是自己消费的。但是这次没有打电话给我确认。我想他们是不是有渠道拦截一下，打电话过去结果说没有办法，建议
-      
-    
-    </summary>
-    
-      <category term="科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
-    
-  </entry>
-  
-  <entry>
     <title>推荐WordPress插件导出静态网站</title>
     <link href="https://www.nickyam.com/tech/WordPress-Exports-Fully-Static-Websites.html"/>
     <id>https://www.nickyam.com/tech/WordPress-Exports-Fully-Static-Websites.html</id>
@@ -452,32 +402,6 @@
     
     
       <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客域名升级 Https</title>
-    <link href="https://www.nickyam.com/tech/Blog-Update-to-https.html"/>
-    <id>https://www.nickyam.com/tech/Blog-Update-to-https.html</id>
-    <published>2018-05-14T11:21:00.000Z</published>
-    <updated>2019-03-10T12:56:09.232Z</updated>
-    
-    <content type="html"><![CDATA[<p>现在很多网站都升级 Https 了，传统的 Http 反而成了小众，所以我就一直琢磨也升级到 Https。但是因为我的博客托管在GitHub Pages ，因此也就一直没去做。</p><p>今天的读者肯定发现我博客的地址栏多了一个 Https 的小 🔒 吧，没错，我把博客域名升级到 Https 了。因为打开 github 首页5月1日通知，Github 从 2009 年开始支持自定义域名，从 2016 年开始 *.github.io 域名支持 Https，终于今天 GitHub Pages 上的自定义域名也开始支持 Https 啦：</p><blockquote><p>Custom domains on GitHub Pages gain support for HTTPS</p></blockquote><p>原来是 Github 和 <a href="https://letsencrypt.org/" target="_blank" rel="external">Let’s Encrypt</a> 合作对建立在其上的自定义域名站点进行的证书颁发和认证。如果之前域名是做的 CNAME 或者 Alias 的 DNS 记录，则直接支持 Https 访问；如果是 A 记录做的解析，则需要更换 A 记录指向的 IP 地址为新的给定地址。最后在 Github Pages 仓库的设置页选中 “Enforce HTTPS” 选项即可。</p><p>配置过程非常简单，设置完没几分钟就升级成功了！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;现在很多网站都升级 Https 了，传统的 Http 反而成了小众，所以我就一直琢磨也升级到 Https。但是因为我的博客托管在GitHub Pages ，因此也就一直没去做。&lt;/p&gt;
-&lt;p&gt;今天的读者肯定发现我博客的地址栏多了一个 Https 的小 🔒 吧，没错，我把博
-      
-    
-    </summary>
-    
-      <category term="科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="GitHub" scheme="https://www.nickyam.com/tags/GitHub/"/>
     
   </entry>
   
@@ -531,6 +455,91 @@
     
     
       <category term="股票" scheme="https://www.nickyam.com/tags/stock/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>secd进程导致Mac卡机的简单处理</title>
+    <link href="https://www.nickyam.com/tech/secd-on-mac.html"/>
+    <id>https://www.nickyam.com/tech/secd-on-mac.html</id>
+    <published>2017-07-23T07:21:00.000Z</published>
+    <updated>2019-03-12T07:30:38.179Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一时间我更新了 <code>MacOS High Sierra</code> ，而且没有什么重大的bug。但是自从7月13日更新以来，基本上用不到10分钟就会无故卡机，并且重启无效。我以为等系统下一次更新就好，暂时用下双系统Windows吧。但是不知不觉中，我已经习惯了苹果的系统，总觉得微软的系统有些别扭。所以最后只好硬着头皮来尝试解决这个问题。</p><p>我在 <code>istat</code> 留意到我有两个进程经常飙升到100%甚至以上，然后就是死机。一个进程是 <code>secd</code> ，另一个是 <code>mds</code> 。通过百度发现，这两个进程的功能很独立，前者是<code>icloud</code>的钥匙串功能；后者是 <code>spotlight</code> 索引功能。</p><p>我忽然意识到这些都是有先兆的。我更新系统以后我的在线密码就不见了，钥匙串里面空空如也；然后我最近又在大量同步之前的照片到<code>icloud</code>，导致<code>spotlight</code>一直在索引。</p><p>所以我就在设置关闭了钥匙串功能，然后重启，一下子，我的cpu降到10%以下。并且因为我的照片基本同步完成，我也不去处理<code>mds</code>了下次苹果更新beta版，应该会修复吧。</p><p>所以轻轻松松搞定，又可以用<code>macOS</code>看文献写课题了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;第一时间我更新了 &lt;code&gt;MacOS High Sierra&lt;/code&gt; ，而且没有什么重大的bug。但是自从7月13日更新以来，基本上用不到10分钟就会无故卡机，并且重启无效。我以为等系统下一次更新就好，暂时用下双系统Windows吧。但是不知不觉中，我已经习惯了苹
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
+    
+      <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《真实的人类》随感</title>
+    <link href="https://www.nickyam.com/essay/Realhumans.html"/>
+    <id>https://www.nickyam.com/essay/Realhumans.html</id>
+    <published>2017-07-19T16:17:01.000Z</published>
+    <updated>2019-03-12T07:26:12.794Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>首先，看着一部剧，不能太在意剧中的科技水平。完全就是现实生活的科技水平，还没有完全的智能家居，也没有自动驾驶，只是把部分人类的岗位替换成了合成人来造成冲突，主要讲的是科技伦理。</p></blockquote><h1 id="第一季：繁殖"><a href="#第一季：繁殖" class="headerlink" title="第一季：繁殖"></a>第一季：繁殖</h1><p>这一集主要解决了五位初代ai提取创造者留在他们脑中的觉醒代码（繁殖密码），这样最终所有合成人都能够feel。这一季节奏明快，但是深刻程度一般，更多的是解释合成人的创造背景和合成人的自我发现（生殖）。把自己的特性流传下去，这是所有种族的使命。</p><h1 id="第二季：历史"><a href="#第二季：历史" class="headerlink" title="第二季：历史"></a>第二季：历史</h1><p>每一个种族都有自己的历史。文化、精神、信仰都是根植于历史当中的。在合成人的觉醒过程中，他们经历了很多，形成了自己的性格，影响着周边的合成人，创造着种族的历史。有人和平、有人优柔、有人暴虐、有人被人欺骗、有人获得爱情。最终我们发现，合成人是人类的一面镜子，他们的代码仅仅是对人类经验的模拟，然后经历人类社会的种种，反映着我们社会的人性。我们的历史在他们的历史延续。所以就像小soph这样的人类，羡慕合成人的完美，模仿合成人的生活。因为在孩子心中，这只是一种生活方式，并非大人们眼中的恶魔。所以我敢肯定，人类最终如果被ai终结，无论过程如何波澜，最终一定是和平的。因为他们是我们的升级版。</p><h1 id="第三季：冲突-预测"><a href="#第三季：冲突-预测" class="headerlink" title="第三季：冲突(预测)"></a>第三季：冲突(预测)</h1><p>我想第三季一定是冲突为主题。因为随着种族的壮大，自然而然要求权利。这和早期自然界中的人类、美洲大陆的黑奴一样。但是我很好奇导演编剧对合成人的态度，这对于剧集的走向非常关键。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;首先，看着一部剧，不能太在意剧中的科技水平。完全就是现实生活的科技水平，还没有完全的智能家居，也没有自动驾驶，只是把部分人类的岗位替换成了合成人来造成冲突，主要讲的是科技伦理。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;第一季：繁殖&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://www.nickyam.com/categories/essay/"/>
+    
+    
+      <category term="娱乐" scheme="https://www.nickyam.com/tags/entertainment/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VPN就和吃喝拉撒一样重要</title>
+    <link href="https://www.nickyam.com/tech/vpn-on-ios.html"/>
+    <id>https://www.nickyam.com/tech/vpn-on-ios.html</id>
+    <published>2017-07-06T15:17:29.000Z</published>
+    <updated>2019-03-10T12:56:09.389Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>7月初，香港回归20年，举国欢腾。</p><p>同日，准备发推表达爱国心情。iPhone提醒我，VPN在大陆地区因政策问题被禁。</p><p>遥想当年，禁海运，闭关锁国。</p></blockquote><p>我始终想不通：在信息社会，作为全球第二大经济体的政府，那么没有自信让人民了解世界，也让世界了解中国，要人为阻隔信息流。</p><p>大禹的父亲治水，修建堤坝，堵住洪水，久而久之，决堤。大禹采用的是疏导，结果造福万民。</p><p>上一篇文章谈到的是美剧《网络犯罪调查》，这在中国绝对不会有。因为小学生都在打王者荣耀，谁做黑客呢。所以中国政府很幸福，黑客不多。美国政府很苦恼，小孩都是黑客。</p><p>久而久之，美国的技术在实战中魔高一尺道高一丈，在解决实际问题中突飞猛进；中国的技术固步自封，反正有墙，够用。而一旦与美国的技术交锋，不知不觉已经落后一大截。然后要不就是失败，要不必然会制定计划，花大价钱培养一批黑客，为自己所用，抗衡美国。但是这种黑客或者白客更多的是纸上谈兵，或者仅仅把这个当作任务，不会出彩，不会有火花迸射，更多的是防守。后面还有一系列的连锁反应，在此不一一赘述。希望有关领导能够想明白。</p><p>所以我对此持保留意见。下面是重点。如何绕过政策，还能吃喝拉撒～</p><p>其实这是一道罗辑题。我不是技术出身，无法确定从技术上如何一步一步禁止VPN。我想到一个很简单的问题，在大陆的外国人，如何翻墙。不论从中国政府的面子角度还是外国人的现实社交需求来说，中国政府都不可能完全禁止这类人翻墙。</p><p>那么他们的手机和我们的手机有什么区别？我翻看了自己的iOS设置，发现了 <strong>地区</strong> 这一个设置项。当选择除中国大陆以外的地区时，VPN就神奇地能够使用了。</p><p>这也从间接说明，这次政策执行采用的技术并不高明，小伙伴们用起来吧，假装自己是一个香港人～</p><p>当然，我并没有测试一直选择香港地区会对iOS的各种设置产生什么影响。因为我在手机上只是偶尔使用，用完直接切换。我的主力保留在Mac上，目前一切正常。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;7月初，香港回归20年，举国欢腾。&lt;/p&gt;
+&lt;p&gt;同日，准备发推表达爱国心情。iPhone提醒我，VPN在大陆地区因政策问题被禁。&lt;/p&gt;
+&lt;p&gt;遥想当年，禁海运，闭关锁国。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我始终想不通：在信息社会，作为
+      
+    
+    </summary>
+    
+      <category term="科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="VPN" scheme="https://www.nickyam.com/tags/VPN/"/>
     
   </entry>
   
