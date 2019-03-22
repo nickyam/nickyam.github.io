@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2019-03-12T14:28:37.094Z</updated>
+  <updated>2019-03-22T13:37:35.436Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于债转股业务的分红、差补及免税等的问题</title>
+    <link href="https://www.nickyam.com/investment/About-the-dividend-difference-up-and-tax-exemption-etc.html"/>
+    <id>https://www.nickyam.com/investment/About-the-dividend-difference-up-and-tax-exemption-etc.html</id>
+    <published>2019-03-22T08:07:25.000Z</published>
+    <updated>2019-03-22T13:37:35.436Z</updated>
+    
+    <content type="html"><![CDATA[<p>在全国范围来看，本轮市场化债转股业务在央企和地方国企开展的如火如荼，各方面的障碍较小。但是在浙江这片民营经济的热土上，债转股业务的股债属性、收益分配、退出路径都需要仔细设计，也需要和企业展开真正的谈判。最近碰到一些关于分红、差补及收益免税方面的问题，经过参考法律条款及咨询会计师，整理如下：</p><h1 id="一、关于分红与预分红"><a href="#一、关于分红与预分红" class="headerlink" title="一、关于分红与预分红"></a>一、关于分红与预分红</h1><p>分红是股份公司在盈利中每年按股权份额的一定比例支付给投资者的红利。分红以公司本部或合并报表未分配利润孰低为限额。在企业尚未盈利的情况下，预分红涉及利润超额分配问题，从会计师角度，存在合规性问题。</p><h1 id="二、关于优先分红权"><a href="#二、关于优先分红权" class="headerlink" title="二、关于优先分红权"></a>二、关于优先分红权</h1><ul><li><p>就有限公司而言，根据《公司法》第三十四条、《公司法》第一百六十六条、《企业财务通则》第50条的有关规定，有限公司分红的前置条件只有三点：①弥补公司历年亏损②提取法定公积金（税后利润10%，提取到公司注册资本50%以上可不再提取）③提取任意公积金（未有具体比例约束）。其中，前两点为强制的前置条件，第三点为任意的前置条件，企业弥补以前年度亏损和提取盈余公积后，当年没有可供分配的利润时，不得向投资者分配利润。而对于分红的原则，有限公司原则上按个股东的投资比例分红，但是全体股东可以约定不按投资比例分红的除外。</p></li><li><p>就股份公司而言，根据《公司法》第一百六十六条第四款之约定，股份有限公司的章程股份公司中的优先分红权与有限公司相近，若股份有限公司章程规定不按持股比例分红的，以约定为准。作为PE投资者，只要根据《公司法》规定在公司章程中约定自己的优先分红权即可得到法律保护。</p></li><li><p>根据《中外合资经营企业法》第四条、第八条之规定。合资各方按“出资比例”分配利润。如果PE投资者在合资企业中设定“优先分红权”，会因违反强制性法律规定被认定为无效。“优先分红权”制度在中外合资企业中是行不通的。</p></li></ul><p><em>经咨询会计师，基于“同股同权”的基础，一般不认可优先分红权，特别是上市公司子公司的优先分红安排。</em></p><h1 id="三、企业分红收益的免税规定"><a href="#三、企业分红收益的免税规定" class="headerlink" title="三、企业分红收益的免税规定"></a>三、企业分红收益的免税规定</h1><h2 id="（一）免税规定"><a href="#（一）免税规定" class="headerlink" title="（一）免税规定"></a>（一）免税规定</h2><p>企业因权益性投资从被投资方取得的分红收入，属于企业所得税的应税收入，但根据《企业所得税法》第二十六条第二项规定，符合条件的居民企业之间的股息、红利等权益性投资收益，为免税收入。第三项规定，在中国境内设立机构、场所的非居民企业从居民企业取得与该机构、场所有实际联系的股息、红利等权益性投资收益，也为免税收入。</p><p>其中“符合条件”指的是</p><ul><li>（1）居民企业之间——不包括投资到“独资企业、合伙企业、非居民企业”</li><li>（2）直接投资——不包括“间接投资”</li><li>（3）连续持有居民企业公开发行并上市流通的股票在一年（12个月）以上取得的投资收益。</li></ul><h2 id="（二）免税备案流程"><a href="#（二）免税备案流程" class="headerlink" title="（二）免税备案流程"></a>（二）免税备案流程</h2><p>符合条件的居民企业之间的股息、红利等权益性投资收益，应向主管税局备案，需要提供（复印件盖公章，提供原件核对）：<br>1、《纳税人税收优惠申请表》（一式两份）；<br>2、投资收益、应收股利科目明细账复印件或按月汇总表；<br>3、被投资企业做出利润分配决定的董事会决议、公告等利润分配相关证明材料。<br>工银投资需要万向一二三的利润分配证明材料，获得的分红才可以免交所得税。如股权转让，取得的收益为股权溢价，不是分红，该投资收益需要缴纳所得税。</p><h1 id="四、有限合伙企业和有限公司的税收差异"><a href="#四、有限合伙企业和有限公司的税收差异" class="headerlink" title="四、有限合伙企业和有限公司的税收差异"></a>四、有限合伙企业和有限公司的税收差异</h1><p>在税收制度上，有限合伙制企业本身不具有法人地位，不作为纳税主体。根据《合伙企业法》的原则性规定，有限合伙企业的经营所得及其他所得采取“先分后税”的原则，在向各合伙人分配前无须缴纳所得税，在分配后由各合伙人分别缴纳所得税。</p><p>根据《关于合伙企业合伙人所得税问题的通知》的规定，合伙人是自然人的，缴纳个人所得税（可代扣代缴）；合伙人是法人和其他组织的，缴纳企业所得税。除上述所得涉及的税收外，其他税费均由合伙企业以自身名义缴纳。</p><p>另外，合伙人是法人和其它组织的，在计算其缴纳企业所得税时，不得用合伙企业的亏损抵减其盈利。</p><p>有限公司按照公司制企业要求缴纳所得税。</p><h1 id="五、关于法人大股东差补"><a href="#五、关于法人大股东差补" class="headerlink" title="五、关于法人大股东差补"></a>五、关于法人大股东差补</h1><p>会计师认为：法人大股东差补安排，如不涉及开票，一般确认为投资损失或履约成本；如果开票，看开票的性质定，比如财务顾问费等。二是要确认该笔交易的行为是融资行为或投资行为。如融资行为，一般可以税前列支；如为投资行为，需向税务部门备案，被认可税前列支的可能性不大。</p><h1 id="六、关于标的企业的选择"><a href="#六、关于标的企业的选择" class="headerlink" title="六、关于标的企业的选择"></a>六、关于标的企业的选择</h1><blockquote><p>P/E=投资额/（净利润*投资股比）</p><p>股息率=净利润<em>投资股比</em>分红比例/投资额</p></blockquote><p>由此可得：</p><blockquote><p>P/E=分红比例/股息率</p></blockquote><p>按照这个公式，在一般分红比例不高于50%的情况下，标的企业的P/E倍数不高于<br><code>1/（2*股息率）</code> 。如果要保证一定的稳定股息率，那么市盈率非常受限，这也是业务难以推进的一个重要原因。</p><p>以上是最近的业务心得。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在全国范围来看，本轮市场化债转股业务在央企和地方国企开展的如火如荼，各方面的障碍较小。但是在浙江这片民营经济的热土上，债转股业务的股债属性、收益分配、退出路径都需要仔细设计，也需要和企业展开真正的谈判。最近碰到一些关于分红、差补及收益免税方面的问题，经过参考法律条款及咨询会
+      
+    
+    </summary>
+    
+      <category term="⓷投资" scheme="https://www.nickyam.com/categories/investment/"/>
+    
+    
+      <category term="金融" scheme="https://www.nickyam.com/tags/finance/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo博客 Maupassant 主题设置 Gitment 评论功能</title>
@@ -506,32 +531,6 @@
     
     
       <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客域名升级 Https</title>
-    <link href="https://www.nickyam.com/tech/Blog-Update-to-https.html"/>
-    <id>https://www.nickyam.com/tech/Blog-Update-to-https.html</id>
-    <published>2018-05-14T11:21:00.000Z</published>
-    <updated>2019-03-12T09:23:01.990Z</updated>
-    
-    <content type="html"><![CDATA[<p>现在很多网站都升级 Https 了，传统的 Http 反而成了小众，所以我就一直琢磨也升级到 Https。但是因为我的博客托管在GitHub Pages ，因此也就一直没去做。</p><p>今天的读者肯定发现我博客的地址栏多了一个 Https 的小 🔒 吧，没错，我把博客域名升级到 Https 了。因为打开 github 首页5月1日通知，Github 从 2009 年开始支持自定义域名，从 2016 年开始 *.github.io 域名支持 Https，终于今天 GitHub Pages 上的自定义域名也开始支持 Https 啦：</p><blockquote><p>Custom domains on GitHub Pages gain support for HTTPS</p></blockquote><p>原来是 Github 和 <a href="https://letsencrypt.org/" target="_blank" rel="external">Let’s Encrypt</a> 合作对建立在其上的自定义域名站点进行的证书颁发和认证。如果之前域名是做的 CNAME 或者 Alias 的 DNS 记录，则直接支持 Https 访问；如果是 A 记录做的解析，则需要更换 A 记录指向的 IP 地址为新的给定地址。最后在 Github Pages 仓库的设置页选中 “Enforce HTTPS” 选项即可。</p><p>配置过程非常简单，设置完没几分钟就升级成功了！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;现在很多网站都升级 Https 了，传统的 Http 反而成了小众，所以我就一直琢磨也升级到 Https。但是因为我的博客托管在GitHub Pages ，因此也就一直没去做。&lt;/p&gt;
-&lt;p&gt;今天的读者肯定发现我博客的地址栏多了一个 Https 的小 🔒 吧，没错，我把博
-      
-    
-    </summary>
-    
-      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="GitHub" scheme="https://www.nickyam.com/tags/GitHub/"/>
     
   </entry>
   
