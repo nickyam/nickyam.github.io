@@ -45,6 +45,34 @@
   </entry>
   
   <entry>
+    <title>macOS beta更新提示空间不足，无限循环重启问题解决</title>
+    <link href="https://www.nickyam.com/tech/Save-my-mac-from-update-failure.html"/>
+    <id>https://www.nickyam.com/tech/Save-my-mac-from-update-failure.html</id>
+    <published>2019-10-04T13:50:27.000Z</published>
+    <updated>2019-10-05T12:28:26.148Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天早上出门前，我下载了macOS Catalina beta新系统，让它自己更新。下午回来的时候发现系统更新失败，提示储存空间不足。以往碰到这种情况，我重启电脑后进入旧系统，释放部分空间后重新更新。</p><p>这一次的情况有所不同。一方面，更新前我的空余硬盘空间还有20GB，按照常理不应该提示空间不足；另一方面，更新失败后无法进入旧系统，无限循环更新系统，无限提示更新失败。</p><p>理论上，我的电脑已经彻底歇菜了。如何解决这个问题，进入愿系统呢？</p><p>第一步，我通过 <code>option</code> 选择 引导系统，试图进入愿系统。但是进度条推进到一半的时候，屏幕一闪直接黑屏退出自动关机。疑似硬件都有问题了。</p><p>第二步，我准备检查硬件是否有问题。因为我的电脑安装了<code>Boot Camp</code>，所以我通过 <code>option</code>选择进入 Windows 10 系统，一切正常。这个系统我设置了 35GB 的空间，剩余空间 4.65GB 。因此可以确定硬件基本正常。</p><p>第三步，也是比较关键的一步。我通过 <code>command</code> + <code>r</code> 进入恢复系统。因为我的主分区被认定为空间不足，所以我就在实用工具选择了磁盘工具，将 <code>Boot Camp</code> 磁盘抹掉并合并到主分区。这样，我的磁盘剩余空间有50GB以上，足够更新了。</p><p>我唯一的担心是在恢复系统界面重新安装macOS之后，可能会完全抹掉我的个人数据。幸好，经过将近一个小时的更新与等待，我进入了熟悉的界面和新的操作系统。</p><p>就这样，我解决了标题所说的问题，但是牺牲了平时不常用的一个系统。虽然有些可惜，但是已经是不幸中的万幸了。</p><p>记录下来供大家参考。 </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天早上出门前，我下载了macOS Catalina beta新系统，让它自己更新。下午回来的时候发现系统更新失败，提示储存空间不足。以往碰到这种情况，我重启电脑后进入旧系统，释放部分空间后重新更新。&lt;/p&gt;
+&lt;p&gt;这一次的情况有所不同。一方面，更新前我的空余硬盘空间还有2
+      
+    
+    </summary>
+    
+      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
+    
+      <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一悟一什</title>
     <link href="https://www.nickyam.com/essay/start-of-cook.html"/>
     <id>https://www.nickyam.com/essay/start-of-cook.html</id>
@@ -501,31 +529,6 @@
       
       
         &lt;p&gt;自从在 Github Page 落户以后，很长一段时间使用的是极简且有点艺术范儿的 fexo 主题，而不是大名鼎鼎的 next 主题。后来偶然发现了符合我审美的Hexo博客 &lt;a href=&quot;https://www.haomwei.com/technology/maupas
-      
-    
-    </summary>
-    
-      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客添加腾讯404公益页面</title>
-    <link href="https://www.nickyam.com/tech/hexo-add-tencent-404-page.html"/>
-    <id>https://www.nickyam.com/tech/hexo-add-tencent-404-page.html</id>
-    <published>2019-01-01T11:19:00.000Z</published>
-    <updated>2019-03-12T09:23:01.991Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天是2019年新年第一天。希望新的一年每个家庭都能够幸福美满，充满孩子们的欢声笑语。所以我也想尽自己的所能，来帮助离家的孩子们能够回到温暖的父母身边。所以我在今天这个特殊的日子在自己的博客添加了腾讯404公益页面，希望光顾我博客的朋友如果看到404页面的时候，能够有现实的意义。每一个孩子都不应该被放弃，如果有万分之一的希望。</p><p>言归正传，下面就是具体的操作步骤：</p><ul><li>进入本地hexo目录，输入以下命令:</li></ul><figure class="highlight haxe"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo <span class="keyword">new</span> <span class="type">page</span> <span class="number">404</span></div></pre></td></tr></table></figure><ul><li>打开刚新建的页面文件，默认在 Hexo 文件夹根目录下 /source/404/index.md ，输入以下代码：</li></ul><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">---</div><div class="line">title: 404 Not Found：该页无法显示</div><div class="line">toc: false</div><div class="line">comments: false</div><div class="line">permalink: /404</div><div class="line">---</div><div class="line"><span class="meta">&lt;!DOCTYPE html&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">head</span>&gt;</span></div><div class="line">         <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">"UTF-8"</span> /&gt;</span></div><div class="line">         <span class="tag">&lt;<span class="name">title</span>&gt;</span>404<span class="tag">&lt;/<span class="name">title</span>&gt;</span>                                                                                                                                        </div><div class="line">    <span class="tag">&lt;/<span class="name">head</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">body</span>&gt;</span></div><div class="line">         <span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span> <span class="attr">src</span>=<span class="string">"//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js"</span> <span class="attr">homePageName</span>=<span class="string">"返回首页"</span> <span class="attr">homePageUrl</span>=<span class="string">"https://www.nickyam.com"</span>&gt;</span><span class="undefined"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></div><div class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></div></pre></td></tr></table></figure><p>然后部署上传就可以了。比如你可以试一试：<a href="www.nickyam.com/404">www.nickyam.com/404</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天是2019年新年第一天。希望新的一年每个家庭都能够幸福美满，充满孩子们的欢声笑语。所以我也想尽自己的所能，来帮助离家的孩子们能够回到温暖的父母身边。所以我在今天这个特殊的日子在自己的博客添加了腾讯404公益页面，希望光顾我博客的朋友如果看到404页面的时候，能够有现实的
       
     
     </summary>
