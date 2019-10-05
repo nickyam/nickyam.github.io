@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2019-09-23T05:56:21.795Z</updated>
+  <updated>2019-10-05T05:25:38.341Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何正确获取CleanMyMac 4.4.7</title>
+    <link href="https://www.nickyam.com/tech/A-way-to-get-cleanmymac.html"/>
+    <id>https://www.nickyam.com/tech/A-way-to-get-cleanmymac.html</id>
+    <published>2019-10-05T05:40:00.000Z</published>
+    <updated>2019-10-05T05:25:38.341Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天我在更新macOS Catalina的时候出了点小问题，等到晚上终于将电脑恢复正常。为了有效清理系统垃圾，我准备用CleanMyMac来清理一下系统。</p><p>CleanMyMac X是一款强大的Mac系统垃圾清理工具,可以清除Mac系统多余的语言包、系统缓存、应用程序、PowerPc软件运行库等,是硬盘瘦身的好工具。它应该算是macOS上最好的系统清理软件了吧。</p><p>曾经我也是CleanMyMac的忠实用户，网上随处可以下载破解版。后来听说有个国内代理一直在围堵，导致现在基本很少在中文互联网中看到此类资源。</p><p>我还是比较信仰和支持正版软件的，所以此前一段时间都试用免费软件来清理系统。这段时间是腾讯的lemon，还是可以满足基本需求的。为什么不用CleanMyMac？因为真的太贵了，虽然我已经有为软件付费的习惯，但是CleanMyMac的价格还是在我心理价位之外。</p><p>今天我换了一个思路，在英文互联网上寻找资源，最终真的被我找到了一个英文站点还有最新的4.4.7的资源没有被和谐。有时候上帝关上了一扇门，也可能还开着一扇窗。</p><p>鉴于中文互联网的复杂形势，我在这里就不提供直接的资源了。我这个思路，大家还是可以参考一下的～当然，如果家里有矿的小伙伴，建议直接官网支持一下！</p><p>正版资源：<a href="http://www.mycleanmymac.com" target="_blank" rel="external">http://www.mycleanmymac.com</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天我在更新macOS Catalina的时候出了点小问题，等到晚上终于将电脑恢复正常。为了有效清理系统垃圾，我准备用CleanMyMac来清理一下系统。&lt;/p&gt;
+&lt;p&gt;CleanMyMac X是一款强大的Mac系统垃圾清理工具,可以清除Mac系统多余的语言包、系统缓存、应
+      
+    
+    </summary>
+    
+      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
+    
+      <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
+    
+  </entry>
   
   <entry>
     <title>一悟一什</title>
@@ -498,31 +526,6 @@
       
       
         &lt;p&gt;今天是2019年新年第一天。希望新的一年每个家庭都能够幸福美满，充满孩子们的欢声笑语。所以我也想尽自己的所能，来帮助离家的孩子们能够回到温暖的父母身边。所以我在今天这个特殊的日子在自己的博客添加了腾讯404公益页面，希望光顾我博客的朋友如果看到404页面的时候，能够有现实的
-      
-    
-    </summary>
-    
-      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo生成sitemap步骤及duplicated mapping key 问题解决</title>
-    <link href="https://www.nickyam.com/tech/hexo-generate-sitemap.html"/>
-    <id>https://www.nickyam.com/tech/hexo-generate-sitemap.html</id>
-    <published>2018-12-31T08:21:00.000Z</published>
-    <updated>2019-03-12T09:23:01.990Z</updated>
-    
-    <content type="html"><![CDATA[<p>GitHub Page 已经和百度决裂，如果还不做一些 SEO 的话，网站的流量真的太少了。所以我准备做一个站点地图讨好下各大搜索引擎。站点地图是一种文件，您可以通过该文件列出您网站上的网页，从而将您网站内容的组织架构告知Google和其他搜索引擎。搜索引擎网页抓取工具会读取此文件，以便更加智能地抓取您的网站。</p><ul><li>首先打开hexo博客根目录，分别用下面两个命令来安装针对谷歌和百度的插件：</li></ul><figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> hexo-generator-sitemap <span class="comment">--save</span></div><div class="line">npm <span class="keyword">install</span> hexo-generator-baidu-sitemap <span class="comment">--save</span></div></pre></td></tr></table></figure><ul><li>在博客目录的_config.yml中添加如下代码:</li></ul><figure class="highlight dts"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">Plugins:</span></div><div class="line">- hexo-generator-baidu-sitemap</div><div class="line">- hexo-generator-sitemap</div><div class="line"><span class="symbol"></span></div><div class="line">baidusitemap:</div><div class="line"><span class="symbol">    path:</span> baidusitemap.xml</div><div class="line"><span class="symbol">sitemap:</span></div><div class="line"><span class="symbol">    path:</span> sitemap.xml</div></pre></td></tr></table></figure><p>hexo-g 后，在博客根目录的public下生成了sitemap.xml以及baidusitemap.xml就表示操作成功。</p><p>但是我在在 hexo-g 后出现了bug：<br><figure class="highlight gauss"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">FATAL duplicated mapping <span class="built_in">key</span> at <span class="keyword">line</span> <span class="number">70</span>, column <span class="number">18</span>:</div><div class="line">    path: sitemap.xml</div></pre></td></tr></table></figure></p><p>后来了解到，如果你的 hexo 版本是 2.x.x<br><figure class="highlight dts"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">sitemap:</span></div><div class="line"><span class="symbol">    path:</span> sitemap.xml</div><div class="line"><span class="symbol">baidusitemap:</span></div><div class="line"><span class="symbol">    path:</span> baidusitemap.xml</div></pre></td></tr></table></figure></p><p>如果你的 hexo 版本是 3.x.x<br><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">sitemap:</span></div><div class="line"><span class="symbol">path:</span> sitemap.xml</div><div class="line"><span class="symbol">baidusitemap:</span></div><div class="line"><span class="symbol">path:</span> baidusitemap.xml</div></pre></td></tr></table></figure></p><p>上面这段配置来源于官方说明，我查看hexo –version我本地的版本是3.2.2，但是却需要使用第一种写法。所以你出现类似的错误，两种方法可以试一试，不一定局限于版本号。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;GitHub Page 已经和百度决裂，如果还不做一些 SEO 的话，网站的流量真的太少了。所以我准备做一个站点地图讨好下各大搜索引擎。站点地图是一种文件，您可以通过该文件列出您网站上的网页，从而将您网站内容的组织架构告知Google和其他搜索引擎。搜索引擎网页抓取工具会读
       
     
     </summary>
