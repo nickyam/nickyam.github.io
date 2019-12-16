@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2019-12-08T07:04:44.324Z</updated>
+  <updated>2019-12-16T06:56:52.445Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Mac劫持插件any search（TotalSearchToolbox）删除的处理方法</title>
+    <link href="https://www.nickyam.com/tech/how-to-get-rid-of-any-search.html"/>
+    <id>https://www.nickyam.com/tech/how-to-get-rid-of-any-search.html</id>
+    <published>2019-12-16T06:11:01.000Z</published>
+    <updated>2019-12-16T06:56:52.445Z</updated>
+    
+    <content type="html"><![CDATA[<p>前段时间，我的chrome被劫持到了<code>any search</code>搜索页面，使用体验非常不好。我在 设置 &gt; 扩展程序 里找到了一个叫做<code>TotalSearchToolbox</code>的插件，禁用删除以后，世界就清静了。但是没过几天，这个恶意插件重出江湖，并且同时感染了Chrome、Firefox和Safari。</p><p>这次我上网求助，发现这是一个臭名昭著的插件，而且比较难缠，只能手动删除相关文件。</p><p>1.到路径：<code>/Library/LaunchDaemons</code> 删除：<code>com.SearchFunctionDaemon.plist</code></p><p>2.删除 <code>/Library/Application support/com.SearchFunctionDaemon</code>文件夹</p><p>3.到路径：<code>~/Library/LaunchAgents</code>，删除 <code>anysearch</code> 相关的文件</p><p>4.上述步骤可能并不完全适用每一个人，但是原理是相通的，就是到<code>/Library</code>和<code>～/Library</code>删除近期一切可疑的文件及带着<code>TotalSearchToolbox</code>和<code>any search</code>字样等文件。</p><p>5.同步去重新设置几大浏览器，删除相应的恶意插件。至此，我的Chrome和Firefox恢复正常了，但是Safari的主页设置部分是灰色的，无法修改，依然被劫持。</p><p>6.后来才发现，这个插件最恶心的是将自己伪装成了描述文件，因此还有最关键的一步，需要进入<code>系统偏好设置</code> 的<code>描述文件</code>里，删除相应文件。我这里显示的就是三条<code>TotalSearchToolbox</code>！！！</p><p>删除描述文件以后，我重新打开了Safari，在 偏好设置 &gt; 通用 里重新设置了主页，世界一下子安静了～</p><p>与这个插件斗智斗勇的过程，我意识到两点：</p><p>一是苹果电脑也并不是万能的，在越来越受欢迎的当下，病毒也会越来越多，不能随便下载安装来路不明的软件，不能随便输密码同意。</p><p>二是CleanMyMac等传统的清理和维护软件都无法识别和一键清理，再香的东西都有局限性。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前段时间，我的chrome被劫持到了&lt;code&gt;any search&lt;/code&gt;搜索页面，使用体验非常不好。我在 设置 &amp;gt; 扩展程序 里找到了一个叫做&lt;code&gt;TotalSearchToolbox&lt;/code&gt;的插件，禁用删除以后，世界就清静了。但是没过几天，这个
+      
+    
+    </summary>
+    
+      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
+    
+      <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
     <title>南宁行记</title>
     <link href="https://www.nickyam.com/essay/a-tour-in-nanning.html"/>
     <id>https://www.nickyam.com/essay/a-tour-in-nanning.html</id>
     <published>2019-11-08T13:44:52.000Z</published>
-    <updated>2019-12-08T07:04:44.324Z</updated>
+    <updated>2019-12-08T07:05:38.574Z</updated>
     
     <content type="html"><![CDATA[<p>立冬前几日，从乍寒的长三角飞抵还暖的北回归线以南，感受着南国特有的盎然绿意，体味到地理空间的神奇。工银投资安排的培训的园子是广西金融培训学校，在南宁青秀山脚下，牌匾叫青山书院。青山书院里有一个小花园，有亭台水榭，有怪石假山。水边一排排的棕榈树在风中摇曳，让我感受到了热带地区的风情。三天的培训安排十分紧凑，最后一天培训结束后我才得空夜游邕江及江边著名的网红打卡点——三街两巷。这一天，正巧是立冬；在南宁，我穿的是单衣。</p><p>每一座城，都依江河而建。南宁的母亲河是邕江，南宁也因此得名“邕城”。南宁的城墙保留的不多，只在邕江北岸绵延百来米。从垛口望去，夕阳下的邕江波光粼粼，远处的华灯与更远处的云霞交相辉映，岸边三三两两的是垂钓或者跑步的人，整个画面有一种矛盾的华美而闲淡。在古城墙上，生长了很多榕树，这些榕树将根系顺着青砖的缝隙蔓延开来，有的甚至扎进墙体内，古老的城墙和生机勃勃的榕树形成了不可分割的整体，自有一种沧桑的力量。</p><p>依城墙而建的是一个宽阔的江边公园。我从邕江边拾级而来，天色已经完全暗下来了。公园里有一群热情的滑板少年，他们在闪烁的霓虹灯下滑出自由的轨迹，欢声笑语中夹杂着声声赞叹。我忍不住抓拍了几个精彩的瞬间，少年似乎发现了，冲我爽朗地笑笑。</p><p>走出江边公园，我来到了颇负盛名的“三街两巷”。三街两巷指南宁市中心的解放路、兴宁路和民生路三条老街和金狮巷、银狮巷两条古巷。据说这片街区始建于宋代，是广西历史文化街区之一，拥有南宁市区唯一保留下来的清代至民国时期的民居群。如果想了解一座城，那就一定要如我一样在夜幕降临后，来走走步行街。夜色中的南宁，是繁华中的宁静，七彩的灯笼渐次亮起，和灯光相互交映。城隍庙前，身着汉服的少男少女陆明凤或手握团扇，或结伴而行，尽情地在各式古朴的建筑前摆出各种姿势，用相机留下美好的记忆……在旁人看来，他们和街区一起，成为了一道靓丽的风景线。行走在青砖青瓦清水墙的仿古建筑间，听着街坊热闹的吆喝声，看着高悬的七彩灯笼，就像回到了古邕城的悠悠岁月，我也像穿越到了明清，融在了历史画卷里。当然，有几条步行街也是现代与民国相得益彰，各色广告牌闪烁着夺目的光彩，就像来到了十里洋场，也别有一番滋味。</p><p>顺着熙来攘往的人流一直向前走，很久都没有看到这么热闹的场景了，不管是外地游客还是本地人，晚上来中山路美食街逛一下，一定可以找到最烟火的南宁生活气息，南宁中山路也被誉为南方”香港小吃街”，各色小吃应有尽有，味蕾上的满足，让每个人的脸上都洋溢着满足的笑容。想着回去给同事们买些特产，我又去附近的商店买了椰子糖、越南的芒果干、糕饼等等，满载而归回到青山书院。</p><p>下次如果有机会再来南宁，我想去青秀山、广西大学等地看看。总之，南宁真是一个好地方，我很喜欢。</p>]]></content>
     
@@ -502,33 +529,6 @@
       
       
         &lt;p&gt;最近发现，随着文章的增加，Hexo 下的归档页、分类页和标签页等的条目数和首页的显示条目数一致，没到满屏就开始分页，就像兔子的尾巴长不了，看起来非常不专业。但是在其他同主题的网站看到的这些页面条目数却很正常，基本都到和侧边栏相齐平才分页，有的网站因为文章数目较少，甚至没有分
-      
-    
-    </summary>
-    
-      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客安装rss插件生成atom.xml文件</title>
-    <link href="https://www.nickyam.com/tech/hexo-generate-rss-atom.html"/>
-    <id>https://www.nickyam.com/tech/hexo-generate-rss-atom.html</id>
-    <published>2019-01-13T01:21:00.000Z</published>
-    <updated>2019-03-12T09:23:01.991Z</updated>
-    
-    <content type="html"><![CDATA[<p>闲来无事，继续优化博客功能，就像对待自己的孩子。之前觉得现在这个时代rss订阅就是一个鸡肋。但是自从搞了站点地图以后，还是觉得少了这一个功能不太好，就依葫芦画瓢也安装一下。具体步骤如下所示。因为我用的主题已经集成了rss功能，所以就是加一个插件的事情。</p><ul><li>进入本地hexo目录，输入以下命令:</li></ul><figure class="highlight cmake"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> hexo-generator-feed</div></pre></td></tr></table></figure><ul><li>在博客目录的_config.yml中添加如下代码:</li></ul><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#RSS订阅</span></div><div class="line"><span class="symbol">plugin:</span></div><div class="line">- hexo-generator-feed</div><div class="line"><span class="meta">#Feed Atom</span></div><div class="line"><span class="symbol">feed:</span></div><div class="line"><span class="symbol">type:</span> atom</div><div class="line"><span class="symbol">path:</span> atom.xml</div><div class="line"><span class="symbol">limit:</span> <span class="number">20</span></div></pre></td></tr></table></figure><p>因为我使用的是Maupassant主题，已经集成了rss功能，所以设置到这一步就可以了。如果你的主题里面没有rss相关设置，也可以添加如下代码：<br><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">rss： /atom.<span class="built_in">xml</span></div></pre></td></tr></table></figure></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;闲来无事，继续优化博客功能，就像对待自己的孩子。之前觉得现在这个时代rss订阅就是一个鸡肋。但是自从搞了站点地图以后，还是觉得少了这一个功能不太好，就依葫芦画瓢也安装一下。具体步骤如下所示。因为我用的主题已经集成了rss功能，所以就是加一个插件的事情。&lt;/p&gt;
-&lt;ul&gt;
-&lt;
       
     
     </summary>
