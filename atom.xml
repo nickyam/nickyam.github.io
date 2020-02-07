@@ -18,35 +18,6 @@
   
   <entry>
     <title>Google Adsense提示Pin码验证地址之记录</title>
-    <link href="https://www.nickyam.com/tech/my-page-to-be-Reference-link.html"/>
-    <id>https://www.nickyam.com/tech/my-page-to-be-Reference-link.html</id>
-    <published>2020-01-29T14:31:01.000Z</published>
-    <updated>2020-01-31T05:38:39.264Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天登陆Google Adsense的时候，页面最上方跳出来一行：</p><blockquote><p>Your payments are currently on hold because you have not verified your address.<br>Today</p></blockquote><p>翻译过来的意思就是</p><blockquote><p>由于您还没有验证您的地址，因此您的付款目前处于暂停状态。</p></blockquote><p>这使我意识到自己的Adsense账户余额已经达到10美金。而提示“由于您还没有验证您的地址，因此您的付款目前处于暂停状态。”这句话的意思是说，你的网站收入已经达到了谷歌付款最低限额的标准，需要验证你一下你的收获地址是否正确。</p><p>具体可以参考<a href="https://support.google.com/adsense/answer/157667?hl=zh-Hans" target="_blank" rel="external">谷歌帮助</a>，英文好的可以直接看<a href="https://support.google.com/adsense/answer/157667?hl=en" target="_blank" rel="external">英文版</a>，中文版是这么说的：</p><blockquote><p>为确保您的帐号安全，在向您发放任何付款之前，Google 会要求您先验证地址。地址验证方法具体如下：</p><p>当您的收入达到进行验证所需的最低限额时，我们会将个人识别码（PIN 码）邮寄到您的付款地址。<br>PIN 码通常会在 2 至 4 周内寄达，但根据您所在的位置也可能需要更长时间。</p><p>收到 PIN 码后，请将其输入 AdSense 帐号以验证您的地址。<br>自 PIN 码生成之日算起，您可以在 4 个月内将该码输入帐号。如果您在 4 个月后还未输入该码，我们会停止在您的页面上展示广告。</p></blockquote><p>因为我原来的地址是老家的地址，以防收不到Pin码，所以在修改地址以后顺便也了解了下万一收不到信件或者实在无法验证的情况下是否有其他办法进行确认。我查了一些资料，找到一个可以申请的链接：</p><p>账号验证：<a href="https://support.google.com/pay/contact/account_verification" target="_blank" rel="external">https://support.google.com/pay/contact/account_verification</a></p><p>打开链接，填写必要信息。受影响的 Google服务选择“AdSense”，提交审核即可。</p><p>提交以后显示：</p><blockquote><p>感谢您与我们联系。支持专家将在 24 到 48 小时内回复您的请求。</p></blockquote><p>希望能够得到好消息～</p><p>我的广告位很少，尽量不影响阅读体验。希望大家广告拦截插件不要拦截本站，或者把我的网站 <code>nickyam.com</code> 添加白名单。</p><p>您的支持，是我坚持下去的动力！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天登陆Google Adsense的时候，页面最上方跳出来一行：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Your payments are currently on hold because you have not verified your address.&lt;br&gt;
-      
-    
-    </summary>
-    
-      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
-    
-      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Google Adsense提示Pin码验证地址之记录</title>
     <link href="https://www.nickyam.com/tech/adsense-pin-number.html"/>
     <id>https://www.nickyam.com/tech/adsense-pin-number.html</id>
     <published>2020-01-29T14:31:01.000Z</published>
@@ -544,6 +515,33 @@
       <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
     
       <category term="iPhone" scheme="https://www.nickyam.com/tags/iPhone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>民生银行房贷二次扣款避免逾期影响征信</title>
+    <link href="https://www.nickyam.com/other/Overdue-mortgage-repayment-of-minsheng-bank.html"/>
+    <id>https://www.nickyam.com/other/Overdue-mortgage-repayment-of-minsheng-bank.html</id>
+    <published>2019-02-21T12:10:00.000Z</published>
+    <updated>2019-03-12T09:25:20.877Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天一早起床，手机提醒我，民生银行房贷扣款了。但是数字明显比正常还款额少了几百元。迷迷糊糊中我还想自己的房贷压力减轻了。转眼一想，不对啊，我的还款方式是等额本息，所以30年都是同一个数字。我打开民生银行手机银行，查看明细才发现，昨天支付宝的备用金500元是从民生银行自动归还的。因此造成了凌晨房贷扣款不足。</p><p>这是足以影响我的个人征信的大事。房贷和信用卡不同，信用卡是有宽限期的，在宽限期内补足无需上征信，而房贷是没有的，显得更加严厉。于是我赶紧从其他地方转了1000元到民生银行的借记卡，并寻找主动还款的入口，未果。</p><p>早上8点，民生银行的客服上班了。我在手机银行问她，是否能够主动还款，答案是否，只能系统批量自动扣款。因为我已经将钱打入账户，可以等第二次批量扣款，时间是19点。资金转入时间最好是17点以前。</p><p>晚上19点，我看自己的账户1000元还纹丝不动。这个时候，我比任何时候都希望银行能够快点来扣钱。我又一次咨询客服，客服说基本在19点30分钱批量扣款结束，请我耐心等待。终于在19点17分左右扣款成功。</p><p>经过这次事件，我决定将民生银行房贷还款账户和其他账户隔离，不能有除房贷以外的自动扣款协议，保证房贷能够正常扣款。今天也是运气，如果没看到扣款信息，那么有可能会造成不必要的征信污点。切记切记！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天一早起床，手机提醒我，民生银行房贷扣款了。但是数字明显比正常还款额少了几百元。迷迷糊糊中我还想自己的房贷压力减轻了。转眼一想，不对啊，我的还款方式是等额本息，所以30年都是同一个数字。我打开民生银行手机银行，查看明细才发现，昨天支付宝的备用金500元是从民生银行自动归还
+      
+    
+    </summary>
+    
+      <category term="⓺其他" scheme="https://www.nickyam.com/categories/other/"/>
+    
+    
+      <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
+    
+      <category term="维权" scheme="https://www.nickyam.com/tags/rights/"/>
     
   </entry>
   
