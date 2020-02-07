@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2020-01-31T05:38:39.264Z</updated>
+  <updated>2020-02-07T05:30:44.644Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记一次手动发现自己的页面被其他站长引用</title>
+    <link href="https://www.nickyam.com/tech/my-page-to-be-Reference-link.html"/>
+    <id>https://www.nickyam.com/tech/my-page-to-be-Reference-link.html</id>
+    <published>2020-02-07T04:31:01.000Z</published>
+    <updated>2020-02-07T05:30:44.644Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天在搜索优化建站相关信息的时候，发现一个个人站长用hexo建的站点，里面有一篇文章《Hexo 框架下404页面的设置》，在最后的Reference部分引用了三篇文章，第一篇就是我的《Hexo博客添加腾讯404公益页面》，链接是<a href="https://www.nickyam.com/tech/hexo-add-tencent-404-page.html">https://www.nickyam.com/tech/hexo-add-tencent-404-page.html</a>。</p><p>这是我第一次手动发现自己的页面被引用，Mark！</p><p>我也仔细阅读了他的文章，集众家之长，更加可以借鉴！故引用之，大家也可以参考！</p><p>详见<a href="https://zejinwang.com/2019/06/25/Hexo-框架下404页面的设置/" target="_blank" rel="external">《Hexo 框架下404页面的设置》</a>。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天在搜索优化建站相关信息的时候，发现一个个人站长用hexo建的站点，里面有一篇文章《Hexo 框架下404页面的设置》，在最后的Reference部分引用了三篇文章，第一篇就是我的《Hexo博客添加腾讯404公益页面》，链接是&lt;a href=&quot;https://www.ni
+      
+    
+    </summary>
+    
+      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
+    
+      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
+    
+  </entry>
   
   <entry>
     <title>Google Adsense提示Pin码验证地址之记录</title>
@@ -515,33 +542,6 @@
       <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
     
       <category term="iPhone" scheme="https://www.nickyam.com/tags/iPhone/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>民生银行房贷二次扣款避免逾期影响征信</title>
-    <link href="https://www.nickyam.com/other/Overdue-mortgage-repayment-of-minsheng-bank.html"/>
-    <id>https://www.nickyam.com/other/Overdue-mortgage-repayment-of-minsheng-bank.html</id>
-    <published>2019-02-21T12:10:00.000Z</published>
-    <updated>2019-03-12T09:25:20.877Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天一早起床，手机提醒我，民生银行房贷扣款了。但是数字明显比正常还款额少了几百元。迷迷糊糊中我还想自己的房贷压力减轻了。转眼一想，不对啊，我的还款方式是等额本息，所以30年都是同一个数字。我打开民生银行手机银行，查看明细才发现，昨天支付宝的备用金500元是从民生银行自动归还的。因此造成了凌晨房贷扣款不足。</p><p>这是足以影响我的个人征信的大事。房贷和信用卡不同，信用卡是有宽限期的，在宽限期内补足无需上征信，而房贷是没有的，显得更加严厉。于是我赶紧从其他地方转了1000元到民生银行的借记卡，并寻找主动还款的入口，未果。</p><p>早上8点，民生银行的客服上班了。我在手机银行问她，是否能够主动还款，答案是否，只能系统批量自动扣款。因为我已经将钱打入账户，可以等第二次批量扣款，时间是19点。资金转入时间最好是17点以前。</p><p>晚上19点，我看自己的账户1000元还纹丝不动。这个时候，我比任何时候都希望银行能够快点来扣钱。我又一次咨询客服，客服说基本在19点30分钱批量扣款结束，请我耐心等待。终于在19点17分左右扣款成功。</p><p>经过这次事件，我决定将民生银行房贷还款账户和其他账户隔离，不能有除房贷以外的自动扣款协议，保证房贷能够正常扣款。今天也是运气，如果没看到扣款信息，那么有可能会造成不必要的征信污点。切记切记！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;今天一早起床，手机提醒我，民生银行房贷扣款了。但是数字明显比正常还款额少了几百元。迷迷糊糊中我还想自己的房贷压力减轻了。转眼一想，不对啊，我的还款方式是等额本息，所以30年都是同一个数字。我打开民生银行手机银行，查看明细才发现，昨天支付宝的备用金500元是从民生银行自动归还
-      
-    
-    </summary>
-    
-      <category term="⓺其他" scheme="https://www.nickyam.com/categories/other/"/>
-    
-    
-      <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
-    
-      <category term="维权" scheme="https://www.nickyam.com/tags/rights/"/>
     
   </entry>
   
