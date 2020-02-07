@@ -69,13 +69,39 @@
   </entry>
   
   <entry>
+    <title>hexo博客中插入图片、音乐和视频的方法</title>
+    <link href="https://www.nickyam.com/tech/hexo-add-music.html"/>
+    <id>https://www.nickyam.com/tech/hexo-add-music.html</id>
+    <published>2020-02-02T12:20:02.000Z</published>
+    <updated>2020-02-07T15:06:12.558Z</updated>
+    
+    <content type="html"><![CDATA[<p>虽然现在的网站很简约，但是在家宅久了希望搞些洋气的东西，在网站上插入图片、音乐和视频。于是简单研究了下，做一定的记录。</p><h1 id="插入本地图片"><a href="#插入本地图片" class="headerlink" title="插入本地图片"></a>插入本地图片</h1><p>在博客目录下确认 <code>_config.yml</code> 中有 <code>post_asset_folder:true</code> 。</p><p>在 hexo 目录，执行</p><p><code>$ npm install https://github.com/CodeFalling/hexo-asset-image --save</code></p><p>之后再使用 <code>hexo new</code>创建新博客的时候，会在 <code>source/_posts</code> 里面创建<code>.md</code>文件的同时生成一个相同的名字的文件夹,把该文章中需要使用的图片放在该文件夹下即可。</p><p>在文中使用的时候，按照语法：<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">![<span class="string">“图片描述”（可以不写）</span>](<span class="link">/文件夹名/图片名字.JPG</span>)</div><div class="line">例如：</div><div class="line">！[ ] (example.jpg)</div></pre></td></tr></table></figure></p><h1 id="插入图片外链"><a href="#插入图片外链" class="headerlink" title="插入图片外链"></a>插入图片外链</h1><p>插入本地图片对于博客更新和资料管理等都会造成一定的影响，所以一般建议采用图床的方式，通过外部链接插入博客。</p><p>在文中使用的时候，按照语法：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">![<span class="string">“图片描述”（可以不写）</span>](<span class="link">外部链接</span>)</div></pre></td></tr></table></figure><h1 id="插入音乐"><a href="#插入音乐" class="headerlink" title="插入音乐"></a>插入音乐</h1><p>需要使用 iframe 标签</p><p>在实际运用中，可以使用网易云音乐，搜索想要的歌曲，点击歌曲名字进入播放器页面，点击生成外链播放器。</p><p>复制代码，直接粘贴到博文中即可。</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">"no"</span> <span class="attr">border</span>=<span class="string">"0"</span> <span class="attr">marginwidth</span>=<span class="string">"0"</span> <span class="attr">marginheight</span>=<span class="string">"0"</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">86</span> <span class="attr">src</span>=<span class="string">"//music.163.com/outchain/player?type=2&amp;id=167827&amp;auto=1&amp;height=66"</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure><p>其中的width=330 height=86 均改为0就看不到了，依然可以播放音乐。</p><p>以下为直接使用代码的结果：</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=167827&auto=1&height=66"></iframe><h1 id="插入视频"><a href="#插入视频" class="headerlink" title="插入视频"></a>插入视频</h1><p>视频链接最好是打开就是视频的链接（支持youku，YouTube），可以把视频上传到优酷，生成外链再拿来用。</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">#视频</div><div class="line"><span class="tag">&lt;<span class="name">iframe</span></span></div><div class="line">    <span class="attr">height</span>=<span class="string">498</span> <span class="attr">width</span>=<span class="string">510</span></div><div class="line">    <span class="attr">src</span>=<span class="string">"http://xxxx.com"</span>  #此处暂时为空</div><div class="line">    <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</div><div class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;虽然现在的网站很简约，但是在家宅久了希望搞些洋气的东西，在网站上插入图片、音乐和视频。于是简单研究了下，做一定的记录。&lt;/p&gt;
+&lt;h1 id=&quot;插入本地图片&quot;&gt;&lt;a href=&quot;#插入本地图片&quot; class=&quot;headerlink&quot; title=&quot;插入本地图片&quot;&gt;&lt;/a&gt;插
+      
+    
+    </summary>
+    
+      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Google Adsense提示Pin码验证地址之记录</title>
     <link href="https://www.nickyam.com/tech/adsense-pin-number.html"/>
     <id>https://www.nickyam.com/tech/adsense-pin-number.html</id>
     <published>2020-01-29T14:31:01.000Z</published>
-    <updated>2020-01-31T05:38:39.264Z</updated>
+    <updated>2020-02-07T14:23:56.568Z</updated>
     
-    <content type="html"><![CDATA[<p>今天登陆Google Adsense的时候，页面最上方跳出来一行：</p><blockquote><p>Your payments are currently on hold because you have not verified your address.<br>Today</p></blockquote><p>翻译过来的意思就是</p><blockquote><p>由于您还没有验证您的地址，因此您的付款目前处于暂停状态。</p></blockquote><p>这使我意识到自己的Adsense账户余额已经达到10美金。而提示“由于您还没有验证您的地址，因此您的付款目前处于暂停状态。”这句话的意思是说，你的网站收入已经达到了谷歌付款最低限额的标准，需要验证你一下你的收获地址是否正确。</p><p>具体可以参考<a href="https://support.google.com/adsense/answer/157667?hl=zh-Hans" target="_blank" rel="external">谷歌帮助</a>，英文好的可以直接看<a href="https://support.google.com/adsense/answer/157667?hl=en" target="_blank" rel="external">英文版</a>，中文版是这么说的：</p><blockquote><p>为确保您的帐号安全，在向您发放任何付款之前，Google 会要求您先验证地址。地址验证方法具体如下：</p><p>当您的收入达到进行验证所需的最低限额时，我们会将个人识别码（PIN 码）邮寄到您的付款地址。<br>PIN 码通常会在 2 至 4 周内寄达，但根据您所在的位置也可能需要更长时间。</p><p>收到 PIN 码后，请将其输入 AdSense 帐号以验证您的地址。<br>自 PIN 码生成之日算起，您可以在 4 个月内将该码输入帐号。如果您在 4 个月后还未输入该码，我们会停止在您的页面上展示广告。</p></blockquote><p>因为我原来的地址是老家的地址，以防收不到Pin码，所以在修改地址以后顺便也了解了下万一收不到信件或者实在无法验证的情况下是否有其他办法进行确认。我查了一些资料，找到一个可以申请的链接：</p><p>账号验证：<a href="https://support.google.com/pay/contact/account_verification" target="_blank" rel="external">https://support.google.com/pay/contact/account_verification</a></p><p>打开链接，填写必要信息。受影响的 Google服务选择“AdSense”，提交审核即可。</p><p>提交以后显示：</p><blockquote><p>感谢您与我们联系。支持专家将在 24 到 48 小时内回复您的请求。</p></blockquote><p>希望能够得到好消息～</p><p>我的广告位很少，尽量不影响阅读体验。希望大家广告拦截插件不要拦截本站，或者把我的网站 <code>nickyam.com</code> 添加白名单。</p><p>您的支持，是我坚持下去的动力！</p>]]></content>
+    <content type="html"><![CDATA[<p>今天登陆Google Adsense的时候，页面最上方跳出来一行：</p><blockquote><p>Your payments are currently on hold because you have not verified your address.<br>Today</p></blockquote><p>翻译过来的意思就是</p><blockquote><p>由于您还没有验证您的地址，因此您的付款目前处于暂停状态。</p></blockquote><p>这使我意识到自己的Adsense账户余额已经达到10美金。而提示“由于您还没有验证您的地址，因此您的付款目前处于暂停状态。”这句话的意思是说，你的网站收入已经达到了谷歌付款最低限额的标准，需要验证你一下你的收获地址是否正确。</p><p>具体可以参考<a href="https://support.google.com/adsense/answer/157667?hl=zh-Hans" target="_blank" rel="external">谷歌帮助</a>，英文好的可以直接看<a href="https://support.google.com/adsense/answer/157667?hl=en" target="_blank" rel="external">英文版</a>，中文版是这么说的：</p><blockquote><p>为确保您的帐号安全，在向您发放任何付款之前，Google 会要求您先验证地址。地址验证方法具体如下：</p><p>当您的收入达到进行验证所需的最低限额时，我们会将个人识别码（PIN 码）邮寄到您的付款地址。<br>PIN 码通常会在 2 至 4 周内寄达，但根据您所在的位置也可能需要更长时间。</p><p>收到 PIN 码后，请将其输入 AdSense 帐号以验证您的地址。<br>自 PIN 码生成之日算起，您可以在 4 个月内将该码输入帐号。如果您在 4 个月后还未输入该码，我们会停止在您的页面上展示广告。</p></blockquote><p>由上可知，所谓PIN 码，是Google Adsense验证站长联系信息的主要方式，也是确定站长收款资格的验证服务。当Google Adsense账户余额达到10美元时，就会触发PIN码验证，即以平信的方式，向发布商帐户中的收款人地址寄出带有PIN码，如果在规定期限内没有完成验证，将会停止广告展示。不过，由于PIN码的寄件方式相对太传统，因此很可能出现连续申请几次也无法收到的情况，这样就会影响Adsense账户的收款。</p><p>因为我原来的地址是老家的地址，以防收不到Pin码，所以在修改地址以后顺便也了解了下万一收不到信件或者实在无法验证的情况下是否有其他办法进行确认。我查了一些资料，找到一个可以申请的链接：</p><p>账号验证：<a href="https://support.google.com/pay/contact/account_verification" target="_blank" rel="external">https://support.google.com/pay/contact/account_verification</a></p><p>打开链接，填写必要信息。受影响的 Google服务选择“AdSense”，提交审核即可。</p><p>提交以后显示：</p><blockquote><p>感谢您与我们联系。支持专家将在 24 到 48 小时内回复您的请求。</p></blockquote><p><strong>关于PIN码身份证验证的建议</strong></p><p>1、 在未满 10 美元之前提前完善 Google Adsense 账号内的地址，最好是精确到门牌号，可以收到平信的地址。</p><p>2、 申请第 1 次 PIN 码之后经常登录后台点击“操作”按钮进入到输入 PIN 码页面查看，如果出现“申请新的 PIN”按钮后立马申请第二次，可以变更其他地址或不变更。这个时间大概是 20 多天，不用等到 30 天的。</p><p>3、 如果在第3次申请 PIN 码 20 多天之后还是没有收到任何 PIN 码的话，等出现“申请新的 PIN”按钮后立马申请第4次。如果从第4次申请 PIN 码之日开始到下个月同一天都还没有收到任何 PIN 码的话，立马点击下方提示的链接按钮进入到在线验证 PIN 码页面填写和提交相关内容材料。</p><p>我的广告位很少，尽量不影响阅读体验。希望大家广告拦截插件不要拦截本站，或者把我的网站 <code>nickyam.com</code> 添加白名单。</p><p>您的支持，是我坚持下去的动力！</p>]]></content>
     
     <summary type="html">
     
@@ -512,32 +538,6 @@
     
     
       <category term="GitHub" scheme="https://www.nickyam.com/tags/GitHub/"/>
-    
-      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客设置分类顺序</title>
-    <link href="https://www.nickyam.com/tech/Hexo-Category-List.html"/>
-    <id>https://www.nickyam.com/tech/Hexo-Category-List.html</id>
-    <published>2019-03-11T12:09:00.000Z</published>
-    <updated>2019-03-12T17:04:52.479Z</updated>
-    
-    <content type="html"><![CDATA[<p>Hexo博客的默认分类顺序不知道是按照什么规律排序的，反正对中文分类不是很友好。如果想手动自定义分类的顺序，可以使用分类前面加上数学序号或其他特殊符号的办法。我觉得自己的网站气质稍微还是冷淡风的，不适合添加花里胡哨的符号，所以以分类前面添加数学序号为例。</p><p>因为之前已经有几十篇历史文章，如果手动一偏一篇去替换太费时间。我就用 Atom 批量替换，快捷键是 <code>shift + command + f</code>进行多文件搜索。接下来的操作和 MS Office 无异。</p><p>最终效果如下：</p><figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">⓵随笔</div><div class="line">⓶科技</div><div class="line">⓷投资</div><div class="line">⓸诗歌</div><div class="line">⓹工作</div><div class="line">⓺其他</div></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Hexo博客的默认分类顺序不知道是按照什么规律排序的，反正对中文分类不是很友好。如果想手动自定义分类的顺序，可以使用分类前面加上数学序号或其他特殊符号的办法。我觉得自己的网站气质稍微还是冷淡风的，不适合添加花里胡哨的符号，所以以分类前面添加数学序号为例。&lt;/p&gt;
-&lt;p&gt;因为
-      
-    
-    </summary>
-    
-      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
     
       <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
     
