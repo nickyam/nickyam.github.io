@@ -69,11 +69,11 @@
   </entry>
   
   <entry>
-    <title>hexo博客中插入图片、音乐和视频的方法</title>
-    <link href="https://www.nickyam.com/tech/hexo-add-music.html"/>
-    <id>https://www.nickyam.com/tech/hexo-add-music.html</id>
+    <title>Hexo博客中插入图片、音乐和视频的方法</title>
+    <link href="https://www.nickyam.com/tech/hexo-add-music-and-movie.html"/>
+    <id>https://www.nickyam.com/tech/hexo-add-music-and-movie.html</id>
     <published>2020-02-02T12:20:02.000Z</published>
-    <updated>2020-02-07T15:06:12.558Z</updated>
+    <updated>2020-02-07T15:16:50.259Z</updated>
     
     <content type="html"><![CDATA[<p>虽然现在的网站很简约，但是在家宅久了希望搞些洋气的东西，在网站上插入图片、音乐和视频。于是简单研究了下，做一定的记录。</p><h1 id="插入本地图片"><a href="#插入本地图片" class="headerlink" title="插入本地图片"></a>插入本地图片</h1><p>在博客目录下确认 <code>_config.yml</code> 中有 <code>post_asset_folder:true</code> 。</p><p>在 hexo 目录，执行</p><p><code>$ npm install https://github.com/CodeFalling/hexo-asset-image --save</code></p><p>之后再使用 <code>hexo new</code>创建新博客的时候，会在 <code>source/_posts</code> 里面创建<code>.md</code>文件的同时生成一个相同的名字的文件夹,把该文章中需要使用的图片放在该文件夹下即可。</p><p>在文中使用的时候，按照语法：<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">![<span class="string">“图片描述”（可以不写）</span>](<span class="link">/文件夹名/图片名字.JPG</span>)</div><div class="line">例如：</div><div class="line">！[ ] (example.jpg)</div></pre></td></tr></table></figure></p><h1 id="插入图片外链"><a href="#插入图片外链" class="headerlink" title="插入图片外链"></a>插入图片外链</h1><p>插入本地图片对于博客更新和资料管理等都会造成一定的影响，所以一般建议采用图床的方式，通过外部链接插入博客。</p><p>在文中使用的时候，按照语法：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">![<span class="string">“图片描述”（可以不写）</span>](<span class="link">外部链接</span>)</div></pre></td></tr></table></figure><h1 id="插入音乐"><a href="#插入音乐" class="headerlink" title="插入音乐"></a>插入音乐</h1><p>需要使用 iframe 标签</p><p>在实际运用中，可以使用网易云音乐，搜索想要的歌曲，点击歌曲名字进入播放器页面，点击生成外链播放器。</p><p>复制代码，直接粘贴到博文中即可。</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">"no"</span> <span class="attr">border</span>=<span class="string">"0"</span> <span class="attr">marginwidth</span>=<span class="string">"0"</span> <span class="attr">marginheight</span>=<span class="string">"0"</span> <span class="attr">width</span>=<span class="string">330</span> <span class="attr">height</span>=<span class="string">86</span> <span class="attr">src</span>=<span class="string">"//music.163.com/outchain/player?type=2&amp;id=167827&amp;auto=1&amp;height=66"</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure><p>其中的width=330 height=86 均改为0就看不到了，依然可以播放音乐。</p><p>以下为直接使用代码的结果：</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=167827&auto=1&height=66"></iframe><h1 id="插入视频"><a href="#插入视频" class="headerlink" title="插入视频"></a>插入视频</h1><p>视频链接最好是打开就是视频的链接（支持youku，YouTube），可以把视频上传到优酷，生成外链再拿来用。</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">#视频</div><div class="line"><span class="tag">&lt;<span class="name">iframe</span></span></div><div class="line">    <span class="attr">height</span>=<span class="string">498</span> <span class="attr">width</span>=<span class="string">510</span></div><div class="line">    <span class="attr">src</span>=<span class="string">"http://xxxx.com"</span>  #此处暂时为空</div><div class="line">    <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</div><div class="line"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure>]]></content>
     
@@ -91,6 +91,8 @@
     
     
       <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
+    
+      <category term="Hexo" scheme="https://www.nickyam.com/tags/Hexo/"/>
     
   </entry>
   
