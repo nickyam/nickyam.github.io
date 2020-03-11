@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2020-03-03T15:16:21.297Z</updated>
+  <updated>2020-03-11T14:24:26.015Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决Mac软件提示“将对您的电脑造成伤害，您应该将它移到废纸篓”的方法</title>
+    <link href="https://www.nickyam.com/tech/the-solution-of-moving-to-bin-reminder.html"/>
+    <id>https://www.nickyam.com/tech/the-solution-of-moving-to-bin-reminder.html</id>
+    <published>2020-03-11T13:15:23.000Z</published>
+    <updated>2020-03-11T14:24:26.015Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天在 Mac10.15.3 打开 BitTorrent Sync 的时候忽然跳出来对话框提醒我：</p><p>“BitTorrent Sync”将对您的电脑造成伤害。 您应该将它移到废纸篓。</p><p>之前一般在安装未知来源软件的时候才会有类似的对话框阻止下一步操作。但是今天的对话框其实也很容易解决。</p><p>访达-应用程序 BitTorrent Sync 右键-显示简介-覆盖恶意软件保护 打勾 -输入密码确认操作即可。</p><p><img src="https://raw.githubusercontent.com/nickyam/img/master/jietu/2020-03-11-10.07.45.png" alt=""></p><p>其他软件也适用。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天在 Mac10.15.3 打开 BitTorrent Sync 的时候忽然跳出来对话框提醒我：&lt;/p&gt;
+&lt;p&gt;“BitTorrent Sync”将对您的电脑造成伤害。 您应该将它移到废纸篓。&lt;/p&gt;
+&lt;p&gt;之前一般在安装未知来源软件的时候才会有类似的对话框阻止下一步操作
+      
+    
+    </summary>
+    
+      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
+    
+  </entry>
   
   <entry>
     <title>再谈房贷利率选择</title>
@@ -521,31 +548,6 @@
       <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
     
       <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一悟一什</title>
-    <link href="https://www.nickyam.com/essay/start-of-cook.html"/>
-    <id>https://www.nickyam.com/essay/start-of-cook.html</id>
-    <published>2019-07-21T05:05:49.000Z</published>
-    <updated>2019-09-23T05:56:21.795Z</updated>
-    
-    <content type="html"><![CDATA[<p>五月初，搬新家的时候，还缺一口爆炒锅。断断续续在实体店和天猫看了一圈，没有找到兼顾健康、品质和性价比的那一个。有一天偶然搜小米有品的时候看到了一悟一什这个品牌，第一眼觉得很怪异，为什么会给企业给爆炒锅取如此冷僻难懂的名字。后来在网上才了解到，这家公司的宗旨还是很文艺用心的：</p><blockquote><p>一悟一什秉承古早之工匠精神，一心参悟，做精一品，以传承、创新、良品为主导理念，秉承古早工匠精神，开创产品时尚顶多一，打造轻奢餐厨品牌。</p></blockquote><p>作为一个伪文艺青年，在不违背健康、品质和性价比的大前提下，冲着这段话果断下单。等到实物到手的时候，脑中出现一句话：</p><blockquote><p>一悟一什，尺寸32cm，重达3.36kg，为男人设计。</p></blockquote><p>所以买了这个锅，男人就得背上做菜的责任了。</p><p>以前家里买锅，从来没有做过开锅的工序。这次做菜前，我特地切了几片肥肉，不停擦拭锅体，把锅面熬的油亮亮的。这种感觉就像古代剑客刚从铸剑师那里拿到自己的神兵利器，小试牛刀的情形。我想，我和这口锅结下了不解之缘。</p><p>开锅以后过了24小时，正式下厨。第一锅青菜乌漆麻黑，第二锅开始就正常了。爆炒锅热的很快，火力很猛，我左手拿铲，不断翻腾着锅里的菜，躲避着劈劈啪啪的翻飞出来的油珠，就像古代战场上敌人的飞箭。又像远古时代的男人在丛林中狩猎，一边躲避着毒蛇猛兽的伺机窥探，另一方面脑中想的已经是狩猎成功以后把猎物带回家如何与家人分享了。闻着锅里不断飘溢的菜香，嘴角已经上扬。</p><p>一悟一什这口锅很朴实，既是企业的工匠精神的体现，也是对购买人做菜精益求精的期许。做菜真的也需要体悟，才能不断调整火候、时间、用量等等，做出更加美味的菜品。一悟一什这口锅很厚重，既是企业责任的担当，也是家里男人的担当。</p><p>一段时间用下来，我已经把它当成了自己在家里的最亲密的伙伴了。</p><p>一悟一什，值得推荐。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;五月初，搬新家的时候，还缺一口爆炒锅。断断续续在实体店和天猫看了一圈，没有找到兼顾健康、品质和性价比的那一个。有一天偶然搜小米有品的时候看到了一悟一什这个品牌，第一眼觉得很怪异，为什么会给企业给爆炒锅取如此冷僻难懂的名字。后来在网上才了解到，这家公司的宗旨还是很文艺用心的：
-      
-    
-    </summary>
-    
-      <category term="⓵随笔" scheme="https://www.nickyam.com/categories/essay/"/>
-    
-    
-      <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
     
   </entry>
   
