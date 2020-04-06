@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2020-04-06T05:03:12.201Z</updated>
+  <updated>2020-04-06T05:08:05.830Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.nickyam.com/tech/shortcuts-for-mac.html"/>
     <id>https://www.nickyam.com/tech/shortcuts-for-mac.html</id>
     <published>2020-04-06T02:01:45.000Z</published>
-    <updated>2020-04-06T05:03:12.201Z</updated>
+    <updated>2020-04-06T05:08:05.830Z</updated>
     
-    <content type="html"><![CDATA[<p>很多同学都在问Mac的快捷键有哪些好用的，这里 <a href="www.nickyam.com">Nick</a> 整理了一份Mac 系统的快捷键大全，觉得有用可以转发/收藏起来。</p><p>如果你对于上述基础的快捷键还不满足，你也可以安装 <strong>Cheatsheet</strong>，按住 Command 键即可获得电脑当前界面的所有快捷方式。</p><p>！<a href="https://raw.githubusercontent.com/nickyam/img/master/pics/shortcuts-for-mac.jpg" target="_blank" rel="external">Mac OS 快捷键一览 </a></p>]]></content>
+    <content type="html"><![CDATA[<p>很多同学都在问Mac的快捷键有哪些好用的，这里 <a href="www.nickyam.com">Nick</a> 整理了一份Mac 系统的快捷键大全，觉得有用可以转发/收藏起来。</p><p>如果你对于上述基础的快捷键还不满足，你也可以安装 <strong>Cheatsheet</strong>，按住 Command 键即可获得电脑当前界面的所有快捷方式。</p><p><img src="https://raw.githubusercontent.com/nickyam/img/master/pics/shortcuts-for-mac.jpg" alt="Mac OS 快捷键一览 "></p>]]></content>
     
     <summary type="html">
     
@@ -198,9 +198,9 @@
       <category term="⓹工作" scheme="https://www.nickyam.com/categories/work/"/>
     
     
-      <category term="金融" scheme="https://www.nickyam.com/tags/finance/"/>
-    
       <category term="思考" scheme="https://www.nickyam.com/tags/think/"/>
+    
+      <category term="金融" scheme="https://www.nickyam.com/tags/finance/"/>
     
   </entry>
   
