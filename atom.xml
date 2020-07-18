@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2020-06-23T05:28:21.190Z</updated>
+  <updated>2020-07-18T14:54:37.237Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>QQ邮箱-免费图床的完美替代</title>
+    <link href="https://www.nickyam.com/tech/QQ-mail-as-image-hosting.html"/>
+    <id>https://www.nickyam.com/tech/QQ-mail-as-image-hosting.html</id>
+    <published>2020-06-21T07:25:08.000Z</published>
+    <updated>2020-07-18T14:54:37.237Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天在写作的时候又因为图床的问题而犯愁，因为我觉得图片得放在自己的地盘才安心。</p><p>在偶然中，我发现QQ邮箱的附件自带一串链接，如：<a href="http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9HnibfulwJYRWf5pNOczic3Un4De83UmBGicVw/" target="_blank" rel="external">http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9HnibfulwJYRWf5pNOczic3Un4De83UmBGicVw/</a>  我就突发奇想，这能不能直接外链到博客作为图床呢？</p><p>在昨天的 <a href="https://www.nickyam.com/work/week-overview-of-bond-market-2020-06-15.html">2020债券市场一周概览（0615-0619）</a>中，我尝试将图片用QQ邮箱来作为图床来源，结果加载速度很快，远超GitHub图床。之前的GitHub图床处于被屏蔽状态，国内已经完全无法访问了。</p><p>虽然暂时解决了问题，但还有几个问题需要考虑：</p><p>一是链接的稳定性如何。到今天为止，链接依然有效，有待进一步观察。</p><p>二是链接的性质到底是什么。从<a href="http://p.qlogo.cn/bizmail/部分看，似乎是QQ缩略图的缓存图片，这就回到问题一的稳定性。" target="_blank" rel="external">http://p.qlogo.cn/bizmail/部分看，似乎是QQ缩略图的缓存图片，这就回到问题一的稳定性。</a></p><p>三是链接的唯一性。我从邮箱中再次打开图片，得到的链接和前次不一样，但是两个链接都能够打开。</p><p>四是存储空间。图片的存储空间要求很高，好在QQ邮箱有一个3个月扩容的计划，我现在已经有4096G，暂时够用。</p><p>我不知道腾讯是否会在未来某时封杀这种使用方式，但是至少图片还在邮箱里，能够归档寻找。而QQ邮箱在可预见的未来应该会一直存续吧。</p><p>因此，让我们放下心来，好好薅腾讯的羊毛吧。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天在写作的时候又因为图床的问题而犯愁，因为我觉得图片得放在自己的地盘才安心。&lt;/p&gt;
+&lt;p&gt;在偶然中，我发现QQ邮箱的附件自带一串链接，如：&lt;a href=&quot;http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9HnibfulwJYR
+      
+    
+    </summary>
+    
+      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
+    
+  </entry>
   
   <entry>
     <title>2020债券市场一周概览（0615-0619）</title>
@@ -516,32 +542,6 @@
 &lt;ul&gt;
 &lt;li&gt;3月30日，央行重启公开市场投放，进行500亿7天逆回购操作，同时下调7天回购招标利率20bp至2.2%；&lt;/li&gt;
 &lt;l
-      
-    
-    </summary>
-    
-      <category term="⓹工作" scheme="https://www.nickyam.com/categories/work/"/>
-    
-    
-      <category term="金融" scheme="https://www.nickyam.com/tags/finance/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020债券市场一周概览（0323-0327）</title>
-    <link href="https://www.nickyam.com/work/week-overview-of-bond-market-2020-03-27.html"/>
-    <id>https://www.nickyam.com/work/week-overview-of-bond-market-2020-03-27.html</id>
-    <published>2020-03-27T13:01:21.000Z</published>
-    <updated>2020-03-30T10:42:20.743Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>一、资金面基本维持宽松，债券收益率多数下行</strong></p><p><strong>市场方面</strong>：美联储通过无下限宽松手段维稳美元流动性危机，市场情绪有所好转，全球金融资产反弹，美股在经历四次熔断后，史诗级反弹。中国央行公开市场未进行逆回购操作，资金面维持宽松，短期流动性无忧。</p><p><strong>一级市场</strong>：发行量相较上周并无明显减少。发行规模共计2092.4亿，包括短融1321.1亿、中票771.3亿，环比基本持平。</p><p><strong>二级市场</strong>：长短期均呈下行走势。1Y期以内全部品种收益率仍下行，以180D品种收益率下行尤为显著，长端收益率整体也呈下行趋势，除 5Y 期 AA 品种小幅上行 0.76BP 。</p><p><img src="https://raw.githubusercontent.com/nickyam/img/master/jietu/2020-03-27.png" alt=" 中短期票据到期收益率（AAA）"></p><p><strong>二、短融中票取消发行规模下降</strong></p><p>随着3月中旬市场收益率上行，信用债的取消发行案例逐步增多（21只，231亿元）。上周取消发行的案例有所下降（19只，89.6亿元），发行规模的下降趋势较发行数量的下降更为明显，说明在前两周市场不理想的情况下，发行人整体缩小了发行规模以控制发行价格。取消发行主体均为地方国企较弱主体。</p><p>中期票据共取消发行12只，环比上周减少6只；超短期融资券取消发行6只，环比上周增加3只;短融取消发行1只</p><table><thead><tr><th>债券品种</th><th>金额（亿元）</th><th>支数</th></tr></thead><tbody><tr><td>中期票据（3年、3+2年）</td><td>36.5</td><td>7</td></tr><tr><td>中期票据（5年期及以上）</td><td>25.1</td><td>5</td></tr><tr><td>超短期融资券</td><td>22.3</td><td>6</td></tr><tr><td>短期融资券</td><td>5.7</td><td>1</td></tr></tbody></table><p><strong>三、浙江区域发行情况</strong></p><p>浙江地区共计发行短融中票118.5亿，其中超短和短融11只，中票4只，定向工具3只，发行规模和支数均较上周大幅增加。其中地方国企及央企子公司发行规模84.5亿（省属及央企子公司11.5亿、市级国资25亿、区县级国资48亿），民企34亿。市场上发行主体以国资为主。</p><table><thead><tr><th>品种</th><th>上周发行金额</th><th>本周发行金额</th><th>同比增减</th><th>上周发行只数</th><th>本周发行只数</th><th>同比增减</th></tr></thead><tbody><tr><td>超短SCP</td><td>28</td><td>49.5</td><td>76.79%</td><td>4</td><td>9</td><td>125%</td></tr><tr><td>短融CP</td><td>3</td><td>13</td><td>333.33%</td><td>1</td><td>2</td><td>100%</td></tr><tr><td>中票MTN</td><td>21</td><td>40</td><td>90.48%</td><td>3</td><td>4</td><td>33.33%</td></tr><tr><td>定向工具PPN</td><td>0</td><td>16</td><td>-</td><td>0</td><td>3</td><td>-</td></tr><tr><td>合计</td><td>52</td><td>118.5</td><td>127.88%</td><td>8</td><td>18</td><td>125%</td></tr></tbody></table><p><strong>四、事件与展望</strong></p><blockquote><p>中共中央政治局3月27日召开会议，分析国内外新冠肺炎疫情防控和经济运行形势，研究部署进一步统筹推进疫情防控和经济社会发展工作。这次会议是自疫情以来的第五次政治局会议，相较前次2月21日会议“疫情蔓延势头得到初步遏制”，本次会议对疫情防控形势判断更加积极，明确了取得阶段性重要成效的肯定，同时释放更加积极的政策信号，强调要加大宏观政策调节和实施力度，首次提到扩赤字、发行特别国债、增加地方专项债规模、引导贷款利率下行的刺激措施。</p></blockquote><p>自疫情以来，国内货币政策快速响应，通过降准、降息等宽松举措维持市场流动性充足，预计后续MLF利率和LPR利率将进一步下调。考虑到商业银行体系成本端的制约，政策可能将同时引导存款基准利率的下调，为LPR下行创造空间。</p><p>当下海外疫情不断升级，中美政策利差持续走扩，10年期国债到期收益率之差维持在150bp以上的历史高位，加之人民币对美元汇率于在岸和离岸市场大幅走低，我国债券吸引力较大，可能造成输入性的流动性宽松，利好债市。</p><p>虽然财政赤字率扩大，发行特别国债均对债券市场情绪造成压力，且利率债和信用债的跷跷板导致对信用债的挤出效应，如因海外疫情变化导致资金情绪波动，利率或出现一定幅度的反弹。</p><p>目前全球疫情、政策和经济都处于左侧区域：（一）有疫情拐点可以期待，有政策加码可以期待；（二）基本面压力会被“计提”但无法确认计提的准确性；（三）有全球疫情失控风险、经济下行超预期风险、政策不及预期风险；（四）正面和负面逻辑均具有不可证伪性。</p><p><strong>本期观点：谨慎乐观。</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;一、资金面基本维持宽松，债券收益率多数下行&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;市场方面&lt;/strong&gt;：美联储通过无下限宽松手段维稳美元流动性危机，市场情绪有所好转，全球金融资产反弹，美股在经历四次熔断后，史诗级反弹。中国央行公开市场未进行逆
       
     
     </summary>
