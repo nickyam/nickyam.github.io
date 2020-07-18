@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2020-07-18T15:00:34.415Z</updated>
+  <updated>2020-07-18T15:36:36.483Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -17,21 +17,49 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>QQ邮箱-免费图床的完美替代</title>
+    <title>户外跑步之2020-07-18</title>
+    <link href="https://www.nickyam.com/essay/runnning-record-2020-07-18.html"/>
+    <id>https://www.nickyam.com/essay/runnning-record-2020-07-18.html</id>
+    <published>2020-07-18T02:15:28.000Z</published>
+    <updated>2020-07-18T15:36:36.483Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天早上，如工作日般6点半起床，7点10分出门跑步。</p><p>我一向是喜欢户外跑步而不是跑步机，因为视野开阔，节奏也能够掌控。这是我在疫情以后第一次出小区跑步。</p><p>因为上篇文章提到，可以使用QQ邮箱作为图床，所以在此开启我有图有真相的运动记录。</p><p>之江新城的清晨，人少车少，城市似乎还没有睡醒。因此跑起来非常畅快，比小区里跑的成绩好多了，记录如下：</p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYUFtVuIL2THNghBLRxoZ7OTUdpF9XjsHfdTO7PkjibfTM/0" alt="Keep记录·退潮后的钱塘江" style="zoom:50%;"></p><p>沿途风景如下：</p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYUFtVuIL2THPyEZQCwnMKk7wRhPWEKPeYR8c0o2shnrw/0" alt="绿叶掩映中的之江大桥" style="zoom: 15%;"></p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYUFtVuIL2THPnicL8nDsdkkPOCUP9kJFJj3X5P6zwFan0/0" alt="桥墩下钓鱼" style="zoom: 15%;"></p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYUFtVuIL2THPEq9mzTMMozneIC03B5CcA49FVhTQ1oyY/0" alt="船遗址公园" style="zoom: 15%;"></p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYUFtVuIL2THM1Hp22FtMnQrXFPszp4YWVeDbURfG1Cgg/0" alt="西湖水利" style="zoom: 15%;"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天早上，如工作日般6点半起床，7点10分出门跑步。&lt;/p&gt;
+&lt;p&gt;我一向是喜欢户外跑步而不是跑步机，因为视野开阔，节奏也能够掌控。这是我在疫情以后第一次出小区跑步。&lt;/p&gt;
+&lt;p&gt;因为上篇文章提到，可以使用QQ邮箱作为图床，所以在此开启我有图有真相的运动记录。&lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="⓵随笔" scheme="https://www.nickyam.com/categories/essay/"/>
+    
+    
+      <category term="运动" scheme="https://www.nickyam.com/tags/sports/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>QQ邮箱记事本-免费图床的完美替代</title>
     <link href="https://www.nickyam.com/tech/QQ-mail-as-image-hosting.html"/>
     <id>https://www.nickyam.com/tech/QQ-mail-as-image-hosting.html</id>
     <published>2020-06-21T07:25:08.000Z</published>
-    <updated>2020-07-18T15:00:34.415Z</updated>
+    <updated>2020-07-18T15:24:18.318Z</updated>
     
-    <content type="html"><![CDATA[<p>昨天在写作的时候又因为图床的问题而犯愁，因为我觉得图片得放在自己的地盘才安心。</p><p>在偶然中，我发现QQ邮箱的附件自带一串链接，如：</p><p><a href="http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9HnibfulwJYRWf5pNOczic3Un4De83UmBGicVw/" target="_blank" rel="external">http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9HnibfulwJYRWf5pNOczic3Un4De83UmBGicVw/</a>  </p><p>我就突发奇想，这能不能直接外链到博客作为图床呢？</p><p>在昨天的 <a href="https://www.nickyam.com/work/week-overview-of-bond-market-2020-06-15.html">2020债券市场一周概览（0615-0619）</a>中，我尝试将图片用QQ邮箱来作为图床来源，结果加载速度很快，远超GitHub图床。之前的GitHub图床处于被屏蔽状态，国内已经完全无法访问了。</p><p>虽然暂时解决了问题，但还有几个问题需要考虑：</p><p>一是链接的稳定性如何。到今天为止，链接依然有效，有待进一步观察。</p><p>二是链接的性质到底是什么。从 <a href="http://p.qlogo.cn/bizmail/" target="_blank" rel="external">http://p.qlogo.cn/bizmail/</a>  部分看，似乎是QQ缩略图的缓存图片，这就回到问题一的稳定性。</p><p>三是链接的唯一性。我从邮箱中再次打开图片，得到的链接和前次不一样，但是两个链接都能够打开。</p><p>四是存储空间。图片的存储空间要求很高，好在QQ邮箱有一个3个月扩容的计划，我现在已经有4096G，暂时够用。</p><p>我不知道腾讯是否会在未来某时封杀这种使用方式，但是至少图片还在邮箱里，能够归档寻找。而QQ邮箱在可预见的未来应该会一直存续吧。</p><p>因此，让我们放下心来，好好薅腾讯的羊毛吧。</p>]]></content>
+    <content type="html"><![CDATA[<p>昨天在写作的时候又因为图床的问题而犯愁，因为我觉得图片得放在自己的地盘才安心。</p><p>在偶然中，我发现QQ邮箱的记事本附件自带一串链接，如：</p><p><a href="http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9HnibfulwJYRWf5pNOczic3Un4De83UmBGicVw/" target="_blank" rel="external">http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9HnibfulwJYRWf5pNOczic3Un4De83UmBGicVw/</a>  </p><p>我就突发奇想，这能不能直接外链到博客作为图床呢？</p><p>在昨天的 <a href="https://www.nickyam.com/work/week-overview-of-bond-market-2020-06-15.html">2020债券市场一周概览（0615-0619）</a>中，我尝试将图片用QQ邮箱来作为图床来源，结果加载速度很快，远超GitHub图床。之前的GitHub图床处于被屏蔽状态，国内已经完全无法访问了。</p><p>虽然暂时解决了问题，但还有几个问题需要考虑：</p><p>一是链接的稳定性如何。到今天为止，链接依然有效，有待进一步观察。</p><p>二是链接的性质到底是什么。从 <a href="http://p.qlogo.cn/bizmail/" target="_blank" rel="external">http://p.qlogo.cn/bizmail/</a>  部分看，似乎是QQ缩略图的缓存图片，这就回到问题一的稳定性。</p><p>三是链接的唯一性。我从邮箱中再次打开图片，得到的链接和前次不一样，但是两个链接都能够打开。</p><p>四是存储空间。图片的存储空间要求很高，好在QQ邮箱有一个3个月扩容的计划，我现在已经有4096G，暂时够用。</p><p>我不知道腾讯是否会在未来某时封杀这种使用方式，但是至少图片还在邮箱里，能够归档寻找。而QQ邮箱在可预见的未来应该会一直存续吧。</p><p>因此，让我们放下心来，好好薅腾讯的羊毛吧。</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;昨天在写作的时候又因为图床的问题而犯愁，因为我觉得图片得放在自己的地盘才安心。&lt;/p&gt;
-&lt;p&gt;在偶然中，我发现QQ邮箱的附件自带一串链接，如：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9Hni
+&lt;p&gt;在偶然中，我发现QQ邮箱的记事本附件自带一串链接，如：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://p.qlogo.cn/bizmail/Hvk43r7vHegM9LphQaG9
       
     
     </summary>
@@ -522,35 +550,6 @@
     
     
       <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020债券市场一周概览（0330-0403）</title>
-    <link href="https://www.nickyam.com/work/week-overview-of-bond-market-2020-04-03.html"/>
-    <id>https://www.nickyam.com/work/week-overview-of-bond-market-2020-04-03.html</id>
-    <published>2020-04-05T03:21:28.000Z</published>
-    <updated>2020-04-08T04:35:56.456Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>一、宏观市场操作及债市概况</strong></p><p>3月27日政治局会议以来，货币政策随即做出相应：</p><ul><li>3月30日，央行重启公开市场投放，进行500亿7天逆回购操作，同时下调7天回购招标利率20bp至2.2%；</li><li>4月3日，央行宣布对农信社、农商行、部分城商行等定向降准1个百分点，同时将超额存款准备金率从0.72%下调至0.35%；增加中小银行再贷款贴现额度1万亿元。</li></ul><p>3月30日-4月3日，本周信用债发行总规模1890.71亿，较前一周下降219.43亿元，新发券以AAA、AA+为主。信用债市场收益率全线下行，信用期限利差全线走扩。</p><p>浙江地区共发行短融中票43亿元，其中：中票5只、共35亿元，超短3只、共8亿元；发行人企业性质全部为央企及地方国企发行。发行清单请见附表。</p><p><strong>二、机构主要观点</strong></p><p><strong>1、华泰固收</strong></p><p>现阶段对市场的判断仍维持“货币宽松+财政积极=曲线陡峭”。在货币政策继续宽松的背景下，超储利率下调或打开市场利率的下限，十年国债利率有望挑战3月份低点2.5%，但2.5%之后，机构负债成本下行有限，市场缺少真正配置盘，市场不稳定性将增大。</p><p><strong>2、国泰君安固收</strong></p><p>现阶段对市场的判断是“曲线牛市陡峭”。对长端利率的担忧主要来自于“恐高”心理，虽然短期内难以见到曲线平坦化，但后续曲线牛平的契机仍然存在，例如CPI实际水平跌至3%以下、海外疫情迟迟未见底、8月存量贷款基准转换完毕后通过调整存款准备利率进一步引导银行负债成本下行等。</p><p><strong>3、中金固收</strong></p><p>现阶段对市场的判断仍维持“十年国债有望突破2.5%关口，甚至继续下行”。虽然在利率已经大幅走低的情况下，投资者对于利率品种的配置存在一定“谨慎追涨”的心理，但对未来较长一段时间，不排除利率长期保持低位的状态，最有利的投资策略是延长组合久期。</p><p><strong>4、中银证券</strong></p><p>现阶段对市场的判断是“需要谨慎利率债走势”。总需求的底部可能已经出现，并且3月长端收益率的下行已见疲软，如果基本面不能推动利率继续下降，那货币政策宽松所带来的的空间也相对有限，短时的货币政策只是基于未来不确定性所做的预防性宽松。短时利率快速反弹的条件尚不具备，但继续下行空间也同样不足。</p><p>附表：浙江地区信用债发行明细（0330-0405）</p><table><thead><tr><th>债券简称</th><th>发行人全称</th><th>发行规模(亿)</th><th>发行期限</th><th>主体评级</th><th>票面利率(%)</th><th>发行人企业性质</th><th>主承销商</th><th>债券类型</th></tr></thead><tbody><tr><td>20嘉兴城投MTN001</td><td>嘉兴市城市投资发展集团有限公司</td><td>10.00</td><td>3.00</td><td>AA+</td><td>3.14</td><td>地方国企</td><td>中信银行,招商银行</td><td>MTN</td></tr><tr><td>20义乌国资(疫情防控债)MTN002</td><td>义乌市国有资本运营有限公司</td><td>3.00</td><td>5.00</td><td>AA+</td><td>3.78</td><td>地方国企</td><td>中信建投证券,中国农业发展银行</td><td>MTN</td></tr><tr><td>20钱江水利SCP001</td><td>钱江水利开发股份有限公司</td><td>1.00</td><td>90D</td><td>AA</td><td>3.10</td><td>央企</td><td>杭州银行</td><td>SCP</td></tr><tr><td>20镜湖开发MTN001</td><td>绍兴市镜湖新区开发集团有限公司</td><td>10.00</td><td>3+2</td><td>AA+</td><td>3.56</td><td>地方国企</td><td>浦发银行,国信证券</td><td>MTN</td></tr><tr><td>20南方中金SCP001</td><td>南方中金环境股份有限公司</td><td>2.00</td><td>270D</td><td>AA</td><td>2.80</td><td>地方国企</td><td>江苏银行</td><td>SCP</td></tr><tr><td>20德清联创MTN001</td><td>德清联创科技新城建设有限公司</td><td>2.00</td><td>3+2</td><td>AA</td><td>5.80</td><td>地方国企</td><td>国信证券,杭州银行</td><td>MTN</td></tr><tr><td>20建德国资MTN001</td><td>建德市国有资产经营有限公司</td><td>10.00</td><td>3+2</td><td>AA</td><td>4.10</td><td>地方国企</td><td>光大银行</td><td>MTN</td></tr><tr><td>20建德国资SCP001</td><td>建德市国有资产经营有限公司</td><td>5.00</td><td>270D</td><td>AA</td><td>3.16</td><td>地方国企</td><td>民生银行</td><td>SCP</td></tr></tbody></table>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;一、宏观市场操作及债市概况&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;3月27日政治局会议以来，货币政策随即做出相应：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;3月30日，央行重启公开市场投放，进行500亿7天逆回购操作，同时下调7天回购招标利率20bp至2.2%；&lt;/li&gt;
-&lt;l
-      
-    
-    </summary>
-    
-      <category term="⓹工作" scheme="https://www.nickyam.com/categories/work/"/>
-    
-    
-      <category term="金融" scheme="https://www.nickyam.com/tags/finance/"/>
     
   </entry>
   
