@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2020-08-25T03:10:12.797Z</updated>
+  <updated>2020-08-26T00:28:35.820Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>为什么将博客取名为涯木笔谈？</title>
     <link href="https://www.nickyam.com/essay/why-called-yamubitan.html"/>
     <id>https://www.nickyam.com/essay/why-called-yamubitan.html</id>
-    <published>2020-08-25T03:01:25.000Z</published>
-    <updated>2020-08-25T03:10:12.797Z</updated>
+    <published>2020-08-26T00:17:25.000Z</published>
+    <updated>2020-08-26T00:28:35.820Z</updated>
     
     <content type="html"><![CDATA[<p>最近有朋友问我，为什么你的博客名是<strong>涯木笔谈</strong>，是否有什么特殊的含义。我想了想，决定将出处和考虑写出来，也作为留存记录。</p><p>首先得从我的英文名 Nick Yam 说起。 Yam 这个姓氏是我比较喜欢的，它结合了我父姓的香港拼法和我母姓的读音，如果将字母倒排就是 May 。这个单词是五月的意思，而五月又是我出生的月份。因此，虽然 Yam 是一个生僻且拗口的姓氏，却是我最为中意的姓氏。 Nick 与我的中文名是一样的辅音，也是学生时期用过的英文名，所以结合在一起 Nick Yam 就是我不二的英文名了。</p><p>2016年12月7日，我购买了 <a href="www.nickyam.com">www.nickyam.com</a> 的域名，搭建了 Hexo 博客。很长一段时间，我的博客名是 Nick Yam ，简单粗暴，但是在中文搜索引擎的体验并不好。</p><p>因此，我从域名出发，希望能用相似的汉字谐音为自己的博客重新命名。Yam 的谐音类似于 牙木，我的脑海中灵光一闪，就跳出了涯木这两个汉字。这两个字带给我的第一感受是“无边落木萧萧下，不尽长江滚滚来”，苍劲深远。</p><p>特别是“涯”这个字，出自是《庄子·养生主》的“吾生也有涯，而知也无涯“。人生是有限的，但知识是无限的。这个边界就是“涯”，希望“涯木”能成为我人生之涯的立木，坚守自己的一方灵魂净土；在我身后也能够变成一叶方舟，漂浮在无涯的知识海洋里，供后来人小憩。</p><p>我的博客没有确定的主题，只是在互联网上为自己发声，也希望能够用自己微薄的力量帮助网友。因此，就用比较传统的“笔谈”二字了。</p><p>同样的，我也开通了微信公众号：涯木说（YamTalk），欢迎大家关注！</p><p><img src="https://p.qlogo.cn/qqmail_head/PiajxSqBRaELTY2ohP2DJz484fUmkScDCpSKsCvXDtiakU6NummUHsHecR43CpB9YD0l4JfAorfR4/0" alt=""></p>]]></content>
     
@@ -491,9 +491,9 @@
       <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
     
     
-      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
-    
       <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
+    
+      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
     
   </entry>
   
@@ -518,9 +518,9 @@
       <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
     
     
-      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
-    
       <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
+    
+      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
     
   </entry>
   
