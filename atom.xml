@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2020-09-01T04:43:12.331Z</updated>
+  <updated>2020-09-01T05:14:46.098Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -17,20 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>“周鸿祎谈跟任正非之间差了无数个马云”之漫谈</title>
+    <title>周鸿祎谈跟任正非之间差了无数个马云之数学漫谈</title>
     <link href="https://www.nickyam.com/essay/zhouhongyi-talk-jackma.html"/>
     <id>https://www.nickyam.com/essay/zhouhongyi-talk-jackma.html</id>
     <published>2020-08-30T12:07:25.000Z</published>
-    <updated>2020-09-01T04:43:12.331Z</updated>
+    <updated>2020-09-01T05:14:46.098Z</updated>
     
-    <content type="html"><![CDATA[<p>近日，360董事长兼CEO周鸿祎在社交媒体上发布了一段视频，在视频中，周鸿祎谈到他跟任正非之间不知道差了多少个马云，跟马云中间也不知道差多少个任正非，这俩都是他的膜拜对象。</p><p>周鸿祎是笔者比较喜欢的一位大佬，看到这里，笔者很有兴趣：在周鸿祎眼中，到底是任正非更胜一筹还是Jack Ma分量更重呢？</p><p><img src="https://p.qlogo.cn/qqmail_head/eWTN6WBRGrjUnnFTEcBpm0PCGzQEgEJnlicgSfJBIxDDh5aOLQ5btenQ4uW4mIgrt/0" alt=""></p><p>其实，周鸿祎的话可以用下面的简单方程来表述：</p><p>方程1:<code>任正非-周鸿祎=n*马云</code></p><p>方程2:<code>马云-周鸿祎=n*任正非</code></p><p>方程1-方程2:<code>（任正非-马云）=（n-1）*（马云-任正非）</code></p><p>即：<code>n*（任正非-马云）=0</code></p><p>因为 n 必大于0 ，所以只能：<strong>任正非=马云</strong></p><p>这就是周鸿祎的高明之处，两位大佬谁也没得罪。</p><p>那么周鸿祎对自我的认识是多少分量呢？</p><p>将 <strong>任正非=马云</strong> 代入方程1或方程2，可得：</p><p><code>周鸿祎=（1-n）*任正非</code></p><p>如果 0<n<1 ,="" 则="" 周鸿祎="" 自我认知为任正非的一部分。="" 如果="" n="1" ，="" 自我认知为0。="">1 ， 则 周鸿祎 自我认知为负。</n<1></p><p>按照周鸿祎的语境，n应该是趋向于+∞，那么周鸿祎自己就是趋向于-∞，因此上述表述显得非常谦卑，在数学上也得到了证明。</p>]]></content>
+    <content type="html"><![CDATA[<p>近日，360董事长兼CEO周鸿祎在社交媒体上发布了一段视频，在视频中，周鸿祎谈到他跟任正非之间不知道差了多少个马云，跟马云中间也不知道差多少个任正非，这俩都是他的膜拜对象。</p><p>周鸿祎是笔者比较喜欢的一位大佬，看到这里的时候，笔者很有兴趣：在周鸿祎眼中，到底是任正非更胜一筹还是Jack Ma分量更重呢？</p><p><img src="https://p.qlogo.cn/qqmail_head/eWTN6WBRGrjUnnFTEcBpm0PCGzQEgEJnlicgSfJBIxDDh5aOLQ5btenQ4uW4mIgrt/0" alt=""></p><p>其实，周鸿祎的话可以用下面的简单方程来表述：</p><p>方程1:<code>任正非-周鸿祎=n*马云</code></p><p>方程2:<code>马云-周鸿祎=n*任正非</code></p><p>方程1-方程2:<code>（任正非-马云）=（n-1）*（马云-任正非）</code></p><p>即：<code>n*（任正非-马云）=0</code></p><p>因为 n 必大于0 ，所以只能：<strong>任正非=马云</strong></p><p><strong>这就是周鸿祎的高明之处，两位大佬谁也没得罪。</strong></p><p>那么周鸿祎对自我的认识是多少分量呢？</p><p>将 <strong>任正非=马云</strong> 代入方程1或方程2，可得：</p><p><code>周鸿祎=（1-n）*任正非</code></p><p>如果 0&lt; n &lt; 1 , 则 周鸿祎 自我认知为任正非的一部分。<br>如果 n=1 ， 则 周鸿祎 自我认知为0。<br>如果 n&gt;1 ， 则 周鸿祎 自我认知为负。</p><p>按照周鸿祎的语境，n应该是趋向于+∞，那么比较好玩的是周鸿祎自己就是趋向于-∞。</p><p>因此上述表述显得红衣教主非常谦卑，这一点在数学上也得到了证明。</p><p>视频链接如下：<a href="https://video.pearvideo.com/mp4/adshort/20200825/cont-1693695-15347406_adpkg-ad_hd.mp4" target="_blank" rel="external">https://video.pearvideo.com/mp4/adshort/20200825/cont-1693695-15347406_adpkg-ad_hd.mp4</a></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;近日，360董事长兼CEO周鸿祎在社交媒体上发布了一段视频，在视频中，周鸿祎谈到他跟任正非之间不知道差了多少个马云，跟马云中间也不知道差多少个任正非，这俩都是他的膜拜对象。&lt;/p&gt;
-&lt;p&gt;周鸿祎是笔者比较喜欢的一位大佬，看到这里，笔者很有兴趣：在周鸿祎眼中，到底是任正非更胜
+&lt;p&gt;周鸿祎是笔者比较喜欢的一位大佬，看到这里的时候，笔者很有兴趣：在周鸿祎眼中，到底是任正
       
     
     </summary>
@@ -517,9 +517,9 @@
       <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
     
     
-      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
-    
       <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
+    
+      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
     
   </entry>
   
@@ -544,9 +544,9 @@
       <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
     
     
-      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
-    
       <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
+    
+      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
     
   </entry>
   
