@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2020-10-27T04:32:10.156Z</updated>
+  <updated>2020-10-27T05:07:10.176Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Google Voice防回收的常规操作</title>
+    <link href="https://www.nickyam.com/tech/google-voice-ban.html"/>
+    <id>https://www.nickyam.com/tech/google-voice-ban.html</id>
+    <published>2020-10-22T14:13:05.000Z</published>
+    <updated>2020-10-27T05:07:10.176Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天收到 Google Voice 发来的邮件，提醒我因为一段时间没有使用， Google 号码将在30天后被回收。具体邮件如下：</p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYgqCbEEDhH9cVhfO9IlLOwdRrGic6iaibFvzqETAOLfoTvM/0" alt=""></p><p>我原来以为自己往里面充了10刀，能够一劳永逸地保证我的号码不被回收。结果查询了回收政策，发现自己还是太天真了，如果6个月不使用就会被收回。所以说好的资本主义保护个人私有财产呢，我的10刀怎么办？</p><p>不过既然在收回前（回收前30天和7天）会向我的邮箱发邮件提醒，所以只需要在回收前主动打电话和发短信就算使用。因为美国地区互拨电话是免费的，所以随便用一下就可以保号了。</p><p>以下列举Google Voice防回收常用的美国电话号码列表：</p><p>美国之声：+1 (213) 493-0288<br>Apple客服： +1 (800) 275-2273<br>微软客服：+1 (800) 642-7676<br>亚马逊客服：+1 (206) 266-2992</p><p>特别提示：+1长按手机上的0键即可出来，另外也可以用001代替。</p><p>希望23天以后我不会再收到Google Voice提醒回收账号的邮件。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天收到 Google Voice 发来的邮件，提醒我因为一段时间没有使用， Google 号码将在30天后被回收。具体邮件如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hD
+      
+    
+    </summary>
+    
+      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
+    
+    
+      <category term="谷歌" scheme="https://www.nickyam.com/tags/Google/"/>
+    
+  </entry>
   
   <entry>
     <title>腾讯微博之死</title>
@@ -519,35 +545,6 @@
     
     
       <category term="金融" scheme="https://www.nickyam.com/tags/finance/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Google Adsense 收到纸质 pin 码</title>
-    <link href="https://www.nickyam.com/tech/google-adsense-pin-received.html"/>
-    <id>https://www.nickyam.com/tech/google-adsense-pin-received.html</id>
-    <published>2020-06-01T13:15:13.000Z</published>
-    <updated>2020-06-26T00:04:36.235Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨天通过提交身份材料通过了Google Adsense的验证，睡了一个好觉。今天一大早路过信箱的时候发现里面静静地躺着一封平邮，封面上赫然印着Google的标识，内心一阵激动。</p><p>虽然从实际意义上来讲已经是过去时，但是依然值得记录和分享。</p><p>正面是这样的，纸张有所污损且有所折印，感觉这个平邮跨越了千山万水才到达我的手中。</p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYrvHHq4GH9qGy6PIGfJ5CBFXvDL0HFho4bR2ymAFOLibA/0" alt=""></p><p>翻到反面，看到这封平邮不是从疫情的震中美国寄来的，而是马来西亚，难怪还可以寄出来。</p><p><img src="https://raw.githubusercontent.com/nickyam/img/master/pics/IMG_3035.jpeg" alt=""></p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYrvHHq4GH9qHD5aW1upumofmsw9p8pOJYxSglEumXHyo/0" alt=""></p><p>至此，我的Google Adsense账号完满了，也祝在看这篇小记的你也一切顺利！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;昨天通过提交身份材料通过了Google Adsense的验证，睡了一个好觉。今天一大早路过信箱的时候发现里面静静地躺着一封平邮，封面上赫然印着Google的标识，内心一阵激动。&lt;/p&gt;
-&lt;p&gt;虽然从实际意义上来讲已经是过去时，但是依然值得记录和分享。&lt;/p&gt;
-&lt;p&gt;正面是这
-      
-    
-    </summary>
-    
-      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
-    
-      <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
     
   </entry>
   
