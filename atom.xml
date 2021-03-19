@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2021-02-06T15:56:00.843Z</updated>
+  <updated>2021-03-19T00:08:21.005Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>广发信用卡还款未到账之始末</title>
+    <link href="https://www.nickyam.com/other/%E5%B9%BF%E5%8F%91%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%BF%98%E6%AC%BE%E6%9C%AA%E5%88%B0%E8%B4%A6%E4%B9%8B%E5%A7%8B%E6%9C%AB.html"/>
+    <id>https://www.nickyam.com/other/广发信用卡还款未到账之始末.html</id>
+    <published>2021-03-18T13:10:01.000Z</published>
+    <updated>2021-03-19T00:08:21.005Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天偶然间刷到广发银行信用卡的APP，查看里面的账单，发现我前一天还款的额度没有恢复。我明明通过支付宝还款了，微信公众号昨天也显示了还款成功，额度恢复。结果今天一早发现，竟然倒退回去了。</p><p>我打电话给信用卡中心，得知因为之前信用卡新卡营销，我误开通了发哒钱包，我还进去的钱自动转到了发哒钱包这个二类电子账户去做理财了。虽然站在银行角度，这是一个创新产品，但对于我们用卡人来说实际体验很差。我明明主动还款了，你却暗戳戳地把钱从信用卡账户转到了理财账户，逻辑上是说不通的。</p><p>幸好我搞清楚了这个问题，在发哒钱包找到了失而复得的资金，重新进行了主动还款。</p><p>【后记】</p><p>3月19日一早，我又发现额度倒退回去了，显示我没有还款。广发银行信用卡还真是和我刚上了。我又一次主动还款，然后把提前还款理财那边关闭了。希望3月20日再来看的时候，能够清清爽爽不在扣钱。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天偶然间刷到广发银行信用卡的APP，查看里面的账单，发现我前一天还款的额度没有恢复。我明明通过支付宝还款了，微信公众号昨天也显示了还款成功，额度恢复。结果今天一早发现，竟然倒退回去了。&lt;/p&gt;
+&lt;p&gt;我打电话给信用卡中心，得知因为之前信用卡新卡营销，我误开通了发哒钱包，我
+      
+    
+    </summary>
+    
+      <category term="⓺其他" scheme="https://www.nickyam.com/categories/other/"/>
+    
+    
+      <category term="信用卡" scheme="https://www.nickyam.com/tags/CreditCard/"/>
+    
+  </entry>
   
   <entry>
     <title>特斯拉 Model 3 充电黑屏记录</title>
@@ -523,33 +549,6 @@
       <category term="思考" scheme="https://www.nickyam.com/tags/think/"/>
     
       <category term="历史" scheme="https://www.nickyam.com/tags/history/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何删除 Mac 的系统更新包？</title>
-    <link href="https://www.nickyam.com/tech/How-to-delete-MAC-system-update.html"/>
-    <id>https://www.nickyam.com/tech/How-to-delete-MAC-system-update.html</id>
-    <published>2020-08-08T02:15:08.000Z</published>
-    <updated>2020-08-09T15:20:59.317Z</updated>
-    
-    <content type="html"><![CDATA[<p>昨天苹果终于放出了 macOS 11 Big Sur 的首个公测版，所以晚上第一时间准备更新。然而更新包很大，下载就需要12G，正常安装的话需要腾出至少 60G 的空间。这真的是一件很扯的事情，完全没有考虑到128G硬盘用户的感受。考虑到之前更新 Catalina 的时候，明明存储空间尚有富余，但仍然更新失败的经历，这次我不再尝试。</p><p>可是，之前下载的系统更新占了12G的空间，如何把这一部分腾出呢？</p><p>其实很简单，只需要打开访达里的应用程序，里面就有 <strong>安装macOS Big Sur Beta版</strong>，大小为12.33G。直接删除即可。</p><p>同时，如果你不想再收到关于Beta版的更新，可以在关于本机-软件更新的界面左侧的详细情况中选择关闭。</p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYickicibK9bHAntLevhWKy2rc36RtdnJiap6GU8NuLHCMj2Y/0" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;昨天苹果终于放出了 macOS 11 Big Sur 的首个公测版，所以晚上第一时间准备更新。然而更新包很大，下载就需要12G，正常安装的话需要腾出至少 60G 的空间。这真的是一件很扯的事情，完全没有考虑到128G硬盘用户的感受。考虑到之前更新 Catalina 的时候，
-      
-    
-    </summary>
-    
-      <category term="⓶科技" scheme="https://www.nickyam.com/categories/tech/"/>
-    
-    
-      <category term="苹果" scheme="https://www.nickyam.com/tags/apple/"/>
-    
-      <category term="Mac" scheme="https://www.nickyam.com/tags/Mac/"/>
     
   </entry>
   
