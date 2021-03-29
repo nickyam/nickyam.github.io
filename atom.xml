@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2021-03-19T00:08:21.005Z</updated>
+  <updated>2021-03-29T04:31:16.832Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>GoDaddy域名迁移至阿里云</title>
+    <link href="https://www.nickyam.com/other/Godaddy%E5%9F%9F%E5%90%8D%E8%BF%81%E7%A7%BB%E8%87%B3%E9%98%BF%E9%87%8C%E4%BA%91.html"/>
+    <id>https://www.nickyam.com/other/Godaddy域名迁移至阿里云.html</id>
+    <published>2021-03-26T03:00:09.000Z</published>
+    <updated>2021-03-29T04:31:16.832Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近网站的点击量和转化率竟然有点抬头，导致我对网站运营有产生了一定的兴趣。因为对于域名的喜欢，以及对长期运营的坚守，我准备去GoDaddy续费，结果发现续费一年需要115元，而且没有优惠折扣。想到近期国外围追堵截中国，对新疆棉花大肆造谣的场景，我觉得自己还是需要把珍惜的东西放在国内，所以临时起意，决定把域名转回国内。</p><p>这不是我第一次想把域名转回国内了，之前因为考虑到备案的问题，最终放弃。这次详细了解以后才知道，对于个人网站来说，如果服务器是在国外，那么域名只需要实名制就可以，无需强制备案。另外，我还发现，阿里云的续费更加便宜，只需要69元，加上优惠券更加便宜，低至49元。</p><p>说干就干，具体步骤如下：</p><ol><li><p>首先登陆Godaddy账号，找到要转移到域名点击“Domain Settings”：</p></li><li><p>把页面拖到下面，找到其他设置，将域名锁定关闭（默认一般是打开的，而锁住的状态是转不出去的）</p></li><li><p>编辑关闭域名锁定，刷新页面后，域名锁定状态更新为关闭。就可以点击右侧的从Godaddy转出域名。</p></li><li><p>跳转页面看到域名转移授权码，系统也会发邮件到你的邮箱。</p></li><li><p>切到阿里云的后台，找到域名-域名转入-我要转入域名。</p></li><li><p>如果是第一次，还需要完成阿里云的实名认证，按照阿里云的流程填写资料人脸识别等操作，等待审核通过。笔者是凌晨操作的，结果没等睡下就通过了。</p></li><li><p>输入域名和正确的转移授权密码，以空格间隔。</p></li><li><p>阿里云会检查域名是否正常，是否锁定，一切正常之后支付转移费用给阿里云，同时也是一年的费用（.com是49元），就可以继续转移。</p></li><li><p>完成之后，域名不会立马过来，还需到Godaddy去确认转移域名。</p></li></ol><p>上述操作完成后，迁移成功。本来我还以为需要重新设置解析，结果并不需要，网站依然能够流畅地访问。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近网站的点击量和转化率竟然有点抬头，导致我对网站运营有产生了一定的兴趣。因为对于域名的喜欢，以及对长期运营的坚守，我准备去GoDaddy续费，结果发现续费一年需要115元，而且没有优惠折扣。想到近期国外围追堵截中国，对新疆棉花大肆造谣的场景，我觉得自己还是需要把珍惜的东西
+      
+    
+    </summary>
+    
+      <category term="⓺其他" scheme="https://www.nickyam.com/categories/other/"/>
+    
+    
+      <category term="网络" scheme="https://www.nickyam.com/tags/net/"/>
+    
+  </entry>
+  
+  <entry>
     <title>广发信用卡还款未到账之始末</title>
     <link href="https://www.nickyam.com/other/%E5%B9%BF%E5%8F%91%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%BF%98%E6%AC%BE%E6%9C%AA%E5%88%B0%E8%B4%A6%E4%B9%8B%E5%A7%8B%E6%9C%AB.html"/>
     <id>https://www.nickyam.com/other/广发信用卡还款未到账之始末.html</id>
     <published>2021-03-18T13:10:01.000Z</published>
-    <updated>2021-03-19T00:08:21.005Z</updated>
+    <updated>2021-03-19T00:14:10.758Z</updated>
     
-    <content type="html"><![CDATA[<p>今天偶然间刷到广发银行信用卡的APP，查看里面的账单，发现我前一天还款的额度没有恢复。我明明通过支付宝还款了，微信公众号昨天也显示了还款成功，额度恢复。结果今天一早发现，竟然倒退回去了。</p><p>我打电话给信用卡中心，得知因为之前信用卡新卡营销，我误开通了发哒钱包，我还进去的钱自动转到了发哒钱包这个二类电子账户去做理财了。虽然站在银行角度，这是一个创新产品，但对于我们用卡人来说实际体验很差。我明明主动还款了，你却暗戳戳地把钱从信用卡账户转到了理财账户，逻辑上是说不通的。</p><p>幸好我搞清楚了这个问题，在发哒钱包找到了失而复得的资金，重新进行了主动还款。</p><p>【后记】</p><p>3月19日一早，我又发现额度倒退回去了，显示我没有还款。广发银行信用卡还真是和我刚上了。我又一次主动还款，然后把提前还款理财那边关闭了。希望3月20日再来看的时候，能够清清爽爽不在扣钱。</p>]]></content>
+    <content type="html"><![CDATA[<p>今天偶然间刷到广发银行信用卡的APP，查看里面的账单，发现我前一天还款的额度没有恢复。我明明通过支付宝还款了，微信公众号昨天也显示了还款成功，额度恢复。结果今天一早发现，竟然倒退回去了。</p><p>我打电话给信用卡中心，得知因为之前信用卡新卡营销，我误开通了发哒钱包，我还进去的钱自动转到了发哒钱包这个二类电子账户去做理财了。虽然站在银行角度，这是一个创新产品，但对于我们用卡人来说实际体验很差。我明明主动还款了，你却暗戳戳地把钱从信用卡账户转到了理财账户，逻辑上是说不通的。</p><p>幸好我搞清楚了这个问题，在发哒钱包找到了失而复得的资金，重新进行了主动还款。</p><p>【后记】</p><p>3月19日一早，我又发现额度倒退回去了，显示我没有还款。广发银行信用卡还真是和我刚上了。我又一次主动还款，然后把提前还款理财那边关闭了。希望3月20日再来看的时候，能够清清爽爽不再扣钱。</p>]]></content>
     
     <summary type="html">
     
@@ -521,34 +546,6 @@
     
     
       <category term="金融" scheme="https://www.nickyam.com/tags/finance/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>微吾大统领，尔其学中文乎</title>
-    <link href="https://www.nickyam.com/essay/u-have-to-learn-chinese.html"/>
-    <id>https://www.nickyam.com/essay/u-have-to-learn-chinese.html</id>
-    <published>2020-08-12T12:11:45.000Z</published>
-    <updated>2020-08-16T13:56:18.053Z</updated>
-    
-    <content type="html"><![CDATA[<p>据CNN报道，美国总统特朗普8月11日接受保守派电台主持人Hugh Hewitt采访时，特别用了第三人称的说法谈论起自己:</p><p><strong>China will own the United States if this election is lost by Donald Trump. If I don’t win the election, China will own the United States. You’re going to have to learn to speak Chinese.</strong></p><p>翻译过来就是：</p><p><strong>如果这次选举唐纳德·特朗普输了，中国将拥有美国。如果我没有赢得选举，中国将拥有美国。你们会不得不学习讲中文。</strong></p><p><img src="https://p.qlogo.cn/qqmail_head/LHdtlaBo22dMIibiaVv80hDLm5Ala1UFzYy3jzZrk7HXtbWy6lE2iak8xic7T9qdnFBicn9u3TtNLKas/0" alt=""></p><p>之前特朗普也讲过，如果没有我的话，美国会死上百万人。所以这是大统领的标准话术。既然大统领提到了中文，我们就再用文言文来翻一下。</p><ol><li><p>微吾大统领，尔其学中文乎？</p></li><li><p>微川普，尔其习汉乎？</p></li></ol><p>类似的文言结构，在《左传》、《论语》和《岳阳楼记》都有我们比较熟悉的例子。</p><p>《左传·昭公·昭公元年》刘定公有言：</p><blockquote><p>美哉禹功，明德远矣。<strong>微禹，吾其鱼乎</strong>！  </p></blockquote><p>翻译成白话文：<strong>禹的功劳实在太伟大了,他给人类的遗惠影响深远。假如没有禹,我们早成为鱼虾了。</strong></p><p>《论语·宪问篇》子曰：</p><blockquote><p>管仲相桓公，霸诸侯，一匡天下，民到于今受其赐。<strong>微管仲，吾其被发左衽矣</strong>。</p></blockquote><p>翻译成白话文：管仲辅佐桓公，称霸诸侯，匡正了天下，百姓到现在还蒙受他的恩赐。如果没有管仲的话，我大概就披散着头发、穿着左边开口的夷狄之服了吧。</p><p>《岳阳楼记》 范仲淹写到：</p><blockquote><p>微斯人，吾谁与归？</p></blockquote><p>虽然大统领口口声声说没有他，美国人就要准备学中文了。但自己已经熟读中华典籍，引经据典信手拈来。因此川建国实锤了，文化底蕴出卖了他。</p><p>玩笑归玩笑，其实大统领作为一个精明的商人和媒体人，在这个语境里使用的是降维对话，用非常浅显和形象的方式渲染中国的威胁。</p><p>对于大统领的基本盘红脖子美国人来说，把汉字纹在身上可以作为一种漂亮的图案，然而万万无法接受将它们刻在脑子里作为交流工具，可以说学中文的可怕程度比病毒也有过之无不及。</p><p>大统领把中国的威胁具象成了复杂的汉字，听到这句话的时候，美国人想到的是如洪水猛兽一般扑面而来的方块汉字，无形中暗示了中国是一个与西方社会完全不同的文明，增强了民众对中国的抵触心理。</p><p>在十一月美国大选之前，大统领可能还将抛出更多中国牌，或许更加荒诞，下次可能会说：</p><blockquote><p>如果我没有赢得选举，中国将拥有美国。你们将不能吃汉堡可乐，只能吃中餐。</p></blockquote><p>但是就如这一话术一样，都是我们老祖宗玩剩下的，我们要有足够的定力和自信，只要自己阵脚不乱，用时间换取空间，最终的胜利一定属于我们！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;据CNN报道，美国总统特朗普8月11日接受保守派电台主持人Hugh Hewitt采访时，特别用了第三人称的说法谈论起自己:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;China will own the United States if this election is lost by
-      
-    
-    </summary>
-    
-      <category term="⓵随笔" scheme="https://www.nickyam.com/categories/essay/"/>
-    
-    
-      <category term="思考" scheme="https://www.nickyam.com/tags/think/"/>
-    
-      <category term="历史" scheme="https://www.nickyam.com/tags/history/"/>
     
   </entry>
   
