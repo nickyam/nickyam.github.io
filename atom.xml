@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nickyam.com/"/>
-  <updated>2021-03-29T04:31:16.832Z</updated>
+  <updated>2021-05-01T16:10:28.596Z</updated>
   <id>https://www.nickyam.com/</id>
   
   <author>
@@ -17,19 +17,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>GoDaddy域名迁移至阿里云</title>
-    <link href="https://www.nickyam.com/other/Godaddy%E5%9F%9F%E5%90%8D%E8%BF%81%E7%A7%BB%E8%87%B3%E9%98%BF%E9%87%8C%E4%BA%91.html"/>
-    <id>https://www.nickyam.com/other/Godaddy域名迁移至阿里云.html</id>
-    <published>2021-03-26T03:00:09.000Z</published>
-    <updated>2021-03-29T04:31:16.832Z</updated>
+    <title>上虞实验中学20年校庆寄语</title>
+    <link href="https://www.nickyam.com/essay/20-school-anniversary-of-shiyan.html"/>
+    <id>https://www.nickyam.com/essay/20-school-anniversary-of-shiyan.html</id>
+    <published>2021-04-30T13:07:19.000Z</published>
+    <updated>2021-05-01T16:10:28.596Z</updated>
     
-    <content type="html"><![CDATA[<p>最近网站的点击量和转化率竟然有点抬头，导致我对网站运营有产生了一定的兴趣。因为对于域名的喜欢，以及对长期运营的坚守，我准备去GoDaddy续费，结果发现续费一年需要115元，而且没有优惠折扣。想到近期国外围追堵截中国，对新疆棉花大肆造谣的场景，我觉得自己还是需要把珍惜的东西放在国内，所以临时起意，决定把域名转回国内。</p><p>这不是我第一次想把域名转回国内了，之前因为考虑到备案的问题，最终放弃。这次详细了解以后才知道，对于个人网站来说，如果服务器是在国外，那么域名只需要实名制就可以，无需强制备案。另外，我还发现，阿里云的续费更加便宜，只需要69元，加上优惠券更加便宜，低至49元。</p><p>说干就干，具体步骤如下：</p><ol><li><p>首先登陆Godaddy账号，找到要转移到域名点击“Domain Settings”：</p></li><li><p>把页面拖到下面，找到其他设置，将域名锁定关闭（默认一般是打开的，而锁住的状态是转不出去的）</p></li><li><p>编辑关闭域名锁定，刷新页面后，域名锁定状态更新为关闭。就可以点击右侧的从Godaddy转出域名。</p></li><li><p>跳转页面看到域名转移授权码，系统也会发邮件到你的邮箱。</p></li><li><p>切到阿里云的后台，找到域名-域名转入-我要转入域名。</p></li><li><p>如果是第一次，还需要完成阿里云的实名认证，按照阿里云的流程填写资料人脸识别等操作，等待审核通过。笔者是凌晨操作的，结果没等睡下就通过了。</p></li><li><p>输入域名和正确的转移授权密码，以空格间隔。</p></li><li><p>阿里云会检查域名是否正常，是否锁定，一切正常之后支付转移费用给阿里云，同时也是一年的费用（.com是49元），就可以继续转移。</p></li><li><p>完成之后，域名不会立马过来，还需到Godaddy去确认转移域名。</p></li></ol><p>上述操作完成后，迁移成功。本来我还以为需要重新设置解析，结果并不需要，网站依然能够流畅地访问。</p>]]></content>
+    <content type="html"><![CDATA[<p>前些日子（4月11日），初中同学李史玮把我拉到了一个班级群，里面有班主任何老师。我们已经很久没有联系。4月20号的时候，我碰巧去看她的朋友圈，发现她还保存着我高中时候给她写的信和明信片，心情也很激动，就加了她的微信。</p><p>下班的时候，我开车在路上，跳出来她的消息，说是推荐我作为初中母校校庆的学生代表，让我填写对校庆的建议和寄语。上虞实验中学，原来是上虞中学的初中部，2001年4月才成立，而我是2002年入校，所以也算是老校友了。</p><p>回到家，我略作思考，写下如下文字，表达我对母校的情感：</p><blockquote><p>廿载风雨兼程，<br>廿载青春如歌。<br>忆往昔，岁月峥嵘，严师挚友；<br>看今朝，校园如画，桃李满天；<br>展未来，后浪辈出，继往开来。<br>感念师恩,<br>向亲爱的母校和敬爱的恩师们<br>致以最诚挚的祝福！  </p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;最近网站的点击量和转化率竟然有点抬头，导致我对网站运营有产生了一定的兴趣。因为对于域名的喜欢，以及对长期运营的坚守，我准备去GoDaddy续费，结果发现续费一年需要115元，而且没有优惠折扣。想到近期国外围追堵截中国，对新疆棉花大肆造谣的场景，我觉得自己还是需要把珍惜的东西
+        &lt;p&gt;前些日子（4月11日），初中同学李史玮把我拉到了一个班级群，里面有班主任何老师。我们已经很久没有联系。4月20号的时候，我碰巧去看她的朋友圈，发现她还保存着我高中时候给她写的信和明信片，心情也很激动，就加了她的微信。&lt;/p&gt;
+&lt;p&gt;下班的时候，我开车在路上，跳出来她的消息，
+      
+    
+    </summary>
+    
+      <category term="⓵随笔" scheme="https://www.nickyam.com/categories/essay/"/>
+    
+    
+      <category term="记录" scheme="https://www.nickyam.com/tags/mark/"/>
+    
+      <category term="情感" scheme="https://www.nickyam.com/tags/emotion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GoDaddy域名迁移至阿里云</title>
+    <link href="https://www.nickyam.com/other/Godaddy%E5%9F%9F%E5%90%8D%E8%BF%81%E7%A7%BB%E8%87%B3%E9%98%BF%E9%87%8C%E4%BA%91.html"/>
+    <id>https://www.nickyam.com/other/Godaddy域名迁移至阿里云.html</id>
+    <published>2021-03-26T03:00:09.000Z</published>
+    <updated>2021-03-29T04:41:58.431Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近网站的点击量和转化率竟然有点抬头，导致我对网站运营又产生了一定的兴趣。因为对于现有域名的喜欢，以及对长期运营网站的坚守，我准备去GoDaddy为我的域名 <a href="https://www.nickyam.com/other/Godaddy域名迁移至阿里云.html">www.nickyam.com</a> 续费，结果发现续费一年需要115元，而且没有优惠折扣。而国内的阿里云续费明显要便宜很多。另外，想到近期国外围追堵截中国，对新疆棉花大肆造谣的场景，我觉得自己还是需要把珍惜的东西放在国内，所以临时起意，决定把域名转回国内。</p><p>其实，这并不是我第一次想把域名转回国内了，之前因为考虑到备案的问题，最终放弃。这次详细了解以后才知道，对于个人网站来说，如果服务器是在国外，那么域名只需要实名制就可以，无需强制备案。另外，我还发现，阿里云的续费更加便宜，只需要69元，加上优惠券更加便宜，低至49元。</p><p>说干就干，具体步骤如下：</p><ol><li><p>首先登陆Godaddy账号，找到要转移到域名点击“Domain Settings”：</p></li><li><p>把页面拖到下面，找到其他设置，将域名锁定关闭（默认一般是打开的，而锁住的状态是转不出去的）</p></li><li><p>编辑关闭域名锁定，刷新页面后，域名锁定状态更新为关闭。就可以点击右侧的从Godaddy转出域名。</p></li><li><p>跳转页面看到域名转移授权码，系统也会发邮件到你的邮箱。</p></li><li><p>切到阿里云的后台，找到域名-域名转入-我要转入域名。</p></li><li><p>如果是第一次，还需要完成阿里云的实名认证，按照阿里云的流程填写资料人脸识别等操作，等待审核通过。笔者是凌晨操作的，结果没等睡下就通过了。</p></li><li><p>输入域名和正确的转移授权密码，以空格间隔。</p></li><li><p>阿里云会检查域名是否正常，是否锁定，一切正常之后支付转移费用给阿里云，同时也是一年的费用（.com是49元），就可以继续转移。</p></li><li><p>完成之后，域名不会立马过来，还需到Godaddy去确认转移域名。</p></li></ol><p>上述操作完成后，迁移成功。本来我还以为需要重新设置解析，结果并不需要，网站依然能够流畅地访问。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近网站的点击量和转化率竟然有点抬头，导致我对网站运营又产生了一定的兴趣。因为对于现有域名的喜欢，以及对长期运营网站的坚守，我准备去GoDaddy为我的域名 &lt;a href=&quot;https://www.nickyam.com/other/Godaddy域名迁移至阿里云.htm
       
     
     </summary>
@@ -521,31 +549,6 @@
     
     
       <category term="转载" scheme="https://www.nickyam.com/tags/reprint/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>民生银行手机银行LPR利率转换失效</title>
-    <link href="https://www.nickyam.com/work/LPR-loan-interest-rate-conversion-of-minsheng-bank.html"/>
-    <id>https://www.nickyam.com/work/LPR-loan-interest-rate-conversion-of-minsheng-bank.html</id>
-    <published>2020-08-24T06:30:05.000Z</published>
-    <updated>2020-08-24T10:35:07.209Z</updated>
-    
-    <content type="html"><![CDATA[<p>临近八月末，房贷的LPR转换即将结束。基于笔者年初的时候写的<a href="https://www.nickyam.com/work/LPR-loan-interest-rate-conversion.html">《存量浮动利率贷款挂钩LPR政策及利率转换解读》</a>和<a href="https://www.nickyam.com/work/talk-about-lpr-again.html">《再谈房贷利率选择》</a>，笔者打算8月20日之后在手机银行上操作转换，并锁定转换日当月，也就是这个8月作为重定价日，因为8月份相对来说资金价格是比较低的。</p><p>今天打开民生银行APP进行操作，进入“贷款—LPR利率转换”，赫然显示“您暂无贷款信息”。第一时间联系APP的客服，对方回答是从7月中旬开始，民生银行后台已经将贷款默认批量转换成LPR利率了。</p><p>前几天新闻上说，工农中建交五大行通知说8月25日开始批量转换LPR，没想到民生银行批量化操作这么早，不愧是小银行。如果这么一刀切的搞法，建议3月份的时候民生银行就应该全部批量化转换完成，客户如果不愿意转换的，再个别去网点处理即可。</p><p>在民生银行这个骚操作下，我想把8月份作为重定价日的计划泡汤了。相比而言，五大行在8月25日才批量处理，充分尊重了客户的选择，以后我还是会更相信国有大银行一些。</p><p>另外，虽然理论上批量转换LPR了，但是我在APP找了半天，依然没有看到有任何转换成功的标识和通知，也没有相关的电子协议。我打电话给95568，对方无法查询确认我的房贷LPR转换是否成功，只给了我相关支行个贷电话号码。我给支行客户经理电话确认，请他帮忙查询，但对方表示也无法查询。</p><p>所以我只能默认自己LPR转换成功了。或者说，对于我这个选择困难症患者，民生银行给了我听天由命的机会！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;临近八月末，房贷的LPR转换即将结束。基于笔者年初的时候写的&lt;a href=&quot;https://www.nickyam.com/work/LPR-loan-interest-rate-conversion.html&quot;&gt;《存量浮动利率贷款挂钩LPR政策及利率转换解读》&lt;/a&gt;和
-      
-    
-    </summary>
-    
-      <category term="⓹工作" scheme="https://www.nickyam.com/categories/work/"/>
-    
-    
-      <category term="金融" scheme="https://www.nickyam.com/tags/finance/"/>
     
   </entry>
   
