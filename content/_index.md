@@ -15,7 +15,7 @@ sitemap:
       <p class="vp-hero-text">生也有涯，知也无涯</p>
       <p class="vp-hero-tagline">斜杠青年｜人间清醒｜工具控</p>
       <div class="vp-hero-actions">
-        <a class="vp-hero-action brand" href="http://localhost:1313/blog/apple-us-account-share/">🍎 苹果账号</a>
+        <a class="vp-hero-action brand" href="/blog/apple-us-account-share/">🍎 苹果账号</a>
         <a class="vp-hero-action alt" href="/tags/vpn/">📝 科学上网</a>
       </div>
     </div>
@@ -28,7 +28,7 @@ sitemap:
 
   <section class="vp-features">
     <div class="vp-features-items">
-      <a class="vp-feature" href="http://localhost:1313/blog/apple-us-account-share/">
+      <a class="vp-feature" href="/blog/apple-us-account-share/">
         <div class="vp-feature-icon">🍎</div>
         <h2 class="vp-feature-title">Apple账号</h2>
         <p class="vp-feature-details">共享美区日区台湾账号服务，供学习研究</p>
