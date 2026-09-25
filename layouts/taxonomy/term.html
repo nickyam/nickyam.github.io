@@ -8,7 +8,7 @@
             <h1>{{ $displayName }}</h1>
             <div class="taxonomy-list">
               <ul>
-              {{- range .Pages.ByTitle -}}
+              {{- range .Pages.ByDate.Reverse -}}
                 <li>
                   <a href="{{ .RelPermalink }}" class="taxonomy-term-link">{{ .Title }}</a>
                   {{- if .Params.date }}<span class="taxonomy-date">{{ .Date.Format "2006-01-02" }}</span>{{ end -}}
