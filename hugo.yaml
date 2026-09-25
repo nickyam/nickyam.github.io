@@ -1,6 +1,6 @@
 # Hugo configuration file
 title: 涯木
-baseURL: "https://nickyam.github.io"
+baseURL: "https://nickyam.com"
 
 # 重建时清空 public/ 中不再由内容生成的旧文件(如删除/改名的分类、标签页)，
 # 避免线上残留死页。2026-09-24 加入。
