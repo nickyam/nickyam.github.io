@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8">
+      <main id="content" class="hx:w-full hx:min-w-0 hextra-max-content-width hx:px-6 hx:pt-4 hx:md:px-12">
+        <div class="content">
+            <div class="tag-cloud">
+              {{- $tagMap := dict "wechat-robot" "微信公众号" "vercel" "Vercel" "spark-ai" "星火大模型" "apple-id" "Apple ID" "us-account" "美区账号" -}}
+              {{- range .Pages.ByTitle -}}
+                {{- $displayName := index $tagMap (.Title | lower) | default .Title -}}
+                <a href="{{ .RelPermalink }}" class="tag-badge">{{ $displayName }}<span class="tag-count">({{ len .Pages }})</span></a>
+              {{- end -}}
+            </div>
+        </div>
+        {{- if (site.Params.page.displayPagination | default true) -}}
+          {{- partial "components/pager.html" . -}}
+        {{- end -}}
+      </main>
+    </article>
+  </div>
+{{ end }}

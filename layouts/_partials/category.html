@@ -1,0 +1,19 @@
+{{- /* Post category chips, mirroring the tags chip style. Caller wraps as needed.
+       The link target is the term's real permalink: categories carry an English
+       `url` in content/categories/<zh>/_index.md, so building the href by
+       appending the Chinese name ("/categories/<zh>/") yields a 404. */ -}}
+{{- $ctx := .context -}}
+{{- with $ctx.Params.categories -}}
+  {{- $taxo := $ctx.Site.Taxonomies.categories -}}
+  {{- range $i, $cat := . -}}
+    {{- if $i -}}<span class="article-tag-sep">,&nbsp;</span>{{ end -}}
+    {{- $key := $cat | lower -}}
+    {{- $termUrl := "" -}}
+    {{- range $k, $v := $taxo -}}{{ if eq $k $key }}{{ $termUrl = $v.Page.RelPermalink }}{{ end }}{{ end -}}
+    {{- if $termUrl -}}
+      <a class="article-tag" href="{{ $termUrl }}">{{ $cat }}</a>
+    {{- else -}}
+      <span class="article-tag">{{ $cat }}</span>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

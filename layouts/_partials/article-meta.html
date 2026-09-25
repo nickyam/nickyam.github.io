@@ -1,0 +1,41 @@
+{{- if or .Params.date .Params.tags .ReadingTime -}}
+<div class="article-meta">
+  {{- if .Params.date -}}
+  <span class="article-meta-item article-meta-date">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+    {{ .Params.date.Format "2006-01-02" }}
+  </span>
+  {{- end -}}
+  {{- if .ReadingTime -}}
+  <span class="article-meta-item article-meta-reading">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+    {{ .ReadingTime }} 分钟
+  </span>
+  {{- end -}}
+  {{- if .Params.categories -}}
+  <span class="article-meta-item article-meta-category">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+    {{- partial "category.html" (dict "context" .) -}}
+  </span>
+  {{- end -}}
+  {{- if .Params.tags -}}
+  <span class="article-meta-item article-meta-tags">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
+      {{- $tagMap := dict "wechat-robot" "微信公众号" "vercel" "Vercel" "spark-ai" "星火大模型" "apple-id" "Apple ID" "us-account" "美区账号" "apple" "Apple" "ios" "iOS" "crypto" "加密货币" "okx" "OKX" "web" "Web" "adsense" "AdSense" "search" "搜索" "copyright" "版权" "homepage" "首页" "images" "图片" "mkdocs" "MkDocs" -}}
+      {{- $taxo := $.Site.Taxonomies.tags -}}
+      {{- range $i, $tag := .Params.tags -}}
+        {{- if $i -}}<span class="article-tag-sep">,&nbsp;</span>{{ end -}}
+        {{- $tagDisplay := index $tagMap $tag | default $tag -}}
+        {{- $key := $tag | lower -}}
+        {{- $termUrl := "" -}}
+        {{- range $k, $v := $taxo -}}{{ if eq $k $key }}{{ $termUrl = $v.Page.RelPermalink }}{{ end }}{{ end -}}
+        {{- if $termUrl -}}
+          <a class="article-tag" href="{{ $termUrl }}">{{ $tagDisplay }}</a>
+        {{- else -}}
+          <span class="article-tag">{{ $tagDisplay }}</span>
+        {{- end -}}
+      {{- end -}}{{/* end tags loop */}}
+  </span>
+  {{- end -}}
+</div>
+{{- end -}}
