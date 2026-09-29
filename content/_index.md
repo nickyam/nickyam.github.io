@@ -30,7 +30,7 @@ sitemap:
     <div class="vp-features-items">
       <a class="vp-feature" href="/blog/apple-us-account-share/">
         <div class="vp-feature-icon">🍎</div>
-        <h2 class="vp-feature-title">Apple账号</h2>
+        <h2 class="vp-feature-title">Apple 账号</h2>
         <p class="vp-feature-details">共享美区日区台湾账号服务，供学习研究</p>
       </a>
       <a class="vp-feature" href="https://yun.nickyam.com" target="_blank" rel="noreferrer">
