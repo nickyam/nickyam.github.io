@@ -33,7 +33,7 @@ sitemap:
         <h2 class="vp-feature-title">Apple账号</h2>
         <p class="vp-feature-details">共享美区日区台湾账号服务，供学习研究</p>
       </a>
-      <a class="vp-feature" href="https://img.nickyam.com" target="_blank" rel="noreferrer">
+      <a class="vp-feature" href="https://yun.nickyam.com" target="_blank" rel="noreferrer">
         <div class="vp-feature-icon">🎨</div>
         <h2 class="vp-feature-title">个人图床</h2>
         <p class="vp-feature-details">无需注册登陆、无容量限制、可上传视频</p>

@@ -31,7 +31,7 @@ type: about
 > - 2020-2022年，大疫三年，网站也有所荒废。
 > - 2023年8月22日，收获第一笔 Adsense 付款。
 > - 2023年12月，入坑 `VitePress` ，作为我的主站，首页罗列本年搭建的其他子站：  
-    [个人图床](https://img.nickyam.com) | [Notion](https://i.nickyam.com) 
+    [个人图床](https://yun.nickyam.com) | [Notion](https://i.nickyam.com) 
 
 [1]:	http://blog.sina.com.cn/u/1398151707
 [2]:	http://renning.blogspot.com
